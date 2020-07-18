@@ -1,0 +1,35 @@
+# Jqwik
+.jqwik-*
+
+# Gradle
+.gradle
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Eclipse
+.classpath
+.settings/
+.project
+bin/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+*.uml
+.shelf
+.idea/
+out/
+
+# Misc
+*.log
+*.graphml
+
+# Mac
+.DS_Store
+
+# Jekyll
+/docs/_site
+/docs/Gemfile.lock
