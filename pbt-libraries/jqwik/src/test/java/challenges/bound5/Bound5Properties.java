@@ -1,13 +1,16 @@
-package bound5;
+package challenges.bound5;
 
 import java.util.*;
 
+import challenges.CountEvaluations;
 import net.jqwik.api.*;
 import net.jqwik.api.arbitraries.ListArbitrary;
+import net.jqwik.api.lifecycle.AddLifecycleHook;
 
 import static org.assertj.core.api.Assertions.*;
 
 @Label("Bound 5")
+@AddLifecycleHook(CountEvaluations.class)
 class Bound5Properties {
 
 	@Property
