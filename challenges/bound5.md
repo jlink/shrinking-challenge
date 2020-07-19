@@ -8,6 +8,11 @@ to less than 256, then the sum of all the values in the lists is less than
 5 * 256. This is false because of overflow. e.g.
 `([-20000], [-20000], [], [], [])` is a counter-example.
 
+The interesting thing about this example is the interdependence between separate parts of the sample data.
+A single list in the tuple will never break the invariant, but you need at least two lists together.
+This prevents most of trivial shrinking algorithms from getting close to a minimum example,
+which would look somethink like `([-32768], [-1], [], [], [])`.
+
 ## Implementors
 
 - [jqwik: Bound 5](/pbt-libraries/jqwik/src/test/java/challenges/bound5/Bound5Properties.java)
