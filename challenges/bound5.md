@@ -16,3 +16,4 @@ which would look somethink like `([-32768], [-1], [], [], [])`.
 ## Implementors
 
 - [jqwik: Bound 5](/pbt-libraries/jqwik/src/test/java/challenges/bound5/Bound5Properties.java)
+- [hypothesis: Bound 5](/pbt-libraries/hypothesis/challenges/bound5.py)

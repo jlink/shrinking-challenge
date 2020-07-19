@@ -37,3 +37,4 @@ which contains the code and data relevant to
 ## PBT Libraries and Frameworks
 
 - [jqwik](/pbt-libraries/jqwik/README.md)
+- [hypothesis](/pbt-libraries/hypothesis/README.md)
