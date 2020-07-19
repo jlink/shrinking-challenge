@@ -10,4 +10,4 @@ to less than 256, then the sum of all the values in the lists is less than
 
 ## Implementors
 
-- [jqwik: Bound 5](/pbt-libraries/src/test/java/challenges/bound5/Bound5Properties.java)
+- [jqwik: Bound 5](/pbt-libraries/jqwik/src/test/java/challenges/bound5/Bound5Properties.java)

@@ -12,4 +12,4 @@ which means that all constraints from value generation are also considered durin
 
 ## Implemented Challenges
 
-- [bound5](/pbt-libraries/src/test/java/challenges/bound5/Bound5Properties.java)
+- [bound5](/pbt-libraries/jqwik/src/test/java/challenges/bound5/Bound5Properties.java)
