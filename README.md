@@ -26,7 +26,10 @@ _tbd_
 
 ## Challenges
 
-The current challenges were stolen from https://github.com/mc-imperial/hypothesis-ecoop-2020-artifact/tree/master/smartcheck-benchmarks.
+The current challenges were stolen from 
+[this repository](https://github.com/mc-imperial/hypothesis-ecoop-2020-artifact/tree/master/smartcheck-benchmarks),
+which contains the code and data relevant to 
+[this paper](https://drmaciver.github.io/papers/reduction-via-generation-preview.pdf).
 
 - [bound5](/challenges/bound5.md)
 
