@@ -11,7 +11,9 @@ public class CountEvaluations implements AroundTryHook, AroundPropertyHook {
 	public PropertyExecutionResult aroundProperty(PropertyLifecycleContext context, PropertyExecutor property) {
 		Store<Integer> counter = Store.create("evaluations", Lifespan.PROPERTY, () -> 0);
 		PropertyExecutionResult executionResult = property.execute();
-		context.reporter().publishReport("evaluations", counter.get());
+		System.out.println("test= " + context.extendedLabel());
+		System.out.println("evaluations= " + counter.get());
+		System.out.println();
 		return executionResult;
 	}
 

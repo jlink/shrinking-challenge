@@ -13,7 +13,7 @@ import static org.assertj.core.api.Assertions.*;
 @AddLifecycleHook(CountEvaluations.class)
 class Bound5Properties {
 
-	@Property
+	@Property(afterFailure = AfterFailureMode.RANDOM_SEED)
 	boolean test(@ForAll("boundedListTuples") List<List<Short>> p) {
 		assertThat(p).hasSize(5);
 		short sum = (short) p.stream()
