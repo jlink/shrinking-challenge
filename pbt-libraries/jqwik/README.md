@@ -13,3 +13,14 @@ which means that all constraints from value generation are also considered durin
 ## Implemented Challenges
 
 - [bound5](/pbt-libraries/jqwik/src/test/java/challenges/bound5/Bound5Properties.java)
+- [large union list](/pbt-libraries/jqwik/src/test/java/challenges/largeunionlist/LargeUnionListProperties.java)
+
+
+## Running examples
+
+You need Java >= 11.
+
+```bash
+cd pbt-libraries/jqwik
+./gradlew test
+```
