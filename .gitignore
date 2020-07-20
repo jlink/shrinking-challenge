@@ -33,3 +33,13 @@ out/
 # Jekyll
 /docs/_site
 /docs/Gemfile.lock
+
+# Vim
+
+*.swp
+
+# Hypothesis specific files
+
+pbt-libraries/hypothesis/.cache
+pbt-libraries/hypothesis/venv
+pbt-libraries/hypothesis/.hypothesis
