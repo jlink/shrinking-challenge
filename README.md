@@ -35,6 +35,10 @@ which contains the code and data relevant to
 
 - [large union list](/challenges/large_union_list.md)
 
+- [reverse](/challenges/reverse.md)
+
+- [calculator](/challenges/calculator.md)
+
 
 ## PBT Libraries and Frameworks
 
