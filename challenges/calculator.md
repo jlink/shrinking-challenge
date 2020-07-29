@@ -12,3 +12,4 @@ One of the possible difficulties that might come up is the shrinking of recursiv
 ## Implementors
 
 - [jqwik: Calculator](/pbt-libraries/jqwik/src/test/challenges/calculator/CalculatorProperties.py)
+- [hypothesis: calculator](/pbt-libraries/hypothesis/challenges/caluclator.py)
