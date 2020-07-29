@@ -1,25 +1,12 @@
 # Report for Hypothesis Shrinking on "bound5"
 
-This report was generated with Hypothesis 5.20.2
+This report was generated with Hypothesis 5.23.5
 
 ## Normalization
 
-Hypothesis produced 45 distinct results in 100 test runs.
-
-The most common were:
-
-* ``([], [], [], [-16384], [-16385])`` (0.46%)
-* ``([], [], [], [-16128], [-16641])`` (0.03%)
-* ``([], [], [], [-11008], [-21761])`` (0.03%)
-* ``([], [], [], [-11264], [-21505])`` (0.03%)
-* ``([], [], [], [-9472], [-23297])`` (0.02%)
-* ``([], [], [], [-13824], [-18945])`` (0.02%)
-* ``([], [], [], [-13568], [-19201])`` (0.02%)
-* ``([], [], [], [-15617], [-17152])`` (0.02%)
-* ``([], [], [], [-1537], [-31232])`` (0.01%)
-* ``([], [], [], [-15872], [-16897])`` (0.01%)
+Hypothesis currently normalises this example to ``([], [], [], [-1], [-32768])``
 
 ## Performance
 
-Over 100 runs, Hypothesis performed between 63 and 177 evaluations during shrinking,
-with a mean cost of 97.83 (95% confidence interval 93.53 - 101.87).
+Over 100 runs, Hypothesis performed between 94 and 205 evaluations during shrinking,
+with a mean cost of 123.39 (95% confidence interval 119.04 - 127.43).
