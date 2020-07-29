@@ -72,7 +72,7 @@ def main(filename):
             ", ".join(
                 "``" + ("=".join(s) if isinstance(s, tuple) else s) + "``" for s in k
             ),
-            "%.2f%%" % (v / len(data),),
+            "%.2f%%" % (v / len(data) * 100,),
         )
         for k, v in examples.most_common(len(examples))
     ]
