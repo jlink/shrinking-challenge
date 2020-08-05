@@ -13,7 +13,7 @@ import static org.assertj.core.api.Assertions.*;
 @AddLifecycleHook(CountEvaluations.class)
 class Bound5Properties {
 
-	@Property(tries = 100, afterFailure = AfterFailureMode.RANDOM_SEED, shrinking = ShrinkingMode.FULL)
+	@Property(shrinking = ShrinkingMode.FULL)
 	boolean test(@ForAll("boundedListTuples") List<List<Short>> p) {
 		short sum = (short) p.stream()
 				.flatMap(Collection::stream)
@@ -25,7 +25,7 @@ class Bound5Properties {
 	@Provide
 	ListArbitrary<List<Short>> boundedListTuples() {
 		return Arbitraries.shorts()
-				.list().ofMaxSize(20) // Unrestricted list size can lead to very long shrinking times
+				.list()
 				.filter(x -> x.stream().mapToInt(s -> s).sum() < 256)
 				.list().ofSize(5);
 	}

@@ -13,7 +13,7 @@ import static org.assertj.core.api.Assertions.*;
 @AddLifecycleHook(CountEvaluations.class)
 class LargeUnionListProperties {
 
-	@Property(afterFailure = AfterFailureMode.RANDOM_SEED)
+	@Property
 	void test(@ForAll List<List<Integer>> ls) {
 		Set<Integer> allElements = new HashSet<>();
 		for (List<Integer> x : ls) {

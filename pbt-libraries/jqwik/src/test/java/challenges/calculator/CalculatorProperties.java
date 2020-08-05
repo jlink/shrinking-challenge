@@ -11,7 +11,7 @@ import static net.jqwik.api.Tuple.*;
 @AddLifecycleHook(CountEvaluations.class)
 class CalculatorProperties {
 
-	@Property(afterFailure = AfterFailureMode.RANDOM_SEED)
+	@Property
 	void test(@ForAll("expression") Object expression) {
 		Assume.that(divSubterms(expression));
 		evaluate(expression);

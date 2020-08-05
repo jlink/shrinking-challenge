@@ -13,7 +13,7 @@ import static org.assertj.core.api.Assertions.*;
 @AddLifecycleHook(CountEvaluations.class)
 class ReverseProperties {
 
-	@Property(afterFailure = AfterFailureMode.RANDOM_SEED)
+	@Property
 	void test(@ForAll List<Integer> ls) {
 		assertThat(reversed(ls)).isEqualTo(ls);
 	}
