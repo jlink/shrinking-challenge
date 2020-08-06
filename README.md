@@ -39,6 +39,8 @@ which contains the code and data relevant to
 
 - [calculator](/challenges/calculator.md)
 
+- [length list](/challenges/lengthlist.md)
+
 
 ## PBT Libraries and Frameworks
 
