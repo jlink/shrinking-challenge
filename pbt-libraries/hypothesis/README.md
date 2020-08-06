@@ -13,3 +13,6 @@ This approach is described in [an ECOOP paper about the Hypothesis reducer](http
 
 - [bound5](/pbt-libraries/hypothesis/challenges/bound5.py)
 - [large union list](/pbt-libraries/hypothesis/challenges/large_union_list.py)
+- [calculator](/pbt-libraries/hypothesis/challenges/calculator.py)
+- [length list](/pbt-libraries/hypothesis/challenges/lengthlist.py)
+- [reverse](/pbt-libraries/hypothesis/challenges/reverse.py)
