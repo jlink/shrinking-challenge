@@ -10,4 +10,4 @@ In particular the use of the length parameter is critical, and any reasonable li
 ## Implementors
 
 - [hypothesis: Length List](/pbt-libraries/hypothesis/challenges/lengthlist.py)
-- [jqwik: Length List](/pbt-libraries/jqwik/src/test/challenges/lengthlist/LengthListProperties.java)
+- [jqwik: Length List](/pbt-libraries/jqwik/src/test/java/challenges/lengthlist/LengthListProperties.java)
