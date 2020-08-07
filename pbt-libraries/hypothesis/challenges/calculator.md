@@ -1,17 +1,12 @@
 # Report for Hypothesis Shrinking on "calculator"
 
-This report was generated with Hypothesis 5.23.5
+This report was generated with Hypothesis 5.23.11
 
 ## Normalization
 
-Hypothesis produced 2 distinct results in 100 test runs.
-
-These were:
-
-* ``('/', 0, ('/', 0, 1))`` (70.00%)
-* ``('/', 0, ('+', 0, 0))`` (30.00%)
+Hypothesis currently normalises this example to ``('/', 0, ('+', 0, 0))``
 
 ## Performance
 
-Over 100 runs, Hypothesis performed between 75 and 945 evaluations during shrinking,
-with a mean cost of 352.37 (95% confidence interval 316.03 - 385.94).
+Over 100 runs, Hypothesis performed between 100 and 902 evaluations during shrinking,
+with a mean cost of 341.40 (95% confidence interval 305.41 - 374.11).
