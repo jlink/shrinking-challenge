@@ -31,22 +31,3 @@ class Bound5Properties {
 	}
 
 }
-
-// The relevant python code:
-//
-//bounded_lists = st.lists(int16s, max_size=1).filter(lambda x: sum(x) < 256)
-//
-//
-//		problems = st.tuples(
-//		bounded_lists,
-//		bounded_lists,
-//		bounded_lists,
-//		bounded_lists,
-//		bounded_lists,
-//		)
-//
-//
-//		if __name__ == '__main__':
-//@eval_given(problems)
-//    def test(p):
-//			assert sum([x for sub in p for x in sub], np.int16(0)) < 5 * 256

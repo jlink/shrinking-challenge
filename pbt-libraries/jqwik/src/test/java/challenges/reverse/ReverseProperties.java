@@ -24,8 +24,3 @@ class ReverseProperties {
 		return reversed;
 	}
 }
-
-// @eval_given(st.lists(st.integers()))
-// def test(ls):
-// 					rev = list(reversed(ls))
-// 					assert ls == rev
