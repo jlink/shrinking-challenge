@@ -37,6 +37,8 @@ class CalculatorProperties {
 				// Make integers more probable to prevent stack overflow
 				Arbitraries.integers(),
 				Arbitraries.integers(),
+				Arbitraries.integers(),
+				Arbitraries.integers(),
 				Combinators.combine(lazyExpression, lazyExpression)
 						   .as((e1, e2) -> of("+", e1, e2)),
 				Combinators.combine(lazyExpression, lazyExpression)
