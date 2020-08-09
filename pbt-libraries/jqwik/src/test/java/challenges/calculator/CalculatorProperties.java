@@ -9,7 +9,7 @@ import static net.jqwik.api.Tuple.*;
 
 @Label("Calculator")
 @AddLifecycleHook(ShrinkingStatistics.class)
-class CalculatorProperties {
+public class CalculatorProperties {
 
 	@Label("calculator")
 	@Property(shrinking = ShrinkingMode.BOUNDED, afterFailure = AfterFailureMode.RANDOM_SEED)

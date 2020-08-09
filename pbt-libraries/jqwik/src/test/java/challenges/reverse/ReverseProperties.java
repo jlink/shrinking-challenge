@@ -10,7 +10,7 @@ import net.jqwik.api.lifecycle.*;
 import static org.assertj.core.api.Assertions.*;
 
 @AddLifecycleHook(ShrinkingStatistics.class)
-class ReverseProperties {
+public class ReverseProperties {
 
 	@Label("reverse")
 	@Property(shrinking = ShrinkingMode.FULL, afterFailure = AfterFailureMode.RANDOM_SEED)

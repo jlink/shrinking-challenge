@@ -10,7 +10,7 @@ import net.jqwik.api.lifecycle.*;
 import static org.assertj.core.api.Assertions.*;
 
 @AddLifecycleHook(ShrinkingStatistics.class)
-class LargeUnionListProperties {
+public class LargeUnionListProperties {
 
 	@Label("large_union_list")
 	@Property(shrinking = ShrinkingMode.FULL, afterFailure = AfterFailureMode.RANDOM_SEED)

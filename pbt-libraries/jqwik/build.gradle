@@ -42,6 +42,9 @@ dependencies {
 
 	// Used for statistics reporting
 	testImplementation("com.fasterxml.jackson.core:jackson-databind:${jacksonVersion}")
+
+	// Used for multiple suite running
+	testImplementation("org.junit.platform:junit-platform-launcher:${junitPlatformVersion}")
 }
 
 wrapper {

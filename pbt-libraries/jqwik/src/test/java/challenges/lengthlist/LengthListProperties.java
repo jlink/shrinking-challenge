@@ -9,7 +9,7 @@ import net.jqwik.api.*;
 import net.jqwik.api.lifecycle.*;
 
 @AddLifecycleHook(ShrinkingStatistics.class)
-class LengthListProperties {
+public class LengthListProperties {
 
 	@Label("lengthlist")
 	@Property(shrinking = ShrinkingMode.FULL, afterFailure = AfterFailureMode.RANDOM_SEED)

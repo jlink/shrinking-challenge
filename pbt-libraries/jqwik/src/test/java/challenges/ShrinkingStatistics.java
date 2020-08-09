@@ -12,7 +12,7 @@ import net.jqwik.api.lifecycle.*;
 public class ShrinkingStatistics implements AroundTryHook, AroundPropertyHook {
 
 	final ObjectMapper objectMapper;
-	final String reportsPath = "reports/";
+	final String reportsPath = "pbt-libraries/jqwik/reports/";
 
 	private ShrinkingStatistics() {
 		ObjectMapper mapper = new ObjectMapper();

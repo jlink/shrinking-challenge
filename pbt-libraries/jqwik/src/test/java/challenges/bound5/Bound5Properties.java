@@ -8,7 +8,7 @@ import net.jqwik.api.arbitraries.ListArbitrary;
 import net.jqwik.api.lifecycle.AddLifecycleHook;
 
 @AddLifecycleHook(ShrinkingStatistics.class)
-class Bound5Properties {
+public class Bound5Properties {
 
 	@Label("bound5")
 	@Property(shrinking = ShrinkingMode.FULL, afterFailure = AfterFailureMode.RANDOM_SEED)
