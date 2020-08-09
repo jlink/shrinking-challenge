@@ -8,13 +8,11 @@ import org.assertj.core.api.*;
 import net.jqwik.api.*;
 import net.jqwik.api.lifecycle.*;
 
-import static org.assertj.core.api.Assertions.*;
-
-@Label("LengthList")
-@AddLifecycleHook(CountEvaluations.class)
+@AddLifecycleHook(ShrinkingStatistics.class)
 class LengthListProperties {
 
-	@Property
+	@Label("lengthlist")
+	@Property(shrinking = ShrinkingMode.FULL, afterFailure = AfterFailureMode.RANDOM_SEED)
 	void test(@ForAll("listOfIntegers") List<Integer> ls) {
 		int max = ls.stream().mapToInt(i -> i).max().orElse(0);
 		Assertions.assertThat(max).isLessThan(900);

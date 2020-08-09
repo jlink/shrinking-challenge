@@ -9,11 +9,11 @@ import net.jqwik.api.lifecycle.*;
 
 import static org.assertj.core.api.Assertions.*;
 
-@Label("Reverse")
-@AddLifecycleHook(CountEvaluations.class)
+@AddLifecycleHook(ShrinkingStatistics.class)
 class ReverseProperties {
 
-	@Property
+	@Label("reverse")
+	@Property(shrinking = ShrinkingMode.FULL, afterFailure = AfterFailureMode.RANDOM_SEED)
 	void test(@ForAll List<Integer> ls) {
 		assertThat(reversed(ls)).isEqualTo(ls);
 	}

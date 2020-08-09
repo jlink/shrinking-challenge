@@ -8,10 +8,11 @@ import net.jqwik.api.lifecycle.*;
 import static net.jqwik.api.Tuple.*;
 
 @Label("Calculator")
-@AddLifecycleHook(CountEvaluations.class)
+@AddLifecycleHook(ShrinkingStatistics.class)
 class CalculatorProperties {
 
-	@Property
+	@Label("calculator")
+	@Property(shrinking = ShrinkingMode.BOUNDED, afterFailure = AfterFailureMode.RANDOM_SEED)
 	void test(@ForAll("expression") Object expression) {
 		Assume.that(divSubterms(expression));
 		evaluate(expression);

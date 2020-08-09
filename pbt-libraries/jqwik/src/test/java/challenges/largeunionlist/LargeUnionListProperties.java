@@ -9,11 +9,11 @@ import net.jqwik.api.lifecycle.*;
 
 import static org.assertj.core.api.Assertions.*;
 
-@Label("Large Union List")
-@AddLifecycleHook(CountEvaluations.class)
+@AddLifecycleHook(ShrinkingStatistics.class)
 class LargeUnionListProperties {
 
-	@Property
+	@Label("large_union_list")
+	@Property(shrinking = ShrinkingMode.FULL, afterFailure = AfterFailureMode.RANDOM_SEED)
 	void test(@ForAll List<List<Integer>> ls) {
 		Set<Integer> allElements = new HashSet<>();
 		for (List<Integer> x : ls) {

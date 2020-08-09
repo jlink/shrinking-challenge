@@ -2,18 +2,16 @@ package challenges.bound5;
 
 import java.util.*;
 
-import challenges.CountEvaluations;
+import challenges.ShrinkingStatistics;
 import net.jqwik.api.*;
 import net.jqwik.api.arbitraries.ListArbitrary;
 import net.jqwik.api.lifecycle.AddLifecycleHook;
 
-import static org.assertj.core.api.Assertions.*;
-
-@Label("Bound 5")
-@AddLifecycleHook(CountEvaluations.class)
+@AddLifecycleHook(ShrinkingStatistics.class)
 class Bound5Properties {
 
-	@Property(shrinking = ShrinkingMode.FULL)
+	@Label("bound5")
+	@Property(shrinking = ShrinkingMode.FULL, afterFailure = AfterFailureMode.RANDOM_SEED)
 	boolean test(@ForAll("boundedListTuples") List<List<Short>> p) {
 		short sum = (short) p.stream()
 				.flatMap(Collection::stream)
