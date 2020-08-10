@@ -1,5 +1,6 @@
 package challenges;
 
+import challenges.difference.*;
 import org.junit.platform.engine.discovery.*;
 import org.junit.platform.launcher.*;
 import org.junit.platform.launcher.core.*;
@@ -16,19 +17,29 @@ public class RunChallenge {
 
 		LauncherDiscoveryRequest request =
 				request()
-						.selectors(DiscoverySelectors.selectPackage("challenges"))
+						.selectors(DiscoverySelectors.selectClass(DifferenceProperties.class))
+						// .selectors(DiscoverySelectors.selectPackage("challenges"))
 						.build();
 
 		TestPlan plan = launcher.discover(request);
 
-		SummaryGeneratingListener listener = new SummaryGeneratingListener();
+		SummaryGeneratingListener listener = new SummaryGeneratingListener() {
+			boolean initialized = false;
+			@Override
+			public void testPlanExecutionStarted(TestPlan testPlan) {
+				if (!initialized) {
+					super.testPlanExecutionStarted(testPlan);
+					initialized = true;
+				}
+			}
+		};
 
 		for (int i = 0; i < RUNS; i++) {
 			launcher.execute(plan, listener);
 		}
 
 		System.out.println("Tests started   : " + listener.getSummary().getTestsStartedCount());
-		System.out.println("Tests succeeded : " + listener.getSummary().getTestsFailedCount());
+		System.out.println("Tests succeeded : " + listener.getSummary().getTestsSucceededCount());
 		System.out.println("Tests failed    : " + listener.getSummary().getTestsFailedCount());
 	}
 

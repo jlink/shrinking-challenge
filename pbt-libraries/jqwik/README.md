@@ -22,6 +22,8 @@ which means that all constraints from value generation are also considered durin
 
 - [length list](/pbt-libraries/jqwik/src/test/java/challenges/lengthlist/LengthListProperties.java)
 
+- [difference](/pbt-libraries/jqwik/src/test/java/challenges/difference/DifferenceProperties.java)
+
 
 ## Running examples
 

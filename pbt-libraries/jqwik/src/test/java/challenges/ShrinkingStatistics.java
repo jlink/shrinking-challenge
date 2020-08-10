@@ -61,18 +61,20 @@ public class ShrinkingStatistics implements AroundTryHook, AroundPropertyHook {
 
 		List<ShrinkingValues> stats;
 		if (statsFile.exists()) {
-			FileReader reader = new FileReader(statsFile);
-			stats = objectMapper.readValue(reader, List.class);
-			reader.close();
+			try (FileReader reader = new FileReader(statsFile)) {
+				stats = objectMapper.readValue(reader, List.class);
+			}
 		} else {
 			stats = new ArrayList<>();
 		}
 
 		stats.add(values);
 
-		FileWriter writer = new FileWriter(statsFile);
-		objectMapper.writerWithDefaultPrettyPrinter().writeValue(writer, stats);
-		writer.close();
+		try (FileWriter writer = new FileWriter(statsFile)) {
+			objectMapper.writerWithDefaultPrettyPrinter().writeValue(writer, stats);
+		} catch (FileNotFoundException fileNotFoundException) {
+			System.out.printf("WARNING: Cannot write statistics [%s]%n%n", statsFile.getAbsolutePath());
+		}
 	}
 
 	@Override

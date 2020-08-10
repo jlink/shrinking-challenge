@@ -41,6 +41,8 @@ which contains the code and data relevant to
 
 - [length list](/challenges/lengthlist.md)
 
+- [difference](/challenges/difference.md)
+
 
 ## PBT Libraries and Frameworks
 
