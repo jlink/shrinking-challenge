@@ -26,15 +26,17 @@ public class ShrinkingStatistics implements AroundTryHook, AroundPropertyHook {
 	public PropertyExecutionResult aroundProperty(PropertyLifecycleContext context, PropertyExecutor property) throws IOException {
 
 		Store<Integer> counter = Store.create("evaluations", Lifespan.PROPERTY, () -> 0);
+
 		PropertyExecutionResult executionResult = property.execute();
 
-		ShrinkingValues values = new ShrinkingValues(
-				counter.get(),
-				executionResult.seed().orElse(""),
-				createSample(executionResult.falsifiedParameters(), context.targetMethod().getParameters())
-		);
-
-		appendToReport(values, context.label());
+		if (executionResult.status() == PropertyExecutionResult.Status.FAILED) {
+			ShrinkingValues values = new ShrinkingValues(
+					counter.get(),
+					executionResult.seed().orElse(""),
+					createSample(executionResult.falsifiedParameters(), context.targetMethod().getParameters())
+			);
+			appendToReport(values, context.label());
+		}
 
 		return executionResult;
 	}
