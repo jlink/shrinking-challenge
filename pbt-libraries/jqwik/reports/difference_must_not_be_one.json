@@ -1,0 +1,530 @@
+[
+  {
+    "evaluations" : 214,
+    "seed" : "-3817083479763539950",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 357,
+    "seed" : "-9204214151593123496",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 894,
+    "seed" : "-1485642708002022370",
+    "shrunk" : {
+      "first" : "11",
+      "second" : "10"
+    }
+  },
+  {
+    "evaluations" : 403,
+    "seed" : "7885457157160483952",
+    "shrunk" : {
+      "first" : "11",
+      "second" : "10"
+    }
+  },
+  {
+    "evaluations" : 576,
+    "seed" : "576814191263506468",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 567,
+    "seed" : "-719175753805948530",
+    "shrunk" : {
+      "first" : "11",
+      "second" : "10"
+    }
+  },
+  {
+    "evaluations" : 183,
+    "seed" : "-1047400958116208415",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 822,
+    "seed" : "8301534149016148393",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 870,
+    "seed" : "4921319577775136964",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 426,
+    "seed" : "-5468958371055942997",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 306,
+    "seed" : "2465827384717707043",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 927,
+    "seed" : "8316871925395999935",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 364,
+    "seed" : "1323697099429130542",
+    "shrunk" : {
+      "first" : "11",
+      "second" : "10"
+    }
+  },
+  {
+    "evaluations" : 115,
+    "seed" : "-3658533944068833829",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 1057,
+    "seed" : "4183400794331777916",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 328,
+    "seed" : "7296720799661094243",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 1027,
+    "seed" : "-9049828367555891533",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 430,
+    "seed" : "8430818994970068245",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 877,
+    "seed" : "-3927270879995112190",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 585,
+    "seed" : "-3628374950406455271",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 241,
+    "seed" : "3893444280848161524",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 297,
+    "seed" : "-6878224813287046342",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 741,
+    "seed" : "6797748410186167786",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 1076,
+    "seed" : "-8861637337569751525",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 598,
+    "seed" : "-860484629633200290",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 870,
+    "seed" : "7067942595488164527",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 198,
+    "seed" : "3285514080121388726",
+    "shrunk" : {
+      "first" : "11",
+      "second" : "10"
+    }
+  },
+  {
+    "evaluations" : 778,
+    "seed" : "8891220507761853806",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 66,
+    "seed" : "4083148807334603726",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 580,
+    "seed" : "7250152942766868852",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 232,
+    "seed" : "656520661203553552",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 253,
+    "seed" : "-6531320843317002664",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 243,
+    "seed" : "-3295953704308510850",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 119,
+    "seed" : "-2237930596691191182",
+    "shrunk" : {
+      "first" : "11",
+      "second" : "10"
+    }
+  },
+  {
+    "evaluations" : 668,
+    "seed" : "1730220231829389533",
+    "shrunk" : {
+      "first" : "11",
+      "second" : "10"
+    }
+  },
+  {
+    "evaluations" : 372,
+    "seed" : "6396970973047160411",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 157,
+    "seed" : "6170276552201273530",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 335,
+    "seed" : "-7408235193562282035",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 773,
+    "seed" : "7619023162232499149",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 559,
+    "seed" : "7789058242285743984",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 519,
+    "seed" : "-6408135664263302142",
+    "shrunk" : {
+      "first" : "11",
+      "second" : "10"
+    }
+  },
+  {
+    "evaluations" : 790,
+    "seed" : "-2276724824561313668",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 330,
+    "seed" : "-7401026489774463583",
+    "shrunk" : {
+      "first" : "11",
+      "second" : "10"
+    }
+  },
+  {
+    "evaluations" : 491,
+    "seed" : "-6000568991050840025",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 350,
+    "seed" : "436119343392037824",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 186,
+    "seed" : "3710796553222684172",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 953,
+    "seed" : "-4655653676522899559",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 1059,
+    "seed" : "-5771506364471793176",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 370,
+    "seed" : "-498378246198641974",
+    "shrunk" : {
+      "first" : "11",
+      "second" : "10"
+    }
+  },
+  {
+    "evaluations" : 398,
+    "seed" : "8163834361023287831",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 666,
+    "seed" : "1623051026640020856",
+    "shrunk" : {
+      "first" : "11",
+      "second" : "10"
+    }
+  },
+  {
+    "evaluations" : 569,
+    "seed" : "2382953324550280857",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 300,
+    "seed" : "6263741500135382843",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 103,
+    "seed" : "-3243845880587045951",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 871,
+    "seed" : "-5833646238406411538",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 651,
+    "seed" : "4199803262334989073",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 338,
+    "seed" : "8600847767383432155",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 360,
+    "seed" : "-4803964502823201039",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 355,
+    "seed" : "-6984959725624487914",
+    "shrunk" : {
+      "first" : "11",
+      "second" : "10"
+    }
+  },
+  {
+    "evaluations" : 888,
+    "seed" : "6022777365346714710",
+    "shrunk" : {
+      "first" : "11",
+      "second" : "10"
+    }
+  },
+  {
+    "evaluations" : 437,
+    "seed" : "5881192598640305373",
+    "shrunk" : {
+      "first" : "11",
+      "second" : "10"
+    }
+  },
+  {
+    "evaluations" : 167,
+    "seed" : "-4778062753287776618",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 970,
+    "seed" : "-146971034573591322",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 604,
+    "seed" : "-1274368929272950912",
+    "shrunk" : {
+      "first" : "11",
+      "second" : "10"
+    }
+  },
+  {
+    "evaluations" : 844,
+    "seed" : "8074635618623617592",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  },
+  {
+    "evaluations" : 143,
+    "seed" : "-1968730446366995762",
+    "shrunk" : {
+      "first" : "10",
+      "second" : "9"
+    }
+  }
+]

@@ -12,19 +12,24 @@ public class RunChallenge {
 
 	public static final int RUNS = 100;
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws NoSuchMethodException {
 		Launcher launcher = LauncherFactory.create();
 
 		LauncherDiscoveryRequest request =
 				request()
-						.selectors(DiscoverySelectors.selectClass(DifferenceProperties.class))
-						// .selectors(DiscoverySelectors.selectPackage("challenges"))
+						.selectors(DiscoverySelectors.selectPackage("challenges"))
+						// .selectors(DiscoverySelectors.selectClass(DifferenceProperties.class))
+						// .selectors(DiscoverySelectors.selectMethod(
+						// 		DifferenceProperties.class,
+						// 		DifferenceProperties.class.getDeclaredMethod("mustNotBeOne", int.class, int.class)
+						// ))
 						.build();
 
 		TestPlan plan = launcher.discover(request);
 
 		SummaryGeneratingListener listener = new SummaryGeneratingListener() {
 			boolean initialized = false;
+
 			@Override
 			public void testPlanExecutionStarted(TestPlan testPlan) {
 				if (!initialized) {
