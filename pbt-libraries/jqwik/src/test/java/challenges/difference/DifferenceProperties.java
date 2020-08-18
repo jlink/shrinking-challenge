@@ -8,10 +8,10 @@ import net.jqwik.api.lifecycle.*;
 
 import static org.assertj.core.api.Assertions.*;
 
+@PropertyDefaults(afterFailure = AfterFailureMode.RANDOM_SEED)
 @AddLifecycleHook(ShrinkingStatistics.class)
 public class DifferenceProperties {
 
-	@Property(afterFailure = AfterFailureMode.RANDOM_SEED)
 	@Label("difference_must_not_be_zero")
 	void mustNotBeZero(@ForAll @Positive int first, @ForAll @Positive int second) {
 		if (first < 10) {
@@ -21,7 +21,6 @@ public class DifferenceProperties {
 		assertThat(difference).isNotZero();
 	}
 
-	@Property(afterFailure = AfterFailureMode.RANDOM_SEED)
 	@Label("difference_must_not_be_small")
 	void mustNotBeSmall(@ForAll @Positive int first, @ForAll @Positive int second) {
 		if (first < 10) {
@@ -32,7 +31,6 @@ public class DifferenceProperties {
 	}
 
 	@Label("difference_must_not_be_one")
-	@Property(afterFailure = AfterFailureMode.RANDOM_SEED)
 	void mustNotBeOne(@ForAll @Positive int first, @ForAll @Positive int second) {
 		if (first < 10) {
 			return;

@@ -9,10 +9,11 @@ import static net.jqwik.api.Tuple.*;
 
 @Label("Calculator")
 @AddLifecycleHook(ShrinkingStatistics.class)
+@PropertyDefaults(shrinking = ShrinkingMode.FULL, afterFailure = AfterFailureMode.RANDOM_SEED)
 public class CalculatorProperties {
 
 	@Label("calculator")
-	@Property(shrinking = ShrinkingMode.BOUNDED, afterFailure = AfterFailureMode.RANDOM_SEED)
+	@Property
 	void test(@ForAll("expression") Object expression) {
 		Assume.that(divSubterms(expression));
 		evaluate(expression);
@@ -32,18 +33,14 @@ public class CalculatorProperties {
 
 	@Provide
 	Arbitrary<Object> expression() {
-		Arbitrary<Object> lazyExpression = Arbitraries.lazy(this::expression);
-
-		return Arbitraries.oneOf(
-				// Make integers more probable to prevent stack overflow
-				Arbitraries.integers(),
-				Arbitraries.integers(),
-				Arbitraries.integers(),
-				Arbitraries.integers(),
-				Combinators.combine(lazyExpression, lazyExpression)
-						   .as((e1, e2) -> of("+", e1, e2)),
-				Combinators.combine(lazyExpression, lazyExpression)
-						   .as((e1, e2) -> of("/", e1, e2))
+		return Arbitraries.lazyOf(
+				Arbitraries::integers,
+				Arbitraries::integers,
+				Arbitraries::integers,
+				() -> Combinators.combine(expression(), expression())
+								 .as((e1, e2) -> of("+", e1, e2)),
+				() -> Combinators.combine(expression(), expression())
+								 .as((e1, e2) -> of("/", e1, e2))
 		);
 	}
 

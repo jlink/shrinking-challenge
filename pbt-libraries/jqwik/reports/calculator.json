@@ -1,702 +1,702 @@
 [
   {
-    "evaluations" : 537,
-    "seed" : "-8398684680586548441",
-    "shrunk" : {
-      "expression" : "(+, 0, (+, 0, (+, 0, (/, 0, (+, 0, 0)))))"
-    }
-  },
-  {
-    "evaluations" : 47,
-    "seed" : "2873112797336697245",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, 0, 1)))"
-    }
-  },
-  {
-    "evaluations" : 70,
-    "seed" : "-7100984783393762321",
-    "shrunk" : {
-      "expression" : "(+, (+, 0, (/, 0, (/, 0, 1))), 0)"
-    }
-  },
-  {
-    "evaluations" : 51,
-    "seed" : "-3940316235633595096",
+    "evaluations" : 54,
+    "seed" : "7098053449556279949",
     "shrunk" : {
       "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
-    "evaluations" : 2300,
-    "seed" : "1783733691492192895",
-    "shrunk" : {
-      "expression" : "(+, 0, (+, 0, (+, 0, (/, 0, (+, 0, (+, 0, (+, 0, (+, 0, (/, 0, 1)))))))))"
-    }
-  },
-  {
-    "evaluations" : 150,
-    "seed" : "-3875881492280287196",
+    "evaluations" : 17,
+    "seed" : "3765575194291627862",
     "shrunk" : {
       "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
-    "evaluations" : 74,
-    "seed" : "-4040060181855304481",
+    "evaluations" : 20,
+    "seed" : "-781017785699008374",
     "shrunk" : {
       "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
-    "evaluations" : 55,
-    "seed" : "974424076238752657",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 77,
-    "seed" : "4197599687541975168",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, 0, 1)))"
-    }
-  },
-  {
-    "evaluations" : 80,
-    "seed" : "635002359963982737",
-    "shrunk" : {
-      "expression" : "(+, (/, 0, (/, 0, 1)), 0)"
-    }
-  },
-  {
-    "evaluations" : 785,
-    "seed" : "3514283763608371929",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (+, (/, 0, 1), 0)))"
-    }
-  },
-  {
-    "evaluations" : 394,
-    "seed" : "3721251215582769782",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, (+, 0, 0), 1)))"
-    }
-  },
-  {
-    "evaluations" : 898,
-    "seed" : "-2845716861569505597",
-    "shrunk" : {
-      "expression" : "(+, (/, 0, (+, (/, 0, 1), (+, 0, 0))), 0)"
-    }
-  },
-  {
-    "evaluations" : 43,
-    "seed" : "-5845411266564353143",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 369,
-    "seed" : "3488742304220658116",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 87,
-    "seed" : "-4346673209655579543",
-    "shrunk" : {
-      "expression" : "(+, (/, 0, (/, 0, 1)), 0)"
-    }
-  },
-  {
-    "evaluations" : 337,
-    "seed" : "4619508667044627353",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, (/, 0, 1), 1))"
-    }
-  },
-  {
-    "evaluations" : 673,
-    "seed" : "-4751947015914495838",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, (/, 0, 1), 1)))"
-    }
-  },
-  {
-    "evaluations" : 48,
-    "seed" : "8519974784197874592",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 85,
-    "seed" : "-801540567159239848",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, 0, 1)))"
-    }
-  },
-  {
-    "evaluations" : 178,
-    "seed" : "-6881856915823902905",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, 0, 1)))"
-    }
-  },
-  {
-    "evaluations" : 41,
-    "seed" : "-5710543512678045380",
+    "evaluations" : 19,
+    "seed" : "5307190093885484650",
     "shrunk" : {
       "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
     "evaluations" : 39,
-    "seed" : "-1796964997119430404",
+    "seed" : "3782909703726182807",
     "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, 0, 1)))"
+      "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
-    "evaluations" : 336,
-    "seed" : "351240303294651979",
+    "evaluations" : 53,
+    "seed" : "-163433826581500926",
     "shrunk" : {
-      "expression" : "(/, 0, (/, (/, 0, 1), 1))"
-    }
-  },
-  {
-    "evaluations" : 212,
-    "seed" : "-3814110452871352593",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, 0, 1)))"
+      "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
     "evaluations" : 57,
-    "seed" : "4964200783681610119",
-    "shrunk" : {
-      "expression" : "(+, (/, 0, (/, 0, 1)), 0)"
-    }
-  },
-  {
-    "evaluations" : 38,
-    "seed" : "-1072496871206881527",
+    "seed" : "6701663419831588539",
     "shrunk" : {
       "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
-    "evaluations" : 159,
-    "seed" : "5316508451787840020",
-    "shrunk" : {
-      "expression" : "(+, (/, 0, (+, 0, (/, 0, 1))), 0)"
-    }
-  },
-  {
-    "evaluations" : 29,
-    "seed" : "3213672216007249914",
+    "evaluations" : 87,
+    "seed" : "1574656566620086010",
     "shrunk" : {
       "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
-    "evaluations" : 33,
-    "seed" : "-2738066920416532443",
+    "evaluations" : 18,
+    "seed" : "-3855900106722209190",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 47,
+    "seed" : "7528331765618132781",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 21,
+    "seed" : "-3449725223287322481",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 39,
+    "seed" : "-75740035247229119",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 27,
+    "seed" : "-105952971256704279",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 15,
+    "seed" : "5086422246198184606",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 53,
+    "seed" : "8609305248092151794",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 14,
+    "seed" : "2359233409015933214",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 166,
+    "seed" : "9180411554742505894",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 288,
+    "seed" : "-221851088222510691",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 48,
+    "seed" : "-3045723904361595187",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 51,
+    "seed" : "-30539920871285280",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 74,
+    "seed" : "6896422338602035288",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 25,
+    "seed" : "7179358569522906504",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 158,
+    "seed" : "2063986304353194256",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 26,
+    "seed" : "-4617251538690990423",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 286,
+    "seed" : "8893809554897260097",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 42,
+    "seed" : "-3110231719806806042",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 30,
+    "seed" : "-6638994559058529153",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 27,
+    "seed" : "3931585044558166463",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 82,
+    "seed" : "-659911119931977139",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 21,
+    "seed" : "-6795625012169293475",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 73,
+    "seed" : "944927400170672933",
     "shrunk" : {
       "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
     "evaluations" : 28,
-    "seed" : "-3396906721792623602",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 97,
-    "seed" : "-2815246612752897779",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, 0, 1)))"
-    }
-  },
-  {
-    "evaluations" : 41,
-    "seed" : "-5160901694698259361",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, 0, 1)))"
-    }
-  },
-  {
-    "evaluations" : 204,
-    "seed" : "-1754729523687490867",
-    "shrunk" : {
-      "expression" : "(+, 0, (+, (/, 0, (/, 0, 1)), 0))"
-    }
-  },
-  {
-    "evaluations" : 95,
-    "seed" : "-4038206574769240677",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, 0, 1)))"
-    }
-  },
-  {
-    "evaluations" : 44,
-    "seed" : "3861333553256821218",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 3616,
-    "seed" : "-1847014394914424114",
-    "shrunk" : {
-      "expression" : "(/, 0, (+, (/, (/, 0, 1), 1), (/, 0, 1)))"
-    }
-  },
-  {
-    "evaluations" : 56,
-    "seed" : "-7458974740956258042",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, 0, 1)))"
-    }
-  },
-  {
-    "evaluations" : 68,
-    "seed" : "-5432451801166454899",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 36,
-    "seed" : "-1479625139906917892",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 90,
-    "seed" : "-3627964426737110014",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 268,
-    "seed" : "3274423727017625805",
-    "shrunk" : {
-      "expression" : "(+, (/, 0, (/, 0, 1)), 0)"
-    }
-  },
-  {
-    "evaluations" : 158,
-    "seed" : "-8166978749247339884",
-    "shrunk" : {
-      "expression" : "(+, (/, 0, (+, (/, 0, 1), 0)), 0)"
-    }
-  },
-  {
-    "evaluations" : 127,
-    "seed" : "-4706056588123059019",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, 0, 1)))"
-    }
-  },
-  {
-    "evaluations" : 41,
-    "seed" : "9161544885996578857",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 112,
-    "seed" : "4710029103952181309",
-    "shrunk" : {
-      "expression" : "(+, 0, (+, (+, 0, (+, (/, 0, (/, 0, 1)), 0)), 0))"
-    }
-  },
-  {
-    "evaluations" : 202,
-    "seed" : "-3661590520206110065",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 159,
-    "seed" : "5689845139612870150",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 89,
-    "seed" : "-3352309710005725436",
-    "shrunk" : {
-      "expression" : "(+, 0, (+, 0, (/, 0, (/, 0, 1))))"
-    }
-  },
-  {
-    "evaluations" : 124,
-    "seed" : "-5766177005647448938",
-    "shrunk" : {
-      "expression" : "(+, (+, 0, (+, 0, (/, 0, (/, 0, 1)))), 0)"
-    }
-  },
-  {
-    "evaluations" : 19,
-    "seed" : "-7355795401097161323",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 98,
-    "seed" : "-4800601341003033231",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 54,
-    "seed" : "5109200391125127600",
-    "shrunk" : {
-      "expression" : "(+, (/, 0, (/, 0, 1)), 0)"
-    }
-  },
-  {
-    "evaluations" : 2828,
-    "seed" : "2438660322921126139",
-    "shrunk" : {
-      "expression" : "(/, 0, (+, (/, (/, 0, 1), 1), (/, 0, 1)))"
-    }
-  },
-  {
-    "evaluations" : 48,
-    "seed" : "6497062499451548772",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, 0, 1)))"
-    }
-  },
-  {
-    "evaluations" : 73,
-    "seed" : "-6807107172480650894",
-    "shrunk" : {
-      "expression" : "(/, 0, (+, (/, 0, 1), 0))"
-    }
-  },
-  {
-    "evaluations" : 61,
-    "seed" : "9128954269098107496",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 172,
-    "seed" : "-2646844063237978581",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, 0, 1)))"
-    }
-  },
-  {
-    "evaluations" : 1462,
-    "seed" : "127314921656562079",
-    "shrunk" : {
-      "expression" : "(/, 0, (+, 0, (+, (/, 0, 1), (/, (+, 0, 0), 1))))"
-    }
-  },
-  {
-    "evaluations" : 134,
-    "seed" : "-1113218866130084336",
-    "shrunk" : {
-      "expression" : "(+, (/, 0, (/, 0, 1)), 0)"
-    }
-  },
-  {
-    "evaluations" : 89,
-    "seed" : "2197169204133594816",
-    "shrunk" : {
-      "expression" : "(+, (/, 0, (/, 0, 1)), 0)"
-    }
-  },
-  {
-    "evaluations" : 357,
-    "seed" : "8175153369371053647",
-    "shrunk" : {
-      "expression" : "(+, 0, (+, (/, 0, (/, 0, 1)), 0))"
-    }
-  },
-  {
-    "evaluations" : 99,
-    "seed" : "-6088378670117989526",
-    "shrunk" : {
-      "expression" : "(+, (+, 0, (+, (/, 0, (/, 0, 1)), 0)), 0)"
-    }
-  },
-  {
-    "evaluations" : 33,
-    "seed" : "2814165196797108137",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 66,
-    "seed" : "4795467785067986793",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 125,
-    "seed" : "1705596158705458682",
-    "shrunk" : {
-      "expression" : "(+, (+, 0, (/, 0, (/, 0, 1))), 0)"
-    }
-  },
-  {
-    "evaluations" : 140,
-    "seed" : "5861745781130469560",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 588,
-    "seed" : "-8935385716483094607",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (+, 0, (/, 0, 1))))"
-    }
-  },
-  {
-    "evaluations" : 47,
-    "seed" : "-1178143009846269867",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 417,
-    "seed" : "4451056774214408650",
-    "shrunk" : {
-      "expression" : "(+, 0, (+, 0, (/, (/, 0, (/, 0, 1)), 1)))"
-    }
-  },
-  {
-    "evaluations" : 51,
-    "seed" : "3080479947789024797",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 135,
-    "seed" : "27612542744097628",
-    "shrunk" : {
-      "expression" : "(+, 0, (+, 0, (/, 0, (/, 0, 1))))"
-    }
-  },
-  {
-    "evaluations" : 93,
-    "seed" : "7953517745082899662",
-    "shrunk" : {
-      "expression" : "(+, 0, (+, (/, 0, (/, 0, 1)), 0))"
-    }
-  },
-  {
-    "evaluations" : 50,
-    "seed" : "41964874445029344",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 285,
-    "seed" : "-8998937703216080876",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (+, 0, (/, 0, 1))))"
-    }
-  },
-  {
-    "evaluations" : 275,
-    "seed" : "-8748098403300795239",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, 0, 1)))"
-    }
-  },
-  {
-    "evaluations" : 1423,
-    "seed" : "-5753239808146629580",
-    "shrunk" : {
-      "expression" : "(/, 0, (+, (+, (/, 0, 1), 0), (/, 0, 1)))"
-    }
-  },
-  {
-    "evaluations" : 81,
-    "seed" : "-6621854691878394459",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 86,
-    "seed" : "-2131401887317887310",
-    "shrunk" : {
-      "expression" : "(+, (/, 0, (/, 0, 1)), 0)"
-    }
-  },
-  {
-    "evaluations" : 34,
-    "seed" : "-2622924763710017662",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, 0, 1))"
-    }
-  },
-  {
-    "evaluations" : 41,
-    "seed" : "8077745202287342663",
+    "seed" : "-195421513312852843",
     "shrunk" : {
       "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
     "evaluations" : 55,
-    "seed" : "-4484023168494661276",
+    "seed" : "-1390584931509358561",
     "shrunk" : {
       "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
-    "evaluations" : 945,
-    "seed" : "-7169815378251849540",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, (/, 0, (/, 0, 1)), 1))"
-    }
-  },
-  {
-    "evaluations" : 169,
-    "seed" : "-5851026597890066673",
-    "shrunk" : {
-      "expression" : "(+, (/, 0, (/, 0, 1)), 0)"
-    }
-  },
-  {
-    "evaluations" : 218,
-    "seed" : "3459792589973216115",
-    "shrunk" : {
-      "expression" : "(+, (/, 0, (/, 0, 1)), 0)"
-    }
-  },
-  {
-    "evaluations" : 69,
-    "seed" : "1511989196522288724",
-    "shrunk" : {
-      "expression" : "(+, (/, 0, (/, 0, 1)), 0)"
-    }
-  },
-  {
-    "evaluations" : 157,
-    "seed" : "521634439075038071",
-    "shrunk" : {
-      "expression" : "(+, 0, (+, 0, (/, 0, (/, 0, 1))))"
-    }
-  },
-  {
-    "evaluations" : 149,
-    "seed" : "-6483312206600082190",
-    "shrunk" : {
-      "expression" : "(+, 0, (+, (/, 0, (/, 0, 1)), 0))"
-    }
-  },
-  {
-    "evaluations" : 98,
-    "seed" : "3582520314517153141",
+    "evaluations" : 20,
+    "seed" : "959108890239056069",
     "shrunk" : {
       "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
-    "evaluations" : 482,
-    "seed" : "2483086243499438937",
-    "shrunk" : {
-      "expression" : "(/, 0, (/, (/, 0, 1), 1))"
-    }
-  },
-  {
-    "evaluations" : 99,
-    "seed" : "6240848375538110156",
-    "shrunk" : {
-      "expression" : "(+, (/, 0, (/, 0, 1)), 0)"
-    }
-  },
-  {
-    "evaluations" : 112,
-    "seed" : "-2493394114073531050",
-    "shrunk" : {
-      "expression" : "(+, (/, 0, (/, 0, 1)), 0)"
-    }
-  },
-  {
-    "evaluations" : 27,
-    "seed" : "-2974060187040877490",
+    "evaluations" : 97,
+    "seed" : "6547484933345780150",
     "shrunk" : {
       "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
-    "evaluations" : 65,
-    "seed" : "264625455826691754",
-    "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, 0, 1)))"
-    }
-  },
-  {
-    "evaluations" : 65,
-    "seed" : "8025680933658181162",
+    "evaluations" : 45,
+    "seed" : "-269583504264903572",
     "shrunk" : {
       "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
-    "evaluations" : 205,
-    "seed" : "9107762453977834006",
+    "evaluations" : 18,
+    "seed" : "4890091905568508660",
     "shrunk" : {
-      "expression" : "(+, 0, (+, (/, 0, (/, 0, 1)), 0))"
+      "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
-    "evaluations" : 70,
-    "seed" : "5977921359194585674",
+    "evaluations" : 19,
+    "seed" : "2062766924020194032",
     "shrunk" : {
-      "expression" : "(+, 0, (/, 0, (/, 0, 1)))"
+      "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
-    "evaluations" : 263,
-    "seed" : "4731707043427548032",
+    "evaluations" : 227,
+    "seed" : "567595827530529521",
     "shrunk" : {
-      "expression" : "(/, 0, (/, (/, 0, 1), 1))"
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 191,
+    "seed" : "-1706214339832974539",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 20,
+    "seed" : "-3830396621798691906",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 32,
+    "seed" : "3803777132065215369",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 230,
+    "seed" : "-4309328237217175752",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 28,
+    "seed" : "-8519296202045481741",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 19,
+    "seed" : "392624628754764231",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 15,
+    "seed" : "-3483648159187356417",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 141,
+    "seed" : "818979066453610233",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, (+, 0, 0), 1))"
+    }
+  },
+  {
+    "evaluations" : 19,
+    "seed" : "-4739330607924758905",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 135,
+    "seed" : "543306298557454746",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 13,
+    "seed" : "253138807519450261",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 28,
+    "seed" : "278902036874774684",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 109,
+    "seed" : "-8801247184091238489",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 22,
+    "seed" : "-7195498182831508114",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 20,
+    "seed" : "-6445730969170197470",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 19,
+    "seed" : "246124563503181666",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 173,
+    "seed" : "7874092485132621554",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 61,
+    "seed" : "-2164723490024354946",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 24,
+    "seed" : "-1776545604189714007",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 176,
+    "seed" : "3367588297644086916",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 23,
+    "seed" : "4901378491119675810",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 45,
+    "seed" : "6315137407929739720",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 86,
+    "seed" : "-2079035128965654413",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 21,
+    "seed" : "-8039900857022331781",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 37,
+    "seed" : "6579597791703454067",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 21,
+    "seed" : "-5168413338124769774",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 79,
+    "seed" : "4623708560846824727",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 142,
+    "seed" : "-5718569869279279663",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 23,
+    "seed" : "6766867409558321035",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 39,
+    "seed" : "9052382239373795460",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 45,
+    "seed" : "-5602943509266704890",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 39,
+    "seed" : "7427200807378377815",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 117,
+    "seed" : "9122287359196297283",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 36,
+    "seed" : "5820506549993842918",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 43,
+    "seed" : "-4298725252523676783",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 26,
+    "seed" : "-7551466169008319848",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 62,
+    "seed" : "-4595202430535227719",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 12,
+    "seed" : "-112219632023132968",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 73,
+    "seed" : "-3987202387226092433",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 29,
+    "seed" : "-674865078091348512",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 38,
+    "seed" : "7032176983224494655",
+    "shrunk" : {
+      "expression" : "(/, 0, (+, -5, 5))"
+    }
+  },
+  {
+    "evaluations" : 142,
+    "seed" : "437250116998657116",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 25,
+    "seed" : "-8201044420954951404",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
     "evaluations" : 35,
-    "seed" : "4264794355795684750",
+    "seed" : "8185388619703420552",
     "shrunk" : {
       "expression" : "(/, 0, (/, 0, 1))"
     }
   },
   {
-    "evaluations" : 441,
-    "seed" : "-4680763812829298372",
+    "evaluations" : 45,
+    "seed" : "6948707415243132358",
     "shrunk" : {
-      "expression" : "(/, 0, (/, (/, 0, 1), 1))"
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 20,
+    "seed" : "5840495966339238752",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 95,
+    "seed" : "-1917659809100700766",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 28,
+    "seed" : "-370694197468746906",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 24,
+    "seed" : "4988440239599860296",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 25,
+    "seed" : "661319605188370504",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 83,
+    "seed" : "-5677772370937404226",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 46,
+    "seed" : "4055675840421556622",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 278,
+    "seed" : "7778142128566879364",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 38,
+    "seed" : "3923885633917412303",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 37,
+    "seed" : "5842059451251219120",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 52,
+    "seed" : "-1623906739823010573",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 27,
+    "seed" : "-5276864111961690756",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 67,
+    "seed" : "5585196631812256012",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 67,
+    "seed" : "-5590283372079220186",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 47,
+    "seed" : "-3308143338181149633",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
+    }
+  },
+  {
+    "evaluations" : 15,
+    "seed" : "8325745239514729334",
+    "shrunk" : {
+      "expression" : "(/, 0, (/, 0, 1))"
     }
   }
 ]

@@ -1,7 +1,6 @@
 package challenges;
 
 import challenges.calculator.*;
-import challenges.difference.*;
 import org.junit.platform.engine.discovery.*;
 import org.junit.platform.launcher.*;
 import org.junit.platform.launcher.core.*;
@@ -13,7 +12,7 @@ public class RunChallenge {
 
 	public static final int RUNS = 100;
 
-	public static void main(String[] args) throws NoSuchMethodException {
+	public static void main(String[] args) {
 		Launcher launcher = LauncherFactory.create();
 
 		LauncherDiscoveryRequest request =
