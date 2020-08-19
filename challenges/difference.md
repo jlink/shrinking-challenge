@@ -30,4 +30,8 @@ This is also the hardest to find a falsifying sample in the first place.
 
 ## Implementors
 
-- [jqwik: Difference](/pbt-libraries/jqwik/src/test/java/challenges/difference/DifferenceProperties.java)
+|Library   |Code|Report|
+|----------|----|------|
+|jqwik     |[DifferenceProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/difference/DifferenceProperties.java)|[difference_must_not_be_zero.md](/pbt-libraries/hypothesis/reports/difference_must_not_be_zero.md)
+|          |    |[difference_must_not_be_one.md](/pbt-libraries/hypothesis/reports/difference_must_not_be_one.md)
+|          |    |[difference_must_not_be_small.md](/pbt-libraries/hypothesis/reports/difference_must_not_be_small.md)

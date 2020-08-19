@@ -7,5 +7,7 @@ It's a basic example to validate that a library can reliably normalize simple sa
 
 ## Implementors
 
-- [jqwik: Reverse](/pbt-libraries/jqwik/src/test/java/challenges/reverse/ReverseProperties.java)
-- [hypothesis: Reverse](/pbt-libraries/hypothesis/challenges/reverse.py)
+|Library   |Code|Report|
+|----------|----|------|
+|Hypothesis|[reverse.py](/pbt-libraries/hypothesis/challenges/reverse.py)|[reverse.md](/pbt-libraries/hypothesis/challenges/reverse.md)
+|jqwik     |[ReverseProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/reverse/ReverseProperties.java)|[reverse.md](/pbt-libraries/hypothesis/reports/reverse.md)

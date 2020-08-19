@@ -11,5 +11,7 @@ One of the possible difficulties that might come up is the shrinking of recursiv
 
 ## Implementors
 
-- [jqwik: Calculator](/pbt-libraries/jqwik/src/test/java/challenges/calculator/CalculatorProperties.java)
-- [hypothesis: calculator](/pbt-libraries/hypothesis/challenges/calculator.py)
+|Library   |Code|Report|
+|----------|----|------|
+|Hypothesis|[calculator.py](/pbt-libraries/hypothesis/challenges/calculator.py)|[calculator.md](/pbt-libraries/hypothesis/challenges/calculator.md)
+|jqwik     |[CalculatorProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/calculator/CalculatorProperties.java)|[calculator.md](/pbt-libraries/hypothesis/reports/calculator.md)
