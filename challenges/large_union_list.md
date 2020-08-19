@@ -12,4 +12,4 @@ In particular, a shrinker cannot hope to normalise this unless it is able to eit
 |Library   |Code|Report|
 |----------|----|------|
 |Hypothesis|large_union_list.py](/pbt-libraries/hypothesis/challenges/large_union_list.py)|[large_union_list.md](/pbt-libraries/hypothesis/challenges/large_union_list.md)
-|jqwik     |[LargeUnionListProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/largeunionlist/LargeUnionListProperties.java)|[large_union_list.md](/pbt-libraries/hypothesis/reports/large_union_list.md)
+|jqwik     |[LargeUnionListProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/largeunionlist/LargeUnionListProperties.java)|[large_union_list.md](/pbt-libraries/jqwik/reports/large_union_list.md)
