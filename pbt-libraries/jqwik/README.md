@@ -6,7 +6,11 @@ It's implemented as a test enginge for the
 
 ## jqwik's Shrinking Approach
 
-jqwik goes for
+jqwik derives shrinking behaviour directly from a generator's specification.
+That means that users get shrinking for free if they just compose the built-in
+generators (aka arbitraries).
+
+jqwik also goes for
 [Integrated Shrinking](https://jqwik.net/docs/current/user-guide.html#integrated-shrinking),
 which means that all constraints from value generation are also considered during shrinking.
 

@@ -18,11 +18,33 @@ If you want to contribute
 
 ## What is Shrinking?
 
-_tbd_
+The input data and parameters PBT library use to check a property's invariants, 
+are fully or partially generated through pseudo-randomization. 
+One problem that comes with random generation is the rather loose relation 
+between the randomly chosen sample and the problem underlying the failing property.
+
+That's why it is important for PBT tools to try to find a simpler or even 
+“the simplest” example that fails for (hopefully) the same reason. 
+This searching phase is called shrinking because it starts with the original sample 
+and tries to make it smaller and check the property again. The closer the shrunk
+sample is to the theoretically smallest one, the easier it is for the developer
+to recognize the real reason for a failing property.
+
+Two major difficulties in shrinking are:
+- Shrinking means searching in a (very) large space of possibilities. 
+  Brute-forcing through all possible samples is usually not an option.
+- It is not always obvious what "smallest" means in a given domain or context.
 
 ## Different Shrinking Approaches
 
-_tbd_
+PBT libraries usually follow one of two approaches:
+- Users must define shrinking behaviour together with defining a generator.
+  This requires additional effort but also allows for domain-specific, targeted shrinking.
+- Shrinking behaviour is automatically derived from a generator's specification.
+  This is more convenient for users but may result in worse shrinking results in some cases. 
+
+Another characteristic to differentiate between shrinking approaches is  
+[type-based versus integrated shrinking](https://hypothesis.works/articles/integrated-shrinking/).
 
 ## Challenges
 
