@@ -48,7 +48,7 @@ Another characteristic to differentiate between shrinking approaches is
 
 ## Challenges
 
-The current challenges were stolen from 
+Some challenges were stolen from 
 [this repository](https://github.com/mc-imperial/hypothesis-ecoop-2020-artifact/tree/master/smartcheck-benchmarks),
 which contains the code and data relevant to 
 [this paper](https://drmaciver.github.io/papers/reduction-via-generation-preview.pdf).
