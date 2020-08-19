@@ -16,18 +16,16 @@ which means that all constraints from value generation are also considered durin
 
 ## Implemented Challenges
 
-- [bound5](/pbt-libraries/jqwik/src/test/java/challenges/bound5/Bound5Properties.java)
-
-- [large union list](/pbt-libraries/jqwik/src/test/java/challenges/largeunionlist/LargeUnionListProperties.java)
-
-- [reverse](/pbt-libraries/jqwik/src/test/java/challenges/reverse/ReverseProperties.java)
-
-- [calculator](/pbt-libraries/jqwik/src/test/java/challenges/reverse/CalculatorProperties.java)
-
-- [length list](/pbt-libraries/jqwik/src/test/java/challenges/lengthlist/LengthListProperties.java)
-
-- [difference](/pbt-libraries/jqwik/src/test/java/challenges/difference/DifferenceProperties.java)
-
+|Code|Report|
+|----|------|
+|[Bound5Properties.java](/pbt-libraries/jqwik/src/test/java/challenges/bound5/Bound5Properties.java)|[bound5.md](/pbt-libraries/jqwik/reports/bound5.md)
+|[LargeUnionListProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/largeunionlist/LargeUnionListProperties.java)|[large_union_list.md](/pbt-libraries/jqwik/reports/large_union_list.md)
+|[ReverseProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/reverse/ReverseProperties.java)|[reverse.md](/pbt-libraries/jqwik/reports/reverse.md)
+|[CalculatorProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/calculator/CalculatorProperties.java)|[calculator.md](/pbt-libraries/jqwik/reports/calculator.md)
+|[LengthListProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/lengthlist/LengthListProperties.java)|[lengthlist.md](/pbt-libraries/jqwik/reports/lengthlist.md)
+|[DifferenceProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/difference/DifferenceProperties.java)|[difference_must_not_be_zero.md](/pbt-libraries/jqwik/reports/difference_must_not_be_zero.md)
+|    |[difference_must_not_be_one.md](/pbt-libraries/jqwik/reports/difference_must_not_be_one.md)
+|    |[difference_must_not_be_small.md](/pbt-libraries/jqwik/reports/difference_must_not_be_small.md)
 
 ## Running examples
 
