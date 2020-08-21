@@ -65,6 +65,7 @@ which contains the code and data relevant to
 
 - [difference](/challenges/difference.md)
 
+- [binheap](/challenges/binheap.md)
 
 ## PBT Libraries and Frameworks
 

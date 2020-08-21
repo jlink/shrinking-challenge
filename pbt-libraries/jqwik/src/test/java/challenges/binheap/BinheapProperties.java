@@ -86,10 +86,13 @@ public class BinheapProperties {
 	@Provide
 	Arbitrary<Heap> heap() {
 		IntegerArbitrary sizes = Arbitraries.integers().between(0, 20);
-		return sizes.flatMap(size -> heap1(0, size));
+		return sizes.flatMap(size -> heap(0, size));
 	}
 
-	private Arbitrary<Heap> heap1(int minKey, int size) {
+	private Arbitrary<Heap> heap(int minKey, int size) {
+		// Using lazyOf with null heap and heap with children
+		// should theoretically provide better shrinking results,
+		// but it has a bug and will only generate null heap in this case
 		return Arbitraries.lazy(
 				() -> {
 					if (size <= 0) {
@@ -100,15 +103,17 @@ public class BinheapProperties {
 						if (branch == 1) {
 							return Arbitraries.just(null);
 						}
-						IntegerArbitrary keys = Arbitraries.integers().greaterOrEqual(minKey);
-						return keys.flatMap(head -> {
-							int childSize = size / 2;
-							return Combinators.combine(heap1(head, childSize), heap1(head, childSize))
-											  .as((left, right) -> new Heap(head, left, right));
-						});
-
+						return heapWithChildren(minKey, size);
 					});
 				});
+	}
+
+	private Arbitrary<Heap> heapWithChildren(int minKey, int size) {
+		Arbitrary<Integer> keys = Arbitraries.integers().greaterOrEqual(minKey);
+		return keys.flatMap(
+				head -> Combinators.combine(heap(head, size / 2), heap(head, size / 2))
+								   .as((left, right) -> new Heap(head, left, right))
+		);
 	}
 
 }

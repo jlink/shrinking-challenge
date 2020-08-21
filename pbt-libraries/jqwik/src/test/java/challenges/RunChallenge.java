@@ -1,6 +1,6 @@
 package challenges;
 
-import challenges.calculator.*;
+import challenges.binheap.*;
 import org.junit.platform.engine.discovery.*;
 import org.junit.platform.launcher.*;
 import org.junit.platform.launcher.core.*;
@@ -18,7 +18,7 @@ public class RunChallenge {
 		LauncherDiscoveryRequest request =
 				request()
 						.selectors(DiscoverySelectors.selectPackage("challenges"))
-						// .selectors(DiscoverySelectors.selectClass(CalculatorProperties.class))
+						// .selectors(DiscoverySelectors.selectClass(BinheapProperties.class))
 						// .selectors(DiscoverySelectors.selectMethod(
 						// 		DifferenceProperties.class,
 						// 		DifferenceProperties.class.getDeclaredMethod("mustNotBeOne", int.class, int.class)

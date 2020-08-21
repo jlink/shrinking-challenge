@@ -17,6 +17,6 @@ which would look somethink like `([-32768], [-1], [], [], [])`.
 
 |Library   |Code|Report|
 |----------|----|------|
-|Hypothesis|[bound5.py](/pbt-libraries/hypothesis/challenges/bound5.py)|[bound5.md](/pbt-libraries/hypothesis/challenges/bound5.md)
-|jqwik     |[Bound5Properties.java](/pbt-libraries/jqwik/src/test/java/challenges/bound5/Bound5Properties.java)|[bound5.md](/pbt-libraries/jqwik/reports/bound5.md)
+|Hypothesis|[bound5.py](/pbt-libraries/hypothesis/challenges/bound5.py)|[bound5.md](/pbt-libraries/hypothesis/challenges/bound5.md)|
+|jqwik     |[Bound5Properties.java](/pbt-libraries/jqwik/src/test/java/challenges/bound5/Bound5Properties.java)|[bound5.md](/pbt-libraries/jqwik/reports/bound5.md)|
 
