@@ -15,15 +15,14 @@ import static org.assertj.core.api.Assertions.*;
 public class BinheapProperties {
 
 	@Label("binheap")
-	@Disabled("Throwing NPE when running")
 	@Property
 	void test(@ForAll("heap") Heap h) {
 		List<Integer> l1 = toList(h);
-		System.out.println(l1);
-		// List<Integer> l2 = wrongToSortedList(h);
-		//
-		// assertThat(l2).isEqualTo(sorted(l2));
-		// assertThat(sorted(l1)).isEqualTo(l2);
+		List<Integer> l2 = wrongToSortedList(h);
+		// List<Integer> l2 = toSortedList(h);
+
+		assertThat(l2).isEqualTo(sorted(l2));
+		assertThat(sorted(l1)).isEqualTo(l2);
 	}
 
 	private List<Integer> toSortedList(Heap heap) {
@@ -87,27 +86,29 @@ public class BinheapProperties {
 	@Provide
 	Arbitrary<Heap> heap() {
 		IntegerArbitrary sizes = Arbitraries.integers().between(0, 20);
-		return sizes.flatMap(size -> heap1(null, size));
+		return sizes.flatMap(size -> heap1(0, size));
 	}
 
-	private Arbitrary<Heap> heap1(Integer bound, int size) {
-		Arbitrary<Integer> branches = Arbitraries.integers().between(1, 8);
+	private Arbitrary<Heap> heap1(int minKey, int size) {
 		return Arbitraries.lazy(
-				() -> branches.flatMap(branch -> {
-					if (branch == 1 || size <= 0) {
-						return null;
+				() -> {
+					if (size <= 0) {
+						return Arbitraries.just(null);
 					}
-					IntegerArbitrary keys = Arbitraries.integers();
-					if (bound != null) {
-						keys = keys.greaterOrEqual(bound);
-					}
-					return keys.flatMap(head -> {
-						int childSize = size / 2;
-						return Combinators.combine(heap1(head, childSize), heap1(head, childSize))
-										  .as((left, right) -> new Heap(head, left, right));
-					});
+					Arbitrary<Integer> branches = Arbitraries.integers().between(1, 8);
+					return branches.flatMap(branch -> {
+						if (branch == 1) {
+							return Arbitraries.just(null);
+						}
+						IntegerArbitrary keys = Arbitraries.integers().greaterOrEqual(minKey);
+						return keys.flatMap(head -> {
+							int childSize = size / 2;
+							return Combinators.combine(heap1(head, childSize), heap1(head, childSize))
+											  .as((left, right) -> new Heap(head, left, right));
+						});
 
-				}));
+					});
+				});
 	}
 
 }
