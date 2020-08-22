@@ -16,7 +16,6 @@ public class NestedListsProperties {
 
 	@Label("nestedlists")
 	@Property
-	@Report(Reporting.FALSIFIED)
 	void test(@ForAll List<List<@IntRange(min = 0, max = 0) Integer>> ls) {
 		int sum = ls.stream().mapToInt(List::size).sum();
 		assertThat(sum).isLessThanOrEqualTo(10);
