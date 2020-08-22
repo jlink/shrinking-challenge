@@ -67,6 +67,14 @@ which contains the code and data relevant to
 
 - [binheap](/challenges/binheap.md)
 
+- [coupling](/challenges/coupling.md)
+
+- [deletion](/challenges/deletion.md)
+
+- [distinct](/challenges/distinct.md)
+
+- [nestedlists](/challenges/nestedlists.md)
+
 ## PBT Libraries and Frameworks
 
 - [jqwik](/pbt-libraries/jqwik/README.md)

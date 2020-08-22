@@ -27,6 +27,10 @@ which means that all constraints from value generation are also considered durin
 |         |    |[difference_must_not_be_one.md](/pbt-libraries/jqwik/reports/difference_must_not_be_one.md)|
 |         |    |[difference_must_not_be_small.md](/pbt-libraries/jqwik/reports/difference_must_not_be_small.md)|
 |[binheap](/challenges/binheap.md)|[BinheapProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/lengthlist/BinheapProperties.java)|[binheap.md](/pbt-libraries/jqwik/reports/binheap.md)|
+|[coupling](/challenges/coupling.md)|[CouplingProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/lengthlist/CouplingProperties.java)|[coupling.md](/pbt-libraries/jqwik/reports/coupling.md)|
+|[deletion](/challenges/deletion.md)|[DeletionProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/lengthlist/DeletionProperties.java)|[deletion.md](/pbt-libraries/jqwik/reports/deletion.md)|
+|[distinct](/challenges/distinct.md)|[DistinctProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/lengthlist/DistinctProperties.java)|[distinct.md](/pbt-libraries/jqwik/reports/distinct.md)|
+|[nestedlists](/challenges/nestedlists.md)|[NestedListsProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/lengthlist/NestedListsProperties.java)|[nestedlists.md](/pbt-libraries/jqwik/reports/nestedlists.md)|
 
 ## Running examples
 
