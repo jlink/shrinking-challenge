@@ -43,3 +43,6 @@ out/
 pbt-libraries/hypothesis/.cache
 pbt-libraries/hypothesis/venv
 pbt-libraries/hypothesis/.hypothesis
+
+# PropEr / Erlang specific files
+*.beam
