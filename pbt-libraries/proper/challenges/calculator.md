@@ -16,11 +16,12 @@ PropEr shrinks this example to
 - ``{d,0,{a,5,-5}}``
 - ``{d,0,{a,-6,6}}``
 - ``{d,0,{a,3,-3}}``
+
 where the ``a`` tag means addition and ``d`` division.
 
 ## Performance
 
-Over 100 runs, PropEr found a counterexample after 7 to 43 tests
+Over 100 runs, PropEr found a counterexample after 7 to 43 tests,
 and performed between 1 and 9 shrinking attempts.
 
 See the [report of the run](calculator.report) for more information.
