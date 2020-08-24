@@ -1,7 +1,7 @@
 # The Shrinking Challenge
 
 One of the major aspects in which different property-based testing libraries differ
-is their approach towards shrinking. In this repository I try to collect
+is their approach towards shrinking. This repository collects
 concrete examples (challenges) for shrinking together with implementations
 in different frameworks so that one can compare and get a feel for
 weaknesses and strengths.
@@ -67,7 +67,8 @@ which contains the code and data relevant to
 |[distinct](/challenges/distinct.md)      | |[jqwik report](/pbt-libraries/jqwik/reports/distinct.md)|
 |[nestedlists](/challenges/nestedlists.md)| |[jqwik report](/pbt-libraries/jqwik/reports/nestedlists.md)|
 
-## PBT Libraries and Frameworks
+## PBT Libraries and Frameworks (alphabetically)
 
+- [Hypothesis](/pbt-libraries/hypothesis/README.md)
 - [jqwik](/pbt-libraries/jqwik/README.md)
-- [hypothesis](/pbt-libraries/hypothesis/README.md)
+- [PropEr](/pbt-libraries/proper/README.md)
