@@ -1,0 +1,689 @@
+~/shrinking-challenge/pbt-libraries/proper/challenges$ erl -pa ~/proper/ebin
+Eshell V11.0.3  (abort with ^G)
+1> c(calculator).
+{ok,calculator}
+2> [proper:quickcheck(calculator:prop_calculator()) || _ <- lists:seq(1,100)].
+........x.......x.......!
+Failed: After 23 test(s).
+{d,4,{d,11,21}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,1}}
+...x.x.................x...!
+Failed: After 25 test(s).
+An exception was raised: error:badarith.
+Stacktrace: [{erlang,'div',[-20,nothing],[]},
+             {calculator,calc,1,[{file,"calculator.erl"},{line,22}]},
+             {calculator,'-prop_calculator/0-fun-0-',1,
+                         [{file,"calculator.erl"},{line,10}]}].
+{d,{a,{a,-14,-3},-3},{d,{a,9,-24},{d,9,-13}}}
+
+Shrinking ......(6 time(s))
+{d,0,{d,0,{d,0,-1}}}
+...........................x..!
+Failed: After 30 test(s).
+{d,5,{d,{d,-1,46},{a,19,4}}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,1}}
+................x.....x....!
+Failed: After 26 test(s).
+An exception was raised: error:badarith.
+Stacktrace: [{erlang,'div',[1,nothing],[]},
+             {calculator,calc,1,[{file,"calculator.erl"},{line,22}]},
+             {calculator,'-prop_calculator/0-fun-0-',1,
+                         [{file,"calculator.erl"},{line,10}]}].
+{d,1,{d,{a,-12,-6},{d,-5,11}}}
+
+Shrinking ......(6 time(s))
+{a,0,{d,0,{d,0,1}}}
+.....x...x..........!
+Failed: After 19 test(s).
+{d,-2,{a,5,-5}}
+
+Shrinking .(1 time(s))
+{d,0,{a,5,-5}}
+x.........x............x.........!
+Failed: After 31 test(s).
+{d,{d,{d,0,-12},{a,3,-1}},{d,{d,18,27},{d,-12,3}}}
+
+Shrinking .....(5 time(s))
+{d,0,{d,0,1}}
+.....x....x.x........!
+Failed: After 19 test(s).
+{d,{a,-4,4},{d,-6,-9}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,-1}}
+x...x..............!
+Failed: After 18 test(s).
+{d,{d,7,23},{d,-6,-9}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,-1}}
+..........x.!
+Failed: After 12 test(s).
+{d,{a,-2,3},{d,-3,-10}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,-1}}
+..x..x.......................!
+Failed: After 28 test(s).
+{d,{a,{d,-5,13},{a,-15,14}},{d,{a,-7,-26},{a,-4,42}}}
+
+Shrinking ......(6 time(s))
+{d,0,{d,0,1}}
+.x.......................!
+Failed: After 25 test(s).
+{d,{a,2,-5},{d,0,2}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,1}}
+x.xx...x.......................!
+Failed: After 28 test(s).
+An exception was raised: error:badarith.
+Stacktrace: [{erlang,'div',[16,nothing],[]},
+             {calculator,calc,1,[{file,"calculator.erl"},{line,22}]},
+             {calculator,'-prop_calculator/0-fun-0-',1,
+                         [{file,"calculator.erl"},{line,10}]}].
+{d,{a,{a,23,7},-14},{d,{a,6,1},{d,-8,-11}}}
+
+Shrinking ......(6 time(s))
+{d,0,{d,0,{d,0,-1}}}
+.x..........x...x...x......!
+Failed: After 24 test(s).
+{d,{d,{a,-13,6},{d,-13,-12}},{d,{d,-3,20},{d,-7,7}}}
+
+Shrinking .....(5 time(s))
+{d,0,{d,0,1}}
+.................!
+Failed: After 18 test(s).
+{d,2,{a,-1,1}}
+
+Shrinking .(1 time(s))
+{d,0,{a,-1,1}}
+.x....................x.....!
+Failed: After 27 test(s).
+An exception was raised: error:badarith.
+Stacktrace: [{erlang,'div',[11,nothing],[]},
+             {calculator,calc,1,[{file,"calculator.erl"},{line,22}]},
+             {calculator,'-prop_calculator/0-fun-0-',1,
+                         [{file,"calculator.erl"},{line,10}]}].
+{d,{a,11,{d,-1,4}},{d,{d,-4,5},{d,5,-13}}}
+
+Shrinking ......(6 time(s))
+{d,0,{d,0,{d,0,-1}}}
+x...........!
+Failed: After 12 test(s).
+{d,{d,5,-2},{d,0,-3}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,-1}}
+.xx..........!
+Failed: After 12 test(s).
+{d,-4,{d,0,-2}}
+
+Shrinking ...(3 time(s))
+{d,0,{a,-6,6}}
+............x...x!
+Failed: After 16 test(s).
+{d,5,{d,-1,4}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,1}}
+............!
+Failed: After 13 test(s).
+{d,2,{d,-1,-4}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,-1}}
+..............!
+Failed: After 15 test(s).
+{d,-6,{a,1,-1}}
+
+Shrinking .(1 time(s))
+{d,0,{a,1,-1}}
+x............x...!
+Failed: After 16 test(s).
+{d,-1,{d,-1,-4}}
+
+Shrinking ..(2 time(s))
+{d,0,{a,1,-1}}
+..........x............!
+Failed: After 23 test(s).
+{d,6,{d,-1,-4}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,-1}}
+........x..x..xx......x.x....!
+Failed: After 24 test(s).
+{d,{d,7,4},{d,{d,4,5},9}}
+
+Shrinking .....(5 time(s))
+{d,0,{d,0,1}}
+.x...................!
+Failed: After 21 test(s).
+{d,{d,-2,-2},{d,2,-18}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,-1}}
+..xx..........!
+Failed: After 13 test(s).
+{d,{a,7,-5},{d,-2,6}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,1}}
+............!
+Failed: After 13 test(s).
+{d,{a,-3,-1},{a,3,-3}}
+
+Shrinking ..(2 time(s))
+{d,0,{a,3,-3}}
+....................................!
+Failed: After 37 test(s).
+An exception was raised: error:badarith.
+Stacktrace: [{erlang,'+',[3,nothing],[]},
+             {calculator,calc,1,[{file,"calculator.erl"},{line,18}]},
+             {calculator,'-prop_calculator/0-fun-0-',1,
+                         [{file,"calculator.erl"},{line,10}]}].
+{a,{d,{a,5,13},6},{d,{a,-7,-14},{d,1,5}}}
+
+Shrinking ......(6 time(s))
+{a,0,{d,0,{d,0,1}}}
+..x....x.x!
+Failed: After 8 test(s).
+{d,{d,-1,1},{d,0,3}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,1}}
+....x......x..........!
+Failed: After 21 test(s).
+{d,{a,-5,6},{d,4,23}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,1}}
+..........x......!
+Failed: After 17 test(s).
+{d,{a,-5,3},{d,-3,4}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,1}}
+.....................!
+Failed: After 22 test(s).
+{d,-1,{d,-1,-3}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,-1}}
+.x.......!
+Failed: After 9 test(s).
+{d,{d,0,-2},{d,-2,4}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,1}}
+.........x.x.......................!
+Failed: After 34 test(s).
+An exception was raised: error:badarith.
+Stacktrace: [{erlang,'div',[41,nothing],[]},
+             {calculator,calc,1,[{file,"calculator.erl"},{line,22}]},
+             {calculator,'-prop_calculator/0-fun-0-',1,
+                         [{file,"calculator.erl"},{line,10}]}].
+{d,{a,{d,4,7},41},{d,6,{d,5,8}}}
+
+Shrinking .....(5 time(s))
+{d,0,{d,0,{d,0,1}}}
+..............x!
+Failed: After 15 test(s).
+{d,{a,8,13},{d,-1,3}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,1}}
+...x.x............!
+Failed: After 17 test(s).
+{d,{d,10,1},{d,-1,-13}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,-1}}
+.....x..........x...........x......!
+Failed: After 33 test(s).
+{d,{a,{a,21,2},{d,14,29}},{d,3,{a,41,-7}}}
+
+Shrinking .....(5 time(s))
+{d,0,{d,0,1}}
+.......x.x..!
+Failed: After 11 test(s).
+{d,{a,11,2},{d,0,-2}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,-1}}
+..............x........!
+Failed: After 23 test(s).
+{d,-7,{d,-8,-38}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,-1}}
+..x...............!
+Failed: After 18 test(s).
+{d,{d,14,10},{d,0,-7}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,-1}}
+..............!
+Failed: After 15 test(s).
+{d,{a,-4,4},{d,1,-2}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,-1}}
+x......x..x....!
+Failed: After 13 test(s).
+{d,{d,1,-1},{a,-2,2}}
+
+Shrinking ..(2 time(s))
+{d,0,{a,-2,2}}
+..........x.!
+Failed: After 12 test(s).
+{d,85,{d,0,-3}}
+
+Shrinking ..(2 time(s))
+{d,0,{d,0,-1}}
+..x.....xx..............!
+Failed: After 22 test(s).
+{d,{a,-1,21},{d,1,-6}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,-1}}
+x......................!
+Failed: After 23 test(s).
+{d,5,{d,-3,6}}
+
+Shrinking ....(4 time(s))
+{d,0,{a,0,0}}
+.................!
+Failed: After 18 test(s).
+{d,{d,-5,-3},{d,-12,23}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,1}}
+................................!
+Failed: After 33 test(s).
+{d,{d,7,{d,1,-8}},{d,{a,-3,2},-2}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,-1}}
+x..........x...................!
+Failed: After 30 test(s).
+{d,{d,{a,1,-2},{a,1,9}},{d,{d,0,-8},{a,0,15}}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,-1}}
+.............!
+Failed: After 14 test(s).
+{d,{a,-12,-1},{d,3,5}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,1}}
+x..x.............x.!
+Failed: After 17 test(s).
+{d,{a,-4,-4},{d,-3,-6}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,-1}}
+.x........x........!
+Failed: After 18 test(s).
+{d,{d,7,-4},{d,2,4}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,1}}
+.x.........x..x..............!
+Failed: After 27 test(s).
+An exception was raised: error:badarith.
+Stacktrace: [{erlang,'+',[nothing,6],[]},
+             {calculator,calc,1,[{file,"calculator.erl"},{line,18}]},
+             {calculator,'-prop_calculator/0-fun-0-',1,
+                         [{file,"calculator.erl"},{line,10}]}].
+{a,{d,{d,3,11},{d,-1,2}},{d,-6,{d,-14,9}}}
+
+Shrinking ......(6 time(s))
+{a,{d,0,{d,0,1}},0}
+.....x......x..!
+Failed: After 14 test(s).
+{d,{d,-3,3},{d,-1,16}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,1}}
+.........x......!
+Failed: After 16 test(s).
+{d,{a,4,-10},{d,2,15}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,1}}
+...........x..!
+Failed: After 14 test(s).
+{d,{a,0,1},{d,13,-18}}
+
+Shrinking ..(2 time(s))
+{d,0,{a,0,0}}
+.x.......!
+Failed: After 9 test(s).
+{d,{d,10,-1},{d,-1,2}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,1}}
+.............!
+Failed: After 14 test(s).
+{d,{a,1,4},{d,1,-9}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,-1}}
+...............................!
+Failed: After 32 test(s).
+An exception was raised: error:badarith.
+Stacktrace: [{erlang,'+',[1,nothing],[]},
+             {calculator,calc,1,[{file,"calculator.erl"},{line,18}]},
+             {calculator,'-prop_calculator/0-fun-0-',1,
+                         [{file,"calculator.erl"},{line,10}]}].
+{a,{a,{d,-1,-1},{d,-3,5}},{d,-3,{d,-5,10}}}
+
+Shrinking .....(5 time(s))
+{a,0,{d,0,{d,0,1}}}
+...........x......!
+Failed: After 18 test(s).
+{d,-6,{d,-2,-8}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,-1}}
+..................!
+Failed: After 19 test(s).
+{d,{d,6,6},{d,-2,6}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,1}}
+............!
+Failed: After 13 test(s).
+{d,-6,{d,-3,14}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,1}}
+..........x..!
+Failed: After 13 test(s).
+{d,-3,{d,-1,6}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,1}}
+....................................!
+Failed: After 37 test(s).
+{d,{a,{a,16,10},{a,-21,-5}},{d,{d,29,-31},{a,5,16}}}
+
+Shrinking .....(5 time(s))
+{d,0,{d,0,-1}}
+..............x....................!
+Failed: After 35 test(s).
+An exception was raised: error:badarith.
+Stacktrace: [{erlang,'div',[9,nothing],[]},
+             {calculator,calc,1,[{file,"calculator.erl"},{line,22}]},
+             {calculator,'-prop_calculator/0-fun-0-',1,
+                         [{file,"calculator.erl"},{line,10}]}].
+{d,{a,{a,3,6},{d,7,-49}},{d,{d,-5,6},{d,-6,30}}}
+
+Shrinking ......(6 time(s))
+{d,0,{d,0,{d,0,1}}}
+.......x....x............!
+Failed: After 24 test(s).
+{d,-9,{d,20,-23}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,-1}}
+..........x!
+Failed: After 11 test(s).
+{d,{a,18,-2},{d,-3,-18}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,-1}}
+..................!
+Failed: After 19 test(s).
+{d,{a,-5,42},{d,5,-8}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,-1}}
+..x......!
+Failed: After 9 test(s).
+{d,7,{d,0,8}}
+
+Shrinking ..(2 time(s))
+{d,0,{d,0,1}}
+.x..x.....x......!
+Failed: After 15 test(s).
+{d,{d,7,-8},{d,-1,-7}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,-1}}
+.xx..............................x..x!
+Failed: After 34 test(s).
+{d,{a,{a,-2,14},{d,-5,8}},{d,{d,-1,-2},-1}}
+
+Shrinking .....(5 time(s))
+{d,0,{d,0,-1}}
+.x..........x..!
+Failed: After 14 test(s).
+{d,{d,4,1},{d,1,3}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,1}}
+..............!
+Failed: After 15 test(s).
+{d,-5,{d,-2,-3}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,-1}}
+.x....x............x........x.......x..!
+Failed: After 35 test(s).
+An exception was raised: error:badarith.
+Stacktrace: [{erlang,'div',[13,nothing],[]},
+             {calculator,calc,1,[{file,"calculator.erl"},{line,22}]},
+             {calculator,'-prop_calculator/0-fun-0-',1,
+                         [{file,"calculator.erl"},{line,10}]}].
+{d,{a,{d,10,12},13},{d,-11,{d,1,-4}}}
+
+Shrinking ......(6 time(s))
+{a,0,{d,0,{d,0,1}}}
+x..........................!
+Failed: After 27 test(s).
+An exception was raised: error:badarith.
+Stacktrace: [{erlang,'div',[0,nothing],[]},
+             {calculator,calc,1,[{file,"calculator.erl"},{line,22}]},
+             {calculator,'-prop_calculator/0-fun-0-',1,
+                         [{file,"calculator.erl"},{line,10}]}].
+{d,{a,6,-6},{d,{a,-14,3},{d,-9,12}}}
+
+Shrinking ......(6 time(s))
+{d,0,{d,0,{d,0,1}}}
+......x..x............x......!
+Failed: After 27 test(s).
+{d,{d,{a,13,8},5},{d,{d,2,-7},-1}}
+
+Shrinking ......(6 time(s))
+{d,0,{d,0,-1}}
+...x.....x.......x..............!
+Failed: After 30 test(s).
+{d,{d,-2,{a,7,3}},{d,{a,-15,18},{a,16,-8}}}
+
+Shrinking .........(9 time(s))
+{d,0,{d,0,1}}
+...................x...............!
+Failed: After 35 test(s).
+An exception was raised: error:badarith.
+Stacktrace: [{erlang,'+',[21,nothing],[]},
+             {calculator,calc,1,[{file,"calculator.erl"},{line,18}]},
+             {calculator,'-prop_calculator/0-fun-0-',1,
+                         [{file,"calculator.erl"},{line,10}]}].
+{a,{a,-5,{a,15,11}},{d,{a,-7,3},{d,9,13}}}
+
+Shrinking ......(6 time(s))
+{a,0,{d,0,{d,0,1}}}
+..x........................!
+Failed: After 27 test(s).
+An exception was raised: error:badarith.
+Stacktrace: [{erlang,'+',[nothing,-12],[]},
+             {calculator,calc,1,[{file,"calculator.erl"},{line,18}]},
+             {calculator,'-prop_calculator/0-fun-0-',1,
+                         [{file,"calculator.erl"},{line,10}]}].
+{a,{d,{d,-11,-4},{d,-5,77}},{a,{d,3,-17},-12}}
+
+Shrinking ......(6 time(s))
+{a,{d,0,{d,0,1}},0}
+x..........................!
+Failed: After 27 test(s).
+{d,{d,{a,-5,14},{a,12,-6}},{d,4,{a,-4,-7}}}
+
+Shrinking .....(5 time(s))
+{d,0,{d,0,1}}
+.x...........!
+Failed: After 13 test(s).
+{d,-1,{d,-1,-3}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,-1}}
+.x.........!
+Failed: After 11 test(s).
+{d,{a,-2,-11},{d,-2,4}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,1}}
+......................................x....!
+Failed: After 43 test(s).
+An exception was raised: error:badarith.
+Stacktrace: [{erlang,'+',[9,nothing],[]},
+             {calculator,calc,1,[{file,"calculator.erl"},{line,18}]},
+             {calculator,'-prop_calculator/0-fun-0-',1,
+                         [{file,"calculator.erl"},{line,10}]}].
+{a,9,{d,{d,-38,-4},{d,-6,7}}}
+
+Shrinking .....(5 time(s))
+{a,0,{d,0,{d,0,1}}}
+........................!
+Failed: After 25 test(s).
+{d,-27,{d,-3,38}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,1}}
+...x.....!
+Failed: After 9 test(s).
+{d,{d,-2,-1},{a,1,-1}}
+
+Shrinking ..(2 time(s))
+{d,0,{a,1,-1}}
+x.x..x......xx!
+Failed: After 10 test(s).
+{d,{d,8,-5},{a,2,-2}}
+
+Shrinking ..(2 time(s))
+{d,0,{a,2,-2}}
+.......x.x...........xx.........!
+Failed: After 29 test(s).
+An exception was raised: error:badarith.
+Stacktrace: [{erlang,'+',[5,nothing],[]},
+             {calculator,calc,1,[{file,"calculator.erl"},{line,18}]},
+             {calculator,'-prop_calculator/0-fun-0-',1,
+                         [{file,"calculator.erl"},{line,10}]}].
+{a,{d,{a,8,14},4},{d,{a,0,8},{d,16,18}}}
+
+Shrinking .....(5 time(s))
+{a,0,{d,0,{d,0,1}}}
+x.....x..!
+Failed: After 8 test(s).
+{d,0,{d,1,2}}
+
+Shrinking ..(2 time(s))
+{d,0,{d,0,1}}
+.............!
+Failed: After 14 test(s).
+{d,3,{d,2,-5}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,-1}}
+....x.................!
+Failed: After 22 test(s).
+{d,{a,18,11},{d,2,-6}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,-1}}
+xx....................!
+Failed: After 21 test(s).
+{d,-6,{d,-8,14}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,1}}
+..............x.........!
+Failed: After 24 test(s).
+{d,{a,-10,9},{d,-3,13}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,1}}
+...x.x.........x......!
+Failed: After 20 test(s).
+{d,{d,-4,-1},{a,-3,3}}
+
+Shrinking ..(2 time(s))
+{d,0,{a,-3,3}}
+.......................!
+Failed: After 24 test(s).
+{d,3,{d,-1,-12}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,-1}}
+...............!
+Failed: After 16 test(s).
+{d,{d,-1,-6},{d,2,-13}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,-1}}
+x.xx.....!
+Failed: After 7 test(s).
+{d,0,{d,6,10}}
+
+Shrinking ..(2 time(s))
+{d,0,{d,0,1}}
+x...x..............!
+Failed: After 18 test(s).
+{d,-1,{d,-1,7}}
+
+Shrinking ..(2 time(s))
+{d,0,{a,1,-1}}
+.x.......................x..x!
+Failed: After 27 test(s).
+An exception was raised: error:badarith.
+Stacktrace: [{erlang,'+',[nothing,0],[]},
+             {calculator,calc,1,[{file,"calculator.erl"},{line,18}]},
+             {calculator,'-prop_calculator/0-fun-0-',1,
+                         [{file,"calculator.erl"},{line,10}]}].
+{a,{d,-28,{d,11,14}},{d,-8,-12}}
+
+Shrinking .....(5 time(s))
+{a,{d,0,{d,0,1}},0}
+.x.................!
+Failed: After 19 test(s).
+{d,{d,9,2},{d,0,6}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,1}}
+.x.x......x..............!
+Failed: After 23 test(s).
+{d,-3,{d,-2,8}}
+
+Shrinking ...(3 time(s))
+{d,0,{d,0,1}}
+....x....x............x........!
+Failed: After 29 test(s).
+{d,{a,{a,-9,-12},2},{d,3,{a,-1,12}}}
+
+Shrinking .....(5 time(s))
+{d,0,{d,0,-1}}
+.....x......x.x...!
+Failed: After 16 test(s).
+{d,{d,57,2},{d,3,-6}}
+
+Shrinking ....(4 time(s))
+{d,0,{d,0,-1}}
+[false,false,false,false,false,false,false,false,false,
+ false,false,false,false,false,false,false,false,false,false,
+ false,false,false,false,false,false,false,false,false,false|...]
+3> 

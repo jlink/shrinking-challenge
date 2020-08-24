@@ -8,4 +8,5 @@ TBA
 
 ## Implemented Challenges
 
+- [calculator](/pbt-libraries/proper/challenges/calculator.erl)
 - [reverse](/pbt-libraries/proper/challenges/reverse.erl)
