@@ -53,19 +53,19 @@ Some challenges were stolen from
 which contains the code and data relevant to 
 [this paper](https://drmaciver.github.io/papers/reduction-via-generation-preview.pdf).
 
-|Challenge|Hypothesis|jqwik|
-|---------|----------|-----|
-|[bound5](/challenges/bound5.md)                    |[hypothesis report](/pbt-libraries/hypothesis/challenges/bound5.md)|[jqwik report](/pbt-libraries/jqwik/reports/bound5.md)|
-|[large union list](/challenges/large_union_list.md)|[hypothesis report](/pbt-libraries/hypothesis/challenges/large_union_list.md)|[jqwik report](/pbt-libraries/jqwik/reports/large_union_list.md)|
-|[reverse](/challenges/reverse.md)        |[hypothesis report](/pbt-libraries/hypothesis/challenges/reverse.md)|[jqwik report](/pbt-libraries/jqwik/reports/reverse.md)|
-|[calculator](/challenges/calculator.md)  |[hypothesis report](/pbt-libraries/hypothesis/challenges/calculator.md)|[jqwik report](/pbt-libraries/jqwik/reports/calculator.md)|
-|[length list](/challenges/lengthlist.md) |[hypothesis report](/pbt-libraries/hypothesis/challenges/lengthlist.md)|[jqwik report](/pbt-libraries/jqwik/reports/lengthlist.md)|
-|[difference](/challenges/difference.md)  | |[jqwik report](/pbt-libraries/jqwik/reports/difference.md)|
-|[binheap](/challenges/binheap.md)        | |[jqwik report](/pbt-libraries/jqwik/reports/binheap.md)|
-|[coupling](/challenges/coupling.md)      | |[jqwik report](/pbt-libraries/jqwik/reports/coupling.md)|
-|[deletion](/challenges/deletion.md)      | |[jqwik report](/pbt-libraries/jqwik/reports/deletion.md)|
-|[distinct](/challenges/distinct.md)      | |[jqwik report](/pbt-libraries/jqwik/reports/distinct.md)|
-|[nestedlists](/challenges/nestedlists.md)| |[jqwik report](/pbt-libraries/jqwik/reports/nestedlists.md)|
+|Challenge|Hypothesis|jqwik|PropEr|
+|---------|----------|-----|------|
+|[bound5](/challenges/bound5.md)                    |[report](/pbt-libraries/hypothesis/challenges/bound5.md)|[report](/pbt-libraries/jqwik/reports/bound5.md)| |
+|[large union list](/challenges/large_union_list.md)|[report](/pbt-libraries/hypothesis/challenges/large_union_list.md)|[report](/pbt-libraries/jqwik/reports/large_union_list.md)| |
+|[reverse](/challenges/reverse.md)        |[report](/pbt-libraries/hypothesis/challenges/reverse.md)|[report](/pbt-libraries/jqwik/reports/reverse.md)|[report](pbt-libraries/proper/challenges/reverse.md)|
+|[calculator](/challenges/calculator.md)  |[report](/pbt-libraries/hypothesis/challenges/calculator.md)|[report](/pbt-libraries/jqwik/reports/calculator.md)| |
+|[length list](/challenges/lengthlist.md) |[report](/pbt-libraries/hypothesis/challenges/lengthlist.md)|[report](/pbt-libraries/jqwik/reports/lengthlist.md)| |
+|[difference](/challenges/difference.md)  | |[report](/pbt-libraries/jqwik/reports/difference.md)| |
+|[binheap](/challenges/binheap.md)        | |[report](/pbt-libraries/jqwik/reports/binheap.md)| |
+|[coupling](/challenges/coupling.md)      | |[report](/pbt-libraries/jqwik/reports/coupling.md)| |
+|[deletion](/challenges/deletion.md)      | |[report](/pbt-libraries/jqwik/reports/deletion.md)| |
+|[distinct](/challenges/distinct.md)      | |[report](/pbt-libraries/jqwik/reports/distinct.md)| |
+|[nestedlists](/challenges/nestedlists.md)| |[report](/pbt-libraries/jqwik/reports/nestedlists.md)| |
 
 ## PBT Libraries and Frameworks (alphabetically)
 
