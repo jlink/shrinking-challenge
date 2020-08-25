@@ -64,7 +64,7 @@ which contains the code and data relevant to
 |[binheap](/challenges/binheap.md)        | |[report](/pbt-libraries/jqwik/reports/binheap.md)| |
 |[coupling](/challenges/coupling.md)      | |[report](/pbt-libraries/jqwik/reports/coupling.md)| |
 |[deletion](/challenges/deletion.md)      | |[report](/pbt-libraries/jqwik/reports/deletion.md)| |
-|[distinct](/challenges/distinct.md)      | |[report](/pbt-libraries/jqwik/reports/distinct.md)| |
+|[distinct](/challenges/distinct.md)      | |[report](/pbt-libraries/jqwik/reports/distinct.md)|[report](pbt-libraries/proper/challenges/distinct.md)|
 |[nestedlists](/challenges/nestedlists.md)| |[report](/pbt-libraries/jqwik/reports/nestedlists.md)| |
 
 ## PBT Libraries and Frameworks (alphabetically)
