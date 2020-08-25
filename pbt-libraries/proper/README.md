@@ -11,3 +11,4 @@ TBA
 - [calculator](/pbt-libraries/proper/challenges/calculator.erl)
 - [reverse](/pbt-libraries/proper/challenges/reverse.erl)
 - [lengthlist](/pbt-libraries/proper/challenges/lengthlist.erl)
+- [distinct](/pbt-libraries/proper/challenges/distinct.erl)
