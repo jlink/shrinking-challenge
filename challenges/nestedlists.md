@@ -18,3 +18,4 @@ a single list of 11 elements: `[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]`.
 |Library   |Code|Report|
 |----------|----|------|
 |jqwik     |[NestedListsProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/nestedlists/NestedListsProperties.java)|[nestedlists.md](/pbt-libraries/jqwik/reports/nestedlists.md)|
+
