@@ -14,15 +14,7 @@ Some libraries, e.g. Hypothesis and jqwik, can shrink this reliably to
 a single list of 11 elements: `[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]`.
 
 ## Implementors
-	@Label("nestedlists")
-	@Property
-	void test(@ForAll List<List<@IntRange(min = 0, max = 0) Integer>> ls) {
-		int sum = ls.stream().mapToInt(List::size).sum();
-		assertThat(sum).isLessThanOrEqualTo(10);
-	}
-
 
 |Library   |Code|Report|
 |----------|----|------|
 |jqwik     |[NestedListsProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/nestedlists/NestedListsProperties.java)|[nestedlists.md](/pbt-libraries/jqwik/reports/nestedlists.md)|
-
