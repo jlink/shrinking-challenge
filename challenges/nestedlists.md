@@ -2,8 +2,8 @@
 
 [Original source](https://github.com/mc-imperial/hypothesis-ecoop-2020-artifact/tree/master/smartcheck-benchmarks/evaluations/nestedlists)
 
-This tests the performance of shrinking a list of lists, subject to the
-constraint that the sum of the element lists is at least 10.
+This tests the performance of shrinking a list of lists, testing the false
+property that the sum of lengths of the element lists is at most 10.
 
 The reason this is interesting is that it has lots of local minima under
 pure deletion based approaches. e.g. `[[0], ..., [0]]` and `[[0, ..., 0]]` are
@@ -14,6 +14,13 @@ Some libraries, e.g. Hypothesis and jqwik, can shrink this reliably to
 a single list of 11 elements: `[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]`.
 
 ## Implementors
+	@Label("nestedlists")
+	@Property
+	void test(@ForAll List<List<@IntRange(min = 0, max = 0) Integer>> ls) {
+		int sum = ls.stream().mapToInt(List::size).sum();
+		assertThat(sum).isLessThanOrEqualTo(10);
+	}
+
 
 |Library   |Code|Report|
 |----------|----|------|
