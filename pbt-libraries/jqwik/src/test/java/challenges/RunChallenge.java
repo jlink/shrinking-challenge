@@ -1,10 +1,6 @@
 package challenges;
 
-import challenges.binheap.*;
-import challenges.coupling.*;
-import challenges.deletion.*;
-import challenges.distinct.*;
-import challenges.nestedlists.*;
+import challenges.bound5.*;
 import org.junit.platform.engine.discovery.*;
 import org.junit.platform.launcher.*;
 import org.junit.platform.launcher.core.*;
@@ -22,10 +18,7 @@ public class RunChallenge {
 		LauncherDiscoveryRequest request =
 				request()
 						// .selectors(DiscoverySelectors.selectPackage("challenges"))
-						.selectors(DiscoverySelectors.selectClass(NestedListsProperties.class))
-						.selectors(DiscoverySelectors.selectClass(DistinctProperties.class))
-						.selectors(DiscoverySelectors.selectClass(DeletionProperties.class))
-						.selectors(DiscoverySelectors.selectClass(CouplingProperties.class))
+						.selectors(DiscoverySelectors.selectClass(Bound5Properties.class))
 						// .selectors(DiscoverySelectors.selectMethod(
 						// 		DifferenceProperties.class,
 						// 		DifferenceProperties.class.getDeclaredMethod("mustNotBeOne", int.class, int.class)
