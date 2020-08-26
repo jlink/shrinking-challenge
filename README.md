@@ -56,7 +56,7 @@ which contains the code and data relevant to
 |Challenge|Hypothesis|jqwik|PropEr|
 |---------|----------|-----|------|
 |[bound5](/challenges/bound5.md)                    |[report](/pbt-libraries/hypothesis/challenges/bound5.md)|[report](/pbt-libraries/jqwik/reports/bound5.md)| |
-|[large union list](/challenges/large_union_list.md)|[report](/pbt-libraries/hypothesis/challenges/large_union_list.md)|[report](/pbt-libraries/jqwik/reports/large_union_list.md)| |
+|[large union list](/challenges/large_union_list.md)|[report](/pbt-libraries/hypothesis/challenges/large_union_list.md)|[report](/pbt-libraries/jqwik/reports/large_union_list.md)|[report](pbt-libraries/proper/challenges/large_union_list.md)|
 |[reverse](/challenges/reverse.md)        |[report](/pbt-libraries/hypothesis/challenges/reverse.md)|[report](/pbt-libraries/jqwik/reports/reverse.md)|[report](pbt-libraries/proper/challenges/reverse.md)|
 |[calculator](/challenges/calculator.md)  |[report](/pbt-libraries/hypothesis/challenges/calculator.md)|[report](/pbt-libraries/jqwik/reports/calculator.md)|[report](pbt-libraries/proper/challenges/calculator.md)|
 |[length list](/challenges/lengthlist.md) |[report](/pbt-libraries/hypothesis/challenges/lengthlist.md)|[report](/pbt-libraries/jqwik/reports/lengthlist.md)|[report](pbt-libraries/proper/challenges/lengthlist.md)|

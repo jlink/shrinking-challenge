@@ -8,6 +8,7 @@ TBA
 
 ## Implemented Challenges
 
+- [large union list](/pbt-libraries/proper/challenges/large_union_list.erl)
 - [calculator](/pbt-libraries/proper/challenges/calculator.erl)
 - [reverse](/pbt-libraries/proper/challenges/reverse.erl)
 - [lengthlist](/pbt-libraries/proper/challenges/lengthlist.erl)
