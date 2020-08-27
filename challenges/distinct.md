@@ -16,4 +16,5 @@ The expected smallest falsified sample is `[0, 1, -1]` or `[0, 1, 2]`.
 |Library   |Code|Report|
 |----------|----|------|
 |jqwik     |[DistinctProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/distinct/DistinctProperties.java)|[distinct.md](/pbt-libraries/jqwik/reports/distinct.md)|
+|PropEr    |[distinct.erl](/pbt-libraries/proper/challenges/distinct.erl)|[distinct.md](/pbt-libraries/proper/challenges/distinct.md)
 
