@@ -10,7 +10,6 @@ import net.jqwik.api.lifecycle.*;
 import static org.assertj.core.api.Assertions.*;
 
 @AddLifecycleHook(ShrinkingStatistics.class)
-@PropertyDefaults(shrinking = ShrinkingMode.FULL, afterFailure = AfterFailureMode.RANDOM_SEED)
 public class DistinctProperties {
 
 	@Label("distinct")

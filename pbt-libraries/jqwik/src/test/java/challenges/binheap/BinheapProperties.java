@@ -10,7 +10,6 @@ import net.jqwik.api.lifecycle.*;
 
 import static org.assertj.core.api.Assertions.*;
 
-@PropertyDefaults(afterFailure = AfterFailureMode.RANDOM_SEED)
 @AddLifecycleHook(ShrinkingStatistics.class)
 public class BinheapProperties {
 

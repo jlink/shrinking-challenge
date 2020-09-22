@@ -11,7 +11,6 @@ import net.jqwik.api.arbitraries.*;
 import net.jqwik.api.lifecycle.*;
 
 @AddLifecycleHook(ShrinkingStatistics.class)
-@PropertyDefaults(shrinking = ShrinkingMode.FULL, afterFailure = AfterFailureMode.RANDOM_SEED)
 public class Bound5Properties {
 
 	@Label("bound5")

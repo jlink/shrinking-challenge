@@ -1,702 +1,702 @@
 [
   {
-    "evaluations" : 1062,
-    "seed" : "5651279218893112586",
+    "evaluations" : 1328,
+    "seed" : "-3491316427986782117",
     "shrunk" : {
-      "h" : "(836882, None, (2395528, (2395528, None, None), (2395529, None, None)))"
+      "h" : "(1610, None, (71532, (71532, None, None), (71533, None, None)))"
     }
   },
   {
-    "evaluations" : 9724,
-    "seed" : "3597950413263709305",
+    "evaluations" : 326,
+    "seed" : "-602562164932105060",
     "shrunk" : {
-      "h" : "(5788370, (7622738, None, None), (7587092, (7622739, None, None), None))"
+      "h" : "(39, None, (39, (39, None, None), (40, None, None)))"
     }
   },
   {
-    "evaluations" : 222,
-    "seed" : "7539970295525391136",
+    "evaluations" : 1447,
+    "seed" : "-8048254178476976722",
     "shrunk" : {
-      "h" : "(899, None, (2026, (2026, None, None), (2027, None, None)))"
+      "h" : "(669986, (707081, None, None), (669986, (669987, None, None), (669986, None, None)))"
     }
   },
   {
-    "evaluations" : 227,
-    "seed" : "-7819319864039688628",
+    "evaluations" : 172,
+    "seed" : "8019881802362500891",
     "shrunk" : {
-      "h" : "(4005795, None, (4005795, (4005795, None, None), (4005796, None, None)))"
+      "h" : "(130442, None, (130442, (130442, None, None), (130443, None, None)))"
     }
   },
   {
-    "evaluations" : 153,
-    "seed" : "5007425625704795708",
+    "evaluations" : 656,
+    "seed" : "-8926964648341667991",
     "shrunk" : {
-      "h" : "(585740, None, (585740, (585740, None, None), (585741, None, None)))"
+      "h" : "(4478305, (4478407, None, None), (4478305, (4478408, None, None), None))"
     }
   },
   {
-    "evaluations" : 309,
-    "seed" : "3977179337717538547",
-    "shrunk" : {
-      "h" : "(3149, None, (13482, (15273, (15273, None, None), (15274, None, None)), None))"
-    }
-  },
-  {
-    "evaluations" : 4022,
-    "seed" : "-7286013914470484877",
-    "shrunk" : {
-      "h" : "(18491, None, (376722236, (376722236, None, None), (376722237, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 150,
-    "seed" : "-6513980994553852691",
-    "shrunk" : {
-      "h" : "(13, None, (13, (13, None, None), (14, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 4736,
-    "seed" : "8265992687648319943",
-    "shrunk" : {
-      "h" : "(5388, (2074325537, None, None), (5388, (5389, None, None), (5388, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 171,
-    "seed" : "4968004278799910154",
+    "evaluations" : 606,
+    "seed" : "-1185584967804411995",
     "shrunk" : {
       "h" : "(0, None, (0, (0, None, None), (1, None, None)))"
     }
   },
   {
-    "evaluations" : 443,
-    "seed" : "4366529944581087308",
+    "evaluations" : 361,
+    "seed" : "-8287798711309030586",
     "shrunk" : {
-      "h" : "(1880, None, (2020, (2020, None, None), (2021, None, None)))"
+      "h" : "(1759859540, None, (1760054600, (1760054600, None, None), (1760054684, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 104,
+    "seed" : "5180529082147574989",
+    "shrunk" : {
+      "h" : "(1, None, (5294544, None, (5294544, (5294544, None, None), (5294545, None, None))))"
+    }
+  },
+  {
+    "evaluations" : 3728,
+    "seed" : "-2633125799053516041",
+    "shrunk" : {
+      "h" : "(172, (440503, None, None), (172, (173, None, None), (172, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 1590,
+    "seed" : "-3053276677829484445",
+    "shrunk" : {
+      "h" : "(1553024, (1553024, (1553391, None, None), None), (1553390, None, None))"
+    }
+  },
+  {
+    "evaluations" : 1788,
+    "seed" : "371377968536874697",
+    "shrunk" : {
+      "h" : "(0, (0, None, (1, None, None)), (0, (2, None, None), None))"
+    }
+  },
+  {
+    "evaluations" : 14373,
+    "seed" : "4735823869875409810",
+    "shrunk" : {
+      "h" : "(0, (0, None, (0, (0, (0, None, None), (1, None, None)), None)), None)"
+    }
+  },
+  {
+    "evaluations" : 194,
+    "seed" : "-2736565460929603856",
+    "shrunk" : {
+      "h" : "(516, None, (516, (516, None, None), (517, None, None)))"
     }
   },
   {
     "evaluations" : 549,
-    "seed" : "564087581991107199",
+    "seed" : "-7809408757606949812",
     "shrunk" : {
-      "h" : "(0, (0, (0, (0, None, None), (1, None, None)), None), None)"
+      "h" : "(20, (89221, None, None), (20, (21, None, None), (20, None, None)))"
     }
   },
   {
-    "evaluations" : 100,
-    "seed" : "1552098832484085583",
-    "shrunk" : {
-      "h" : "(780164430, None, (780707930, None, (780707964, (780707964, None, None), (780707965, None, None))))"
-    }
-  },
-  {
-    "evaluations" : 220,
-    "seed" : "4854150535515630856",
-    "shrunk" : {
-      "h" : "(988, None, (988, (988, None, None), (989, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 287,
-    "seed" : "-8913329003631881598",
-    "shrunk" : {
-      "h" : "(17852, (17852, None, (17853, None, None)), (17852, (17853, None, None), (17852, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 179,
-    "seed" : "-6178554676597520370",
-    "shrunk" : {
-      "h" : "(5608964, None, (5608964, (5608964, (5608964, None, None), (5608965, None, None)), None))"
-    }
-  },
-  {
-    "evaluations" : 1129,
-    "seed" : "-4842797355586587747",
-    "shrunk" : {
-      "h" : "(0, None, (0, None, (0, (0, None, None), (1, None, None))))"
-    }
-  },
-  {
-    "evaluations" : 843,
-    "seed" : "-7383411052894620142",
-    "shrunk" : {
-      "h" : "(716354954, None, (716465677, (716465677, None, None), (716465678, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 184,
-    "seed" : "5375943029742417427",
-    "shrunk" : {
-      "h" : "(6961, (49307, None, (49307, (49307, None, None), (49308, None, None))), None)"
-    }
-  },
-  {
-    "evaluations" : 547,
-    "seed" : "-8235981739565996146",
-    "shrunk" : {
-      "h" : "(252, (252, None, (253, None, None)), (252, (254, None, None), None))"
-    }
-  },
-  {
-    "evaluations" : 249,
-    "seed" : "642601147726550975",
-    "shrunk" : {
-      "h" : "(149530, (156489, None, None), (149530, (149531, None, None), (149530, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 1810,
-    "seed" : "-2489358693835673823",
-    "shrunk" : {
-      "h" : "(85, (68207, (68211, None, (368762, None, None)), None), (47042, None, (368761, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 781,
-    "seed" : "-6652819161338739663",
+    "evaluations" : 652,
+    "seed" : "-8035254051691031265",
     "shrunk" : {
       "h" : "(0, None, (0, (0, None, None), (1, None, None)))"
     }
   },
   {
-    "evaluations" : 1719,
-    "seed" : "-7757505964864943735",
+    "evaluations" : 180,
+    "seed" : "-8965273725543068447",
     "shrunk" : {
-      "h" : "(156, (12617, None, None), (156, (157, None, None), (156, None, None)))"
+      "h" : "(977, None, (977, (977, None, None), (978, None, None)))"
     }
   },
   {
-    "evaluations" : 161,
-    "seed" : "7749021921104025568",
+    "evaluations" : 267,
+    "seed" : "-6364493681609042554",
     "shrunk" : {
-      "h" : "(81943, None, (81943, (81943, None, None), (81944, None, None)))"
+      "h" : "(29, None, (29, (29, None, None), (30, None, None)))"
     }
   },
   {
-    "evaluations" : 168,
-    "seed" : "-7834712365652188667",
+    "evaluations" : 184,
+    "seed" : "-2104713983318553703",
     "shrunk" : {
-      "h" : "(1107280526, None, (1107280526, (1107280526, None, None), (1107280527, None, None)))"
+      "h" : "(74803, None, (74803, (74803, None, None), (74804, None, None)))"
     }
   },
   {
-    "evaluations" : 201,
-    "seed" : "9201046890193931063",
+    "evaluations" : 732,
+    "seed" : "1554875872074091291",
     "shrunk" : {
-      "h" : "(151304, None, (3474968, None, (3477597, (3477597, None, None), (3477598, None, None))))"
+      "h" : "(60, (77228, None, None), (60, (61, None, None), (60, None, None)))"
     }
   },
   {
-    "evaluations" : 814,
-    "seed" : "7851176344019808863",
+    "evaluations" : 130,
+    "seed" : "-3688083658396648715",
     "shrunk" : {
-      "h" : "(196305755, (196420281, None, None), (196305755, (196305756, None, None), (196305755, None, None)))"
+      "h" : "(42, None, (303125, None, (303126, (303126, None, None), (303127, None, None))))"
     }
   },
   {
-    "evaluations" : 576,
-    "seed" : "8528741259814345797",
+    "evaluations" : 290,
+    "seed" : "-683942487575431132",
     "shrunk" : {
-      "h" : "(0, (974993028, None, None), (0, (1, None, None), (0, None, None)))"
+      "h" : "(979, None, (2765, (2765, None, None), (2766, None, None)))"
     }
   },
   {
-    "evaluations" : 476,
-    "seed" : "4786541010961849482",
+    "evaluations" : 120,
+    "seed" : "-1626778926899225274",
     "shrunk" : {
-      "h" : "(55, None, (55, (55, None, None), (56, None, None)))"
+      "h" : "(7, None, (7, (7, None, None), (8, None, None)))"
     }
   },
   {
-    "evaluations" : 276,
-    "seed" : "-866711830167646800",
+    "evaluations" : 1524,
+    "seed" : "381536228288999295",
     "shrunk" : {
-      "h" : "(1915, None, (1915, (1915, None, None), (1916, None, None)))"
+      "h" : "(78, (78, (78, (78, None, None), (79, None, None)), None), None)"
     }
   },
   {
-    "evaluations" : 251,
-    "seed" : "440935907342974592",
+    "evaluations" : 351,
+    "seed" : "3005584917771784426",
     "shrunk" : {
-      "h" : "(4396466, None, (4396525, None, (4416052, (4416052, None, None), (4416053, None, None))))"
+      "h" : "(2005, None, (2005, (2005, None, None), (2006, None, None)))"
     }
   },
   {
-    "evaluations" : 444,
-    "seed" : "2643504932328519724",
+    "evaluations" : 2485,
+    "seed" : "2953135386343779619",
     "shrunk" : {
-      "h" : "(0, (0, (0, None, None), (1, None, None)), None)"
+      "h" : "(33395, (33395, (33396, None, None), (33395, None, None)), (2147483647, None, None))"
     }
   },
   {
-    "evaluations" : 90,
-    "seed" : "9035759284071351355",
+    "evaluations" : 518,
+    "seed" : "5716627045580668627",
     "shrunk" : {
-      "h" : "(23, None, (23, (23, None, None), (24, None, None)))"
+      "h" : "(10110, (13555, None, None), (10110, (10111, None, None), (10110, None, None)))"
     }
   },
   {
-    "evaluations" : 151,
-    "seed" : "-3150630641596712425",
+    "evaluations" : 1688,
+    "seed" : "-5431800692682886721",
     "shrunk" : {
-      "h" : "(432653, (432653, (432654, None, None), (432653, None, None)), (432715, None, None))"
-    }
-  },
-  {
-    "evaluations" : 185,
-    "seed" : "6640111440927757711",
-    "shrunk" : {
-      "h" : "(41, (113, None, (113, (113, None, None), (114, None, None))), None)"
+      "h" : "(18917, (2026590, None, None), (18917, (18918, None, None), (18917, None, None)))"
     }
   },
   {
     "evaluations" : 171,
-    "seed" : "6591457848104953005",
+    "seed" : "-2902247903710558479",
     "shrunk" : {
-      "h" : "(6, None, (6, (6, None, None), (7, None, None)))"
+      "h" : "(2199455, None, (2199464, None, (2199464, (2199464, None, None), (2199465, None, None))))"
     }
   },
   {
-    "evaluations" : 744,
-    "seed" : "-7137803097895432872",
+    "evaluations" : 432,
+    "seed" : "4827234047823796600",
     "shrunk" : {
-      "h" : "(4, None, (2494, (2494, None, None), (2495, None, None)))"
+      "h" : "(0, (0, None, (0, (0, None, None), (1, None, None))), None)"
     }
   },
   {
-    "evaluations" : 207,
-    "seed" : "-3372001330191866368",
+    "evaluations" : 1364,
+    "seed" : "5513493869681786690",
     "shrunk" : {
-      "h" : "(316, None, (2271883, None, (2271883, (2271883, None, None), (2271884, None, None))))"
+      "h" : "(8, (16586, None, None), (8, (16587, None, None), None))"
     }
   },
   {
-    "evaluations" : 318,
-    "seed" : "-4446028707706695146",
+    "evaluations" : 1968,
+    "seed" : "-556033852396350715",
     "shrunk" : {
-      "h" : "(0, (0, (0, None, None), (1, None, None)), None)"
+      "h" : "(1217, (648165, None, None), (1217, (1218, None, None), (1217, None, None)))"
     }
   },
   {
-    "evaluations" : 349,
-    "seed" : "-1637207260630877807",
-    "shrunk" : {
-      "h" : "(31270, None, (1763684, (1763703, None, None), (1789150, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 2592,
-    "seed" : "-7024959103542184407",
-    "shrunk" : {
-      "h" : "(18625, (4640830, None, None), (18625, (18626, None, None), (18625, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 360,
-    "seed" : "941523330048196606",
-    "shrunk" : {
-      "h" : "(557413, None, (557413, (557413, None, None), (557414, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 306,
-    "seed" : "191893175485539113",
-    "shrunk" : {
-      "h" : "(5226, None, (5505, None, (526459, (526459, None, None), (526460, None, None))))"
-    }
-  },
-  {
-    "evaluations" : 1357,
-    "seed" : "-8648736800070868401",
-    "shrunk" : {
-      "h" : "(118375, (118375, (118694, None, None), None), (118693, None, None))"
-    }
-  },
-  {
-    "evaluations" : 7677,
-    "seed" : "5937593865774060450",
-    "shrunk" : {
-      "h" : "(867, (2147483647, None, None), (867, (868, None, None), (867, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 484,
-    "seed" : "3048435724705511287",
-    "shrunk" : {
-      "h" : "(148854, None, (151871, (151871, None, None), (151872, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 257,
-    "seed" : "-7012626118876384509",
-    "shrunk" : {
-      "h" : "(41087, None, (41087, (41087, None, None), (41088, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 609,
-    "seed" : "2567406230977478871",
-    "shrunk" : {
-      "h" : "(10274, (3197563, None, None), (10274, (10275, None, None), (10274, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 825,
-    "seed" : "-6683015128966780132",
-    "shrunk" : {
-      "h" : "(5, (32194, None, None), (16, None, (32194, (32195, None, None), None)))"
-    }
-  },
-  {
-    "evaluations" : 195,
-    "seed" : "-2320597347310800794",
-    "shrunk" : {
-      "h" : "(0, (0, (0, None, None), (1, None, None)), None)"
-    }
-  },
-  {
-    "evaluations" : 141,
-    "seed" : "3608944909525903033",
-    "shrunk" : {
-      "h" : "(1830, None, (1830, (1830, None, None), (1831, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 209,
-    "seed" : "4007571861213326010",
-    "shrunk" : {
-      "h" : "(131349, None, (131349, (131349, None, None), (131350, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 2935,
-    "seed" : "7392687967489587161",
-    "shrunk" : {
-      "h" : "(23193, None, (28464, (28464, None, None), (28465, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 266,
-    "seed" : "-721764713951095151",
-    "shrunk" : {
-      "h" : "(157785, None, (157785, (157785, None, None), (157786, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 198,
-    "seed" : "-2438330560817769212",
-    "shrunk" : {
-      "h" : "(17761, None, (17761, (17761, None, None), (17762, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 1501,
-    "seed" : "3454746597070282494",
-    "shrunk" : {
-      "h" : "(0, (0, (0, None, None), (1, None, None)), None)"
-    }
-  },
-  {
-    "evaluations" : 1411,
-    "seed" : "5902669679949244354",
-    "shrunk" : {
-      "h" : "(1, None, (812, (812, None, None), (813, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 177,
-    "seed" : "-4822647761822732343",
-    "shrunk" : {
-      "h" : "(457570504, (457675845, (457675960, None, (457675960, (457675960, None, None), (457675961, None, None))), None), None)"
-    }
-  },
-  {
-    "evaluations" : 1255,
-    "seed" : "-2661710546134880275",
-    "shrunk" : {
-      "h" : "(92260, (410986, None, None), (92260, (92261, None, None), (92260, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 1692,
-    "seed" : "-8474650821073406761",
+    "evaluations" : 1968,
+    "seed" : "-6785803922440502045",
     "shrunk" : {
       "h" : "(0, None, (0, (0, (0, None, None), (1, None, None)), None))"
     }
   },
   {
-    "evaluations" : 395,
-    "seed" : "1218646922071379589",
+    "evaluations" : 216,
+    "seed" : "-2568734831061768755",
+    "shrunk" : {
+      "h" : "(39246, (39306, (39306, None, (42072, (42072, None, None), (42073, None, None))), None), None)"
+    }
+  },
+  {
+    "evaluations" : 258,
+    "seed" : "2226106605952592986",
+    "shrunk" : {
+      "h" : "(176, (910, None, (235348, (235348, None, None), (235349, None, None))), None)"
+    }
+  },
+  {
+    "evaluations" : 813,
+    "seed" : "-2760429963511815961",
+    "shrunk" : {
+      "h" : "(2, None, (68193, (68193, None, None), (68194, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 241,
+    "seed" : "-7034587072238068200",
+    "shrunk" : {
+      "h" : "(358, None, (358, (358, None, None), (359, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 1498,
+    "seed" : "8859375593175474504",
+    "shrunk" : {
+      "h" : "(1, (94, None, None), (1, (95, None, None), None))"
+    }
+  },
+  {
+    "evaluations" : 683,
+    "seed" : "-8387836001571811008",
+    "shrunk" : {
+      "h" : "(29857, (75397, None, None), (29857, (29858, None, None), (29857, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 196,
+    "seed" : "-5784933314837650970",
+    "shrunk" : {
+      "h" : "(164, None, (164, (164, None, None), (165, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 362,
+    "seed" : "3143238643014127480",
+    "shrunk" : {
+      "h" : "(4810, None, (4810, (4810, None, None), (4811, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 273,
+    "seed" : "1514761111593227759",
+    "shrunk" : {
+      "h" : "(3156, None, (3188, (3188, None, None), (3189, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 281,
+    "seed" : "1969173603489280695",
+    "shrunk" : {
+      "h" : "(48, None, (801200, (801200, None, None), (801201, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 148,
+    "seed" : "383143350422169811",
+    "shrunk" : {
+      "h" : "(374057, None, (374057, (374057, None, None), (374058, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 584,
+    "seed" : "7863278961300123303",
+    "shrunk" : {
+      "h" : "(0, (0, (0, None, None), (1, None, None)), None)"
+    }
+  },
+  {
+    "evaluations" : 1290,
+    "seed" : "997754422673827329",
+    "shrunk" : {
+      "h" : "(7285, None, (513341, (513341, None, None), (513342, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 127,
+    "seed" : "-2914936045167194429",
+    "shrunk" : {
+      "h" : "(208, (643, None, (643, (643, None, None), (644, None, None))), None)"
+    }
+  },
+  {
+    "evaluations" : 1441,
+    "seed" : "7468098627036979267",
+    "shrunk" : {
+      "h" : "(1889416396, (1894813416, None, None), (1889416396, (1889416397, None, None), (1889416396, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 1073,
+    "seed" : "5334547197598434981",
+    "shrunk" : {
+      "h" : "(2108961, (2108961, (2108962, None, None), (2108961, None, None)), (3094592, None, None))"
+    }
+  },
+  {
+    "evaluations" : 558,
+    "seed" : "-5782162793823138124",
+    "shrunk" : {
+      "h" : "(0, None, (0, (0, None, None), (1, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 2914,
+    "seed" : "2910497626631655719",
+    "shrunk" : {
+      "h" : "(47961, (47961, (96362, None, None), None), (96361, None, None))"
+    }
+  },
+  {
+    "evaluations" : 1281,
+    "seed" : "6496077777554692374",
+    "shrunk" : {
+      "h" : "(5526899, None, (10888912, (10888912, None, None), (10888913, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 206,
+    "seed" : "8551420951658649867",
+    "shrunk" : {
+      "h" : "(397047, None, (397090, None, (397090, (397090, None, None), (397091, None, None))))"
+    }
+  },
+  {
+    "evaluations" : 260,
+    "seed" : "-7081318099163298356",
+    "shrunk" : {
+      "h" : "(32383, None, (32402, (32402, None, None), (32403, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 294,
+    "seed" : "-2299171715685267090",
+    "shrunk" : {
+      "h" : "(52916, None, (52916, (52916, None, None), (52917, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 4302,
+    "seed" : "-3921408821257309783",
+    "shrunk" : {
+      "h" : "(940020, (1019518, None, None), (940020, (1019519, None, None), None))"
+    }
+  },
+  {
+    "evaluations" : 384,
+    "seed" : "-3110039808956059292",
+    "shrunk" : {
+      "h" : "(0, (0, (0, None, None), (1, None, None)), None)"
+    }
+  },
+  {
+    "evaluations" : 1127,
+    "seed" : "-6434024415950970133",
+    "shrunk" : {
+      "h" : "(1820896, None, (1825425, (1825425, None, None), (1825426, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 3989,
+    "seed" : "-6512738892160946041",
+    "shrunk" : {
+      "h" : "(180, (9825, None, None), (180, None, (180, (181, None, None), (180, None, None))))"
+    }
+  },
+  {
+    "evaluations" : 229,
+    "seed" : "-6946562085598809432",
+    "shrunk" : {
+      "h" : "(3757, None, (16579, None, (27753, (27753, None, None), (27754, None, None))))"
+    }
+  },
+  {
+    "evaluations" : 356,
+    "seed" : "-2244997643678166293",
+    "shrunk" : {
+      "h" : "(0, (0, (0, None, None), (1, None, None)), None)"
+    }
+  },
+  {
+    "evaluations" : 705,
+    "seed" : "-776085629055250079",
+    "shrunk" : {
+      "h" : "(667, (2147483647, None, None), (667, (668, None, None), (667, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 652,
+    "seed" : "-2558814612723974463",
+    "shrunk" : {
+      "h" : "(18, None, (27901, (27901, None, None), (27902, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 335,
+    "seed" : "1280536327017078811",
+    "shrunk" : {
+      "h" : "(16555, None, (17030, (17030, None, None), (17031, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 725,
+    "seed" : "4523523426728260467",
+    "shrunk" : {
+      "h" : "(1525, None, (804649, (804649, None, None), (804650, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 270,
+    "seed" : "5638201776087895911",
+    "shrunk" : {
+      "h" : "(2624712, None, (2624712, (2624712, None, None), (2624713, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 697,
+    "seed" : "2590393978386484969",
     "shrunk" : {
       "h" : "(0, None, (0, None, (0, (0, None, None), (1, None, None))))"
     }
   },
   {
-    "evaluations" : 72,
-    "seed" : "5847398232242970683",
-    "shrunk" : {
-      "h" : "(673647, None, (786423, None, (786423, (786423, None, None), (786424, None, None))))"
-    }
-  },
-  {
-    "evaluations" : 878,
-    "seed" : "104613307612764278",
-    "shrunk" : {
-      "h" : "(6936, (804320000, None, None), (6936, (6937, None, None), (6936, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 93,
-    "seed" : "5016326065244681634",
-    "shrunk" : {
-      "h" : "(168, None, (168, (168, None, None), (169, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 4838,
-    "seed" : "-2566346576313972492",
-    "shrunk" : {
-      "h" : "(156, None, (414781034, None, (414785919, (414799740, None, None), (414785919, None, (414799741, None, None)))))"
-    }
-  },
-  {
-    "evaluations" : 655,
-    "seed" : "-2249593306969436389",
-    "shrunk" : {
-      "h" : "(5157200, None, (5183209, (5183209, None, None), (5183210, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 777,
-    "seed" : "3054038084851096555",
-    "shrunk" : {
-      "h" : "(1272258, (1272622, None, None), (1272258, (1272259, None, None), (1272258, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 236,
-    "seed" : "4121263624148755715",
-    "shrunk" : {
-      "h" : "(21, (21, (21, None, (27, None, None)), None), (26, None, None))"
-    }
-  },
-  {
-    "evaluations" : 320,
-    "seed" : "-2235556878522799830",
-    "shrunk" : {
-      "h" : "(3213, (765771, None, None), (3213, (3214, None, None), (3213, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 718,
-    "seed" : "8580319538852290111",
-    "shrunk" : {
-      "h" : "(90886, None, (90886, (90886, None, None), (90887, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 702,
-    "seed" : "7849819465151054224",
-    "shrunk" : {
-      "h" : "(0, None, (0, (0, None, None), (1, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 222,
-    "seed" : "-9172865895786247054",
-    "shrunk" : {
-      "h" : "(32, None, (37, None, (3683, (3683, None, None), (3684, None, None))))"
-    }
-  },
-  {
-    "evaluations" : 184,
-    "seed" : "8005012484723350608",
-    "shrunk" : {
-      "h" : "(2662315, (2147483647, None, None), (2662315, (2662316, None, None), (2662315, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 175,
-    "seed" : "-5441349965993202758",
-    "shrunk" : {
-      "h" : "(4940188, None, (4940188, (4940188, None, None), (4940189, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 2455,
-    "seed" : "-854424711472369255",
-    "shrunk" : {
-      "h" : "(7, (7, (44807, None, None), None), (44806, None, None))"
-    }
-  },
-  {
-    "evaluations" : 3658,
-    "seed" : "-4048089728009321186",
-    "shrunk" : {
-      "h" : "(1702603833, (1732702415, None, None), (1702603833, (1732702416, None, None), None))"
-    }
-  },
-  {
-    "evaluations" : 1054,
-    "seed" : "-5183798906315980432",
-    "shrunk" : {
-      "h" : "(502, None, (4053708, None, (4065720, (4065720, None, None), (4065721, None, None))))"
-    }
-  },
-  {
-    "evaluations" : 1510,
-    "seed" : "-3414626296586812403",
-    "shrunk" : {
-      "h" : "(0, None, (0, (0, None, None), (1, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 1297,
-    "seed" : "4724033748901856840",
-    "shrunk" : {
-      "h" : "(0, None, (0, (0, (0, None, None), (1, None, None)), None))"
-    }
-  },
-  {
-    "evaluations" : 2040,
-    "seed" : "1167282038395548579",
-    "shrunk" : {
-      "h" : "(1669932, None, (1674417, (1674417, None, None), (1674418, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 607,
-    "seed" : "-4671536783823581485",
+    "evaluations" : 608,
+    "seed" : "8791094760552789033",
     "shrunk" : {
       "h" : "(0, (0, (0, None, None), (1, None, None)), None)"
     }
   },
   {
-    "evaluations" : 138,
-    "seed" : "3360959302846130012",
+    "evaluations" : 1690,
+    "seed" : "-1615081749883322610",
     "shrunk" : {
-      "h" : "(144048, None, (145850, (145850, None, None), (145851, None, None)))"
+      "h" : "(65, (65, (66766, (67181, None, None), (67121, None, (67182, None, None))), None), None)"
     }
   },
   {
-    "evaluations" : 385,
-    "seed" : "1915312538550363074",
+    "evaluations" : 236,
+    "seed" : "-496078269925069917",
     "shrunk" : {
-      "h" : "(0, None, (0, (0, None, None), (1, None, None)))"
+      "h" : "(797556, None, (797556, (797556, None, None), (797557, None, None)))"
     }
   },
   {
-    "evaluations" : 179,
-    "seed" : "6524283267004092497",
+    "evaluations" : 3569,
+    "seed" : "-4937925075251249223",
     "shrunk" : {
-      "h" : "(291, None, (291, None, (291, (291, None, None), (292, None, None))))"
+      "h" : "(3845634, None, (407952596, (407952596, None, None), (407952597, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 1057,
+    "seed" : "3514098162315796135",
+    "shrunk" : {
+      "h" : "(17, None, (17, (17, None, None), (18, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 98,
+    "seed" : "-5376389846327589436",
+    "shrunk" : {
+      "h" : "(1, None, (1, None, (1, (1, None, None), (2, None, None))))"
+    }
+  },
+  {
+    "evaluations" : 297,
+    "seed" : "3901283923457641692",
+    "shrunk" : {
+      "h" : "(103, None, (138, (370081, None, (477477, (477477, None, None), (477478, None, None))), None))"
+    }
+  },
+  {
+    "evaluations" : 253,
+    "seed" : "233246142581988475",
+    "shrunk" : {
+      "h" : "(49210, None, (49210, (49210, None, None), (49211, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 1881,
+    "seed" : "8030544744207711001",
+    "shrunk" : {
+      "h" : "(364297, (364297, (364298, None, None), (364297, None, None)), (367674, None, None))"
+    }
+  },
+  {
+    "evaluations" : 676,
+    "seed" : "9164048904638245634",
+    "shrunk" : {
+      "h" : "(20977, (2147483647, None, None), (20977, (20978, None, None), (20977, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 178,
+    "seed" : "-53382711243852185",
+    "shrunk" : {
+      "h" : "(13727, None, (13727, (13727, None, None), (13728, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 760,
+    "seed" : "6536038262769576652",
+    "shrunk" : {
+      "h" : "(114, (17679, None, None), (114, (115, None, None), (114, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 1034,
+    "seed" : "-2794885390318925484",
+    "shrunk" : {
+      "h" : "(101562, (101757, None, None), (101562, (101563, None, None), (101562, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 6445,
+    "seed" : "-2309864619068280732",
+    "shrunk" : {
+      "h" : "(5640, (434394, None, None), (5640, (5641, None, None), (5640, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 5459,
+    "seed" : "-5963426540526508183",
+    "shrunk" : {
+      "h" : "(1011709691, (1011948570, None, None), (1011709691, (1011709692, None, None), (1011709691, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 637,
+    "seed" : "4537564347523189004",
+    "shrunk" : {
+      "h" : "(3, None, (3, (3, None, None), (4, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 1215,
+    "seed" : "2145679498122989382",
+    "shrunk" : {
+      "h" : "(0, None, (0, None, (0, (0, None, None), (1, None, None))))"
+    }
+  },
+  {
+    "evaluations" : 308,
+    "seed" : "-6387492718204178888",
+    "shrunk" : {
+      "h" : "(356, (3119, (563442, None, (563442, (563442, None, None), (563443, None, None))), None), None)"
+    }
+  },
+  {
+    "evaluations" : 2844,
+    "seed" : "-344847891916293129",
+    "shrunk" : {
+      "h" : "(50, None, (2389978, (2437875, None, None), (2389978, None, (2437876, None, None))))"
     }
   },
   {
     "evaluations" : 124,
-    "seed" : "958866816898812004",
+    "seed" : "-279203100154687772",
+    "shrunk" : {
+      "h" : "(93, None, (93, (93, None, None), (94, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 149,
+    "seed" : "-3507107856247701528",
     "shrunk" : {
       "h" : "(1, None, (1, (1, None, None), (2, None, None)))"
     }
   },
   {
-    "evaluations" : 2164,
-    "seed" : "-4781043665851087791",
+    "evaluations" : 8535,
+    "seed" : "3076474774287182015",
     "shrunk" : {
-      "h" : "(110643, (113227, None, None), (112112, (113228, None, None), None))"
+      "h" : "(1, (37367, None, None), (1, (1, None, (37368, None, None)), None))"
     }
   },
   {
-    "evaluations" : 205,
-    "seed" : "189036605109750816",
-    "shrunk" : {
-      "h" : "(119266, None, (119266, (119266, None, None), (119267, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 996,
-    "seed" : "-3760483471758053477",
-    "shrunk" : {
-      "h" : "(1179209146, (1179209146, None, (1179209147, None, None)), (1179209146, (1179209148, None, None), None))"
-    }
-  },
-  {
-    "evaluations" : 540,
-    "seed" : "-325578982910028619",
-    "shrunk" : {
-      "h" : "(0, None, (1, (1, None, None), (2, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 310,
-    "seed" : "-6002005812578689968",
+    "evaluations" : 390,
+    "seed" : "-3653233237920718649",
     "shrunk" : {
       "h" : "(0, None, (0, (0, None, None), (1, None, None)))"
     }
   },
   {
-    "evaluations" : 3228,
-    "seed" : "-5221237578837815915",
+    "evaluations" : 417,
+    "seed" : "593316398428810742",
     "shrunk" : {
-      "h" : "(2146609283, None, (2146627505, (2146627505, None, None), (2146627506, None, None)))"
+      "h" : "(8675, None, (8675, (8675, (8675, None, None), (8676, None, None)), None))"
     }
   },
   {
-    "evaluations" : 1693,
-    "seed" : "-512864058343149969",
+    "evaluations" : 4903,
+    "seed" : "-5374602563089101661",
     "shrunk" : {
-      "h" : "(145965, (145965, (145966, None, None), (145965, None, None)), (149630, None, None))"
+      "h" : "(2668111, None, (2799736, (2799736, None, None), (2799737, None, None)))"
     }
   },
   {
-    "evaluations" : 1875,
-    "seed" : "-5373092580049704488",
+    "evaluations" : 230,
+    "seed" : "-3702641600802062393",
     "shrunk" : {
-      "h" : "(498008, None, (498008, (498008, None, (498008, (498008, None, None), (498009, None, None))), None))"
+      "h" : "(2975808, None, (3360262, None, (3360262, (3360262, None, None), (3360263, None, None))))"
     }
   },
   {
-    "evaluations" : 164,
-    "seed" : "-8322875417533074853",
+    "evaluations" : 2732,
+    "seed" : "-6389916770068201207",
     "shrunk" : {
-      "h" : "(485, None, (819693319, None, (819693321, (819693321, None, None), (819693322, None, None))))"
+      "h" : "(0, (0, (0, None, None), (1, None, None)), None)"
     }
   },
   {
-    "evaluations" : 205,
-    "seed" : "-7243624267551253781",
+    "evaluations" : 451,
+    "seed" : "626144344150005532",
     "shrunk" : {
-      "h" : "(8359, None, (8359, (8359, None, None), (8360, None, None)))"
+      "h" : "(42652, None, (42652, (42652, None, None), (42653, None, None)))"
     }
   },
   {
-    "evaluations" : 863,
-    "seed" : "-7950569999108743468",
+    "evaluations" : 172,
+    "seed" : "-5607030315562193612",
     "shrunk" : {
-      "h" : "(872, (96818, None, None), (872, (873, None, None), (872, None, None)))"
+      "h" : "(1610, None, (1631, None, (3720, (3720, None, None), (3721, None, None))))"
     }
   },
   {
-    "evaluations" : 265,
-    "seed" : "-8056467731239831465",
+    "evaluations" : 614,
+    "seed" : "-8206788764389261659",
     "shrunk" : {
-      "h" : "(5563, None, (5563, (5563, None, None), (5564, None, None)))"
+      "h" : "(2266, (2266, (2267, None, None), (2266, None, None)), (16159, None, None))"
     }
   },
   {
-    "evaluations" : 2253,
-    "seed" : "-6870819219713876768",
+    "evaluations" : 1177,
+    "seed" : "934851059380437045",
     "shrunk" : {
-      "h" : "(13695, None, (801904, (810446, None, None), (801904, (810447, None, None), None)))"
+      "h" : "(933084, (933084, (933092, None, None), None), (933084, None, None))"
     }
   },
   {
-    "evaluations" : 2355,
-    "seed" : "-2123591146971583905",
+    "evaluations" : 2239,
+    "seed" : "2750999630761768721",
     "shrunk" : {
-      "h" : "(1297, (599524, None, None), (1297, (1298, None, None), (1297, None, None)))"
+      "h" : "(19, None, (1608, (2129, (2129, None, None), (2130, None, None)), None))"
+    }
+  },
+  {
+    "evaluations" : 243,
+    "seed" : "-466693537454380692",
+    "shrunk" : {
+      "h" : "(14502, None, (14847, (14847, None, None), (14848, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 1021,
+    "seed" : "-5663926333889361387",
+    "shrunk" : {
+      "h" : "(73, (73, (74, None, None), (73, None, None)), (1472612467, None, None))"
     }
   }
 ]

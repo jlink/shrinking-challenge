@@ -1,25 +1,25 @@
-# Report for Hypothesis Shrinking on "bound5"
+# Report for jqwik Shrinking on "bound5"
 
-This report was generated with jqwik 1.3.5
+This report was generated with jqwik 1.3.6
 
 ## Normalization
 
-jqwik produced 54 distinct results in 100 test runs.
+jqwik produced 45 distinct results in 100 test runs.
 
 The most common were:
 
-* ``[[], [], [], [-1], [1, 32767]]`` (34.00%)
-* ``[[], [], [], [-1], [-32768]]`` (13.00%)
-* ``[[], [], [], [1, 32767], [1281, 32767]]`` (2.00%)
-* ``[[], [], [], [-16060], [-16709]]`` (1.00%)
-* ``[[], [], [], [-2767], [-30002]]`` (1.00%)
-* ``[[], [], [], [-12425], [-20344]]`` (1.00%)
-* ``[[], [], [], [-15864], [-16905]]`` (1.00%)
-* ``[[], [], [], [-2], [-32767]]`` (1.00%)
-* ``[[], [], [], [-13117], [-19652]]`` (1.00%)
-* ``[[], [], [], [-15691], [-17078]]`` (1.00%)
+* ``[[], [], [], [-1], [1, 32767]]`` (43.00%)
+* ``[[], [], [], [-1], [-32768]]`` (11.00%)
+* ``[[], [], [], [1, 32767], [1281, 32767]]`` (4.00%)
+* ``[[], [], [], [-15910], [-16859]]`` (1.00%)
+* ``[[], [], [], [-3100], [-29669]]`` (1.00%)
+* ``[[], [], [], [-1135], [-31634]]`` (1.00%)
+* ``[[], [], [], [-10901], [-21868]]`` (1.00%)
+* ``[[], [], [], [-13302], [-19467]]`` (1.00%)
+* ``[[], [], [], [-14412], [-18357]]`` (1.00%)
+* ``[[], [], [], [-61], [-32708]]`` (1.00%)
 
 ## Performance
 
-Over 100 runs, jqwik performed between 381 and 474547 evaluations during shrinking,
-with a mean cost of 16205.67 (95% confidence interval 5550.33 - 22739.77).
+Over 100 runs, jqwik performed between 414 and 1492565 evaluations during shrinking,
+with a mean cost of 24939.78 (95% confidence interval -6125.39 - 41522.13).
