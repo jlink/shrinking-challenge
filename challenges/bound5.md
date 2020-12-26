@@ -19,4 +19,4 @@ which would look somethink like `([-32768], [-1], [], [], [])`.
 |----------|----|------|
 |Hypothesis|[bound5.py](/pbt-libraries/hypothesis/challenges/bound5.py)|[bound5.md](/pbt-libraries/hypothesis/challenges/bound5.md)|
 |jqwik     |[Bound5Properties.java](/pbt-libraries/jqwik/src/test/java/challenges/bound5/Bound5Properties.java)|[bound5.md](/pbt-libraries/jqwik/reports/bound5.md)|
-
+|FsCheck   |[Bound5.fsx](/pbt-libraries/fscheck/challenges/Bound5.fsx)|[bound5.md](/pbt-libraries/fscheck/challenges/bound5.md)
