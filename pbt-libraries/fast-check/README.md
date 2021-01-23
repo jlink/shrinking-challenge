@@ -4,7 +4,7 @@
 
 ## fast-check's Shrinking Approach
 
-A deep-dive into the current implementation of fast-check, including its shrinking, is available on its official documnetation: https://github.com/dubzzz/fast-check/blob/master/documentation/HowItWorks.md
+A deep-dive into the current implementation of fast-check, including its shrinking, is available on its official documentation: https://github.com/dubzzz/fast-check/blob/master/documentation/HowItWorks.md
 
 ## Implemented Challenges
 
