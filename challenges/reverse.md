@@ -7,9 +7,10 @@ It is a basic example to validate that a library can reliably normalize simple s
 
 ## Implementors
 
-|Library   |Code|Report|
-|----------|----|------|
-|Hypothesis|[reverse.py](/pbt-libraries/hypothesis/challenges/reverse.py)|[reverse.md](/pbt-libraries/hypothesis/challenges/reverse.md)
-|jqwik     |[ReverseProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/reverse/ReverseProperties.java)|[reverse.md](/pbt-libraries/jqwik/reports/reverse.md)
-|PropEr    |[reverse.erl](/pbt-libraries/proper/challenges/reverse.erl)|[reverse.md](/pbt-libraries/proper/challenges/reverse.md)
-|FsCheck   |[Reverse.fsx](/pbt-libraries/fscheck/challenges/Reverse.fsx)|[Reverse.md](/pbt-libraries/fscheck/challenges/Reverse.md)
+| Library    | Code                                                                                                   | Report                                                        |
+| ---------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| Hypothesis | [reverse.py](/pbt-libraries/hypothesis/challenges/reverse.py)                                          | [reverse.md](/pbt-libraries/hypothesis/challenges/reverse.md) |
+| jqwik      | [ReverseProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/reverse/ReverseProperties.java) | [reverse.md](/pbt-libraries/jqwik/reports/reverse.md)         |
+| PropEr     | [reverse.erl](/pbt-libraries/proper/challenges/reverse.erl)                                            | [reverse.md](/pbt-libraries/proper/challenges/reverse.md)     |
+| FsCheck    | [Reverse.fsx](/pbt-libraries/fscheck/challenges/Reverse.fsx)                                           | [Reverse.md](/pbt-libraries/fscheck/challenges/Reverse.md)    |
+| fast-check | [reverse.js](/pbt-libraries/fast-check/challenges/reverse.js)                                          | [reverse.md](/pbt-libraries/fast-check/reports/reverse.md)    |
