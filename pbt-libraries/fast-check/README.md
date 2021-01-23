@@ -26,5 +26,5 @@ You need node >= 10 and yarn.
 cd pbt-libraries/fast-check
 yarn
 yarn test
-yarn report
+./generate_reports.sh
 ```

@@ -1,6 +1,6 @@
 # Report for fast-check Shrinking on "nestedlists"
 
-This report was generated with fast-check 
+This report was generated with fast-check 2.12.0
 
 ## Normalization
 

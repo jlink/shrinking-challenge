@@ -4,8 +4,7 @@
   "name": "fast-check-shrinking-challenge",
   "version": "0.0.0",
   "scripts": {
-    "test": "node run.js",
-    "report": "./generate_reports.sh"
+    "test": "node run.js"
   },
   "devDependencies": {
     "fast-check": "^2.12.0"
