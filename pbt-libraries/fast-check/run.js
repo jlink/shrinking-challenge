@@ -7,10 +7,12 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const reportDirectory = join(__dirname, "reports");
 
 import { bound5Property } from "./challenges/bound5.js";
+import { calculatorProperty } from "./challenges/calculator.js";
 import { couplingProperty } from "./challenges/coupling.js";
 import { deletionProperty } from "./challenges/deletion.js";
 import { distinctProperty } from "./challenges/distinct.js";
 import { largeUnionListProperty } from "./challenges/large_union_list.js";
+import { lengthlistProperty } from "./challenges/lengthlist.js";
 import { nestedlistsProperty } from "./challenges/nestedlists.js";
 import { reverseProperty } from "./challenges/reverse.js";
 
@@ -85,9 +87,11 @@ function runChallenge(challengeName, variableNames, property) {
 }
 
 runChallenge("bound5", ["p"], bound5Property);
+runChallenge("calculator", ["ls"], calculatorProperty);
 runChallenge("coupling", ["ls"], couplingProperty);
 runChallenge("deletion", ["ls", "i"], deletionProperty);
 runChallenge("distinct", ["ls"], distinctProperty);
 runChallenge("large_union_list", ["ls"], largeUnionListProperty);
+runChallenge("lengthlist", ["ls"], lengthlistProperty);
 runChallenge("nestedlists", ["ls"], nestedlistsProperty);
 runChallenge("reverse", ["ls"], reverseProperty);
