@@ -5,7 +5,7 @@
 Given a 5-tuple of
 lists of 16-bit integers, we want to test the property that if each list sums
 to less than 256, then the sum of all the values in the lists is less than
-5 * 256. This is false because of overflow. e.g.
+5 \* 256. This is false because of overflow. e.g.
 `([-20000], [-20000], [], [], [])` is a counter-example.
 
 The interesting thing about this example is the interdependence between separate parts of the sample data.
@@ -15,8 +15,9 @@ which would look somethink like `([-32768], [-1], [], [], [])`.
 
 ## Implementors
 
-|Library   |Code|Report|
-|----------|----|------|
-|Hypothesis|[bound5.py](/pbt-libraries/hypothesis/challenges/bound5.py)|[bound5.md](/pbt-libraries/hypothesis/challenges/bound5.md)|
-|jqwik     |[Bound5Properties.java](/pbt-libraries/jqwik/src/test/java/challenges/bound5/Bound5Properties.java)|[bound5.md](/pbt-libraries/jqwik/reports/bound5.md)|
-|FsCheck   |[Bound5.fsx](/pbt-libraries/fscheck/challenges/Bound5.fsx)|[bound5.md](/pbt-libraries/fscheck/challenges/bound5.md)
+| Library    | Code                                                                                                | Report                                                      |
+| ---------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Hypothesis | [bound5.py](/pbt-libraries/hypothesis/challenges/bound5.py)                                         | [bound5.md](/pbt-libraries/hypothesis/challenges/bound5.md) |
+| jqwik      | [Bound5Properties.java](/pbt-libraries/jqwik/src/test/java/challenges/bound5/Bound5Properties.java) | [bound5.md](/pbt-libraries/jqwik/reports/bound5.md)         |
+| FsCheck    | [Bound5.fsx](/pbt-libraries/fscheck/challenges/Bound5.fsx)                                          | [bound5.md](/pbt-libraries/fscheck/challenges/bound5.md)    |
+| fast-check | [bound5.js](/pbt-libraries/fast-check/challenges/bound5.js)                                         | [bound5.md](/pbt-libraries/fast-check/reports/bound5.md)    |

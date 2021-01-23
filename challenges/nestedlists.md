@@ -10,12 +10,12 @@ pure deletion based approaches. e.g. `[[0], ..., [0]]` and `[[0, ..., 0]]` are
 both minima for this under anything that can only make individual elements
 smaller.
 
-Some libraries, e.g. Hypothesis and jqwik, can shrink this reliably to 
+Some libraries, e.g. Hypothesis and jqwik, can shrink this reliably to
 a single list of 11 elements: `[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]`.
 
 ## Implementors
 
-|Library   |Code|Report|
-|----------|----|------|
-|jqwik     |[NestedListsProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/nestedlists/NestedListsProperties.java)|[nestedlists.md](/pbt-libraries/jqwik/reports/nestedlists.md)|
-
+| Library    | Code                                                                                                               | Report                                                             |
+| ---------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| jqwik      | [NestedListsProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/nestedlists/NestedListsProperties.java) | [nestedlists.md](/pbt-libraries/jqwik/reports/nestedlists.md)      |
+| fast-check | [nestedlist.js](/pbt-libraries/fast-check/challenges/nestedlists.js)                                               | [nestedlists.md](/pbt-libraries/fast-check/reports/nestedlists.md) |

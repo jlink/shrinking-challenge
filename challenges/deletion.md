@@ -4,7 +4,7 @@
 
 This tests the property "if we remove an element from a list, the element is
 no longer in the list". The remove function we use however only actually
-removes the *first* instance of the element, so this fails whenever the list
+removes the _first_ instance of the element, so this fails whenever the list
 contains a duplicate and we try to remove one of those elements.
 
 This example is interesting for a couple of reasons:
@@ -17,7 +17,7 @@ The expected smallest falsified sample is `([0, 0], 0)`.
 
 ## Implementors
 
-|Library   |Code|Report|
-|----------|----|------|
-|jqwik     |[DeletionProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/deletion/DeletionProperties.java)|[deletion.md](/pbt-libraries/jqwik/reports/deletion.md)|
-
+| Library    | Code                                                                                                      | Report                                                       |
+| ---------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| jqwik      | [DeletionProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/deletion/DeletionProperties.java) | [deletion.md](/pbt-libraries/jqwik/reports/deletion.md)      |
+| fast-check | [deletion.js](/pbt-libraries/fast-check/challenges/deletion.js)                                           | [deletion.md](/pbt-libraries/fast-check/reports/deletion.md) |
