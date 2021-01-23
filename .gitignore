@@ -46,3 +46,6 @@ pbt-libraries/hypothesis/.hypothesis
 
 # PropEr / Erlang specific files
 *.beam
+
+# JavaScript
+node_modules
