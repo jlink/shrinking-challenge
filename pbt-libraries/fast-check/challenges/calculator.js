@@ -2,9 +2,8 @@ import fc from "fast-check";
 
 const { expression } = fc.letrec((tie) => ({
   expression: fc.oneof(
-    fc.integer(), // 3x fc.integer()
-    fc.integer(), // otherwise fast-check might generate infinite structures
-    fc.integer(), // 3 cases over 5 are terminal case, the 2 others multiply by 2 the number of terms
+    { depthFactor: 0.5, withCrossShrink: true },
+    fc.integer(),
     fc.tuple(fc.constant("+"), tie("expression"), tie("expression")),
     fc.tuple(fc.constant("/"), tie("expression"), tie("expression"))
   ),

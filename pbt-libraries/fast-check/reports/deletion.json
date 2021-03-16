@@ -1,95 +1,71 @@
 [
   {
-    "evaluations": 191,
-    "seed": "-171451321",
+    "evaluations": 92,
+    "seed": "1258931616",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
     }
   },
   {
-    "evaluations": 43,
-    "seed": "2049785426",
-    "shrunk": {
-      "ls": "[19,19]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 43,
-    "seed": "949363995",
-    "shrunk": {
-      "ls": "[30,30]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 90,
-    "seed": "1390988146",
+    "evaluations": 160,
+    "seed": "1699764649",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
     }
   },
   {
-    "evaluations": 33,
-    "seed": "995710326",
-    "shrunk": {
-      "ls": "[4,4]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 55,
-    "seed": "-2106092530",
+    "evaluations": 136,
+    "seed": "-246313597",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
     }
   },
   {
-    "evaluations": 244,
-    "seed": "993238699",
+    "evaluations": 224,
+    "seed": "1099120804",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
     }
   },
   {
-    "evaluations": 42,
-    "seed": "1015129055",
-    "shrunk": {
-      "ls": "[-18,-18]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 40,
-    "seed": "-1176109817",
+    "evaluations": 99,
+    "seed": "498859692",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
     }
   },
   {
-    "evaluations": 26,
-    "seed": "894865496",
+    "evaluations": 198,
+    "seed": "-1393978455",
+    "shrunk": {
+      "ls": "[2147483619,2147483619]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 107,
+    "seed": "1757017148",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
     }
   },
   {
-    "evaluations": 199,
-    "seed": "2078744680",
+    "evaluations": 18,
+    "seed": "-1878077887",
     "shrunk": {
-      "ls": "[-2147483625,-2147483625]",
+      "ls": "[-1,-1]",
       "i": "0"
     }
   },
   {
-    "evaluations": 26,
-    "seed": "1132809466",
+    "evaluations": 13,
+    "seed": "1275102484",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
@@ -97,7 +73,7 @@
   },
   {
     "evaluations": 26,
-    "seed": "-1779311903",
+    "seed": "-795541130",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
@@ -105,15 +81,111 @@
   },
   {
     "evaluations": 66,
-    "seed": "378936792",
+    "seed": "324069532",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
     }
   },
   {
-    "evaluations": 13,
-    "seed": "969126143",
+    "evaluations": 58,
+    "seed": "-2112617246",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 45,
+    "seed": "-1673691578",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 45,
+    "seed": "1543664857",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 46,
+    "seed": "1501780898",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 29,
+    "seed": "-1076186319",
+    "shrunk": {
+      "ls": "[4,4]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 21,
+    "seed": "229956500",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 19,
+    "seed": "-46848249",
+    "shrunk": {
+      "ls": "[1,1]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 36,
+    "seed": "210379662",
+    "shrunk": {
+      "ls": "[-27,-27]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 66,
+    "seed": "-1599542746",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 38,
+    "seed": "1790974142",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 36,
+    "seed": "891214894",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 38,
+    "seed": "746334041",
+    "shrunk": {
+      "ls": "[-10,-10]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 149,
+    "seed": "-2042636132",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
@@ -121,209 +193,241 @@
   },
   {
     "evaluations": 169,
-    "seed": "-1191193484",
+    "seed": "1642493924",
     "shrunk": {
-      "ls": "[-2147483636,-2147483636]",
+      "ls": "[-2147483627,-2147483627]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 40,
+    "seed": "786869599",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 24,
+    "seed": "1393754181",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 45,
+    "seed": "485423660",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 220,
+    "seed": "564356144",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 91,
+    "seed": "-49480112",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 23,
+    "seed": "541510961",
+    "shrunk": {
+      "ls": "[15,15]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 43,
+    "seed": "-95288572",
+    "shrunk": {
+      "ls": "[-17,-17]",
       "i": "0"
     }
   },
   {
     "evaluations": 26,
-    "seed": "-1155518835",
-    "shrunk": {
-      "ls": "[14,14]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 437,
-    "seed": "1015216959",
+    "seed": "-973066173",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
     }
   },
   {
-    "evaluations": 86,
-    "seed": "1328882477",
+    "evaluations": 59,
+    "seed": "1470985740",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
     }
   },
   {
-    "evaluations": 65,
-    "seed": "-794082159",
+    "evaluations": 90,
+    "seed": "659406692",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
     }
   },
   {
-    "evaluations": 44,
-    "seed": "1402035558",
-    "shrunk": {
-      "ls": "[21,21]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 66,
-    "seed": "-1141346004",
+    "evaluations": 91,
+    "seed": "-390996963",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
     }
   },
   {
-    "evaluations": 137,
-    "seed": "1909431166",
+    "evaluations": 26,
+    "seed": "-885322232",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
     }
   },
   {
-    "evaluations": 25,
-    "seed": "633625167",
+    "evaluations": 30,
+    "seed": "-915922638",
+    "shrunk": {
+      "ls": "[5,5]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 49,
+    "seed": "480018144",
+    "shrunk": {
+      "ls": "[-21,-21]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 24,
+    "seed": "-1543045079",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
     }
   },
   {
-    "evaluations": 76,
-    "seed": "1795374034",
+    "evaluations": 24,
+    "seed": "-455785466",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
     }
   },
   {
-    "evaluations": 263,
-    "seed": "1307207020",
+    "evaluations": 21,
+    "seed": "1331925152",
     "shrunk": {
       "ls": "[0,0]",
       "i": "0"
     }
   },
   {
-    "evaluations": 39,
-    "seed": "-1534916723",
+    "evaluations": 48,
+    "seed": "1093531859",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 63,
+    "seed": "918078103",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 21,
+    "seed": "-1236871809",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 71,
+    "seed": "385510329",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 31,
+    "seed": "-1675894823",
+    "shrunk": {
+      "ls": "[16,16]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 161,
+    "seed": "1615281896",
+    "shrunk": {
+      "ls": "[0,0]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 28,
+    "seed": "-561906076",
+    "shrunk": {
+      "ls": "[-31,-31]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 21,
+    "seed": "516913285",
+    "shrunk": {
+      "ls": "[20,20]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 131,
+    "seed": "1904723744",
+    "shrunk": {
+      "ls": "[2147483621,2147483621]",
+      "i": "0"
+    }
+  },
+  {
+    "evaluations": 40,
+    "seed": "-1904153159",
     "shrunk": {
       "ls": "[-26,-26]",
       "i": "0"
     }
   },
   {
-    "evaluations": 23,
-    "seed": "182419696",
+    "evaluations": 33,
+    "seed": "1502515291",
     "shrunk": {
-      "ls": "[0,0]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 41,
-    "seed": "255273042",
-    "shrunk": {
-      "ls": "[-30,-30]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 170,
-    "seed": "-115146712",
-    "shrunk": {
-      "ls": "[-2147483631,-2147483631]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 61,
-    "seed": "2086451867",
-    "shrunk": {
-      "ls": "[0,0]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 185,
-    "seed": "-1511143813",
-    "shrunk": {
-      "ls": "[0,0]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 57,
-    "seed": "-238358672",
-    "shrunk": {
-      "ls": "[0,0]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 82,
-    "seed": "1346846211",
-    "shrunk": {
-      "ls": "[0,0]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 34,
-    "seed": "2025557764",
-    "shrunk": {
-      "ls": "[14,14]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 151,
-    "seed": "-1065614197",
-    "shrunk": {
-      "ls": "[0,0]",
+      "ls": "[2,2]",
       "i": "0"
     }
   },
   {
     "evaluations": 199,
-    "seed": "1064803746",
+    "seed": "685459594",
     "shrunk": {
-      "ls": "[0,0]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 16,
-    "seed": "1682699482",
-    "shrunk": {
-      "ls": "[-1,-1]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 95,
-    "seed": "-321901168",
-    "shrunk": {
-      "ls": "[0,0]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 43,
-    "seed": "-1004311522",
-    "shrunk": {
-      "ls": "[13,13]",
-      "i": "0"
-    }
-  },
-  {
-    "evaluations": 45,
-    "seed": "1872487953",
-    "shrunk": {
-      "ls": "[0,0]",
+      "ls": "[2147483620,2147483620]",
       "i": "0"
     }
   }

@@ -1,17 +1,18 @@
 # Report for fast-check Shrinking on "reverse"
 
-This report was generated with fast-check 2.12.0
+This report was generated with fast-check 2.14.0
 
 ## Normalization
 
-fast-check produced 2 distinct results in 100 test runs.
+fast-check produced 3 distinct results in 100 test runs.
 
 These were:
 
-* ``[0,-1]`` (54.00%)
-* ``[0,1]`` (46.00%)
+* ``[0,-1]`` (50.00%)
+* ``[0,1]`` (49.00%)
+* ``[-1,0]`` (1.00%)
 
 ## Performance
 
-Over 100 runs, fast-check performed between 13 and 103 evaluations during shrinking,
-with a mean cost of 89.78 (95% confidence interval 84.99 - 94.99).
+Over 100 runs, fast-check performed between 15 and 103 evaluations during shrinking,
+with a mean cost of 87.72 (95% confidence interval 82.53 - 93.34).
