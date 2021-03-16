@@ -1,700 +1,700 @@
 [
   {
-    "evaluations": 189,
-    "seed": "-2081592502",
-    "shrunk": {
-      "ls": "[0,0,0,0,8,0,0,0,4]"
-    }
-  },
-  {
-    "evaluations": 4,
-    "seed": "-2131913263",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 4,
-    "seed": "-1028712822",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 106,
-    "seed": "-1931973482",
-    "shrunk": {
-      "ls": "[0,5,0,0,0,1]"
-    }
-  },
-  {
-    "evaluations": 13,
-    "seed": "-205060492",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 176,
-    "seed": "1141949798",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,0,9,0,0,6]"
-    }
-  },
-  {
-    "evaluations": 70,
-    "seed": "1200015093",
-    "shrunk": {
-      "ls": "[0,0,5,0,0,2]"
-    }
-  },
-  {
-    "evaluations": 164,
-    "seed": "1598076846",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,8,0,0,5]"
-    }
-  },
-  {
-    "evaluations": 16,
-    "seed": "1034058577",
-    "shrunk": {
-      "ls": "[0,2,1]"
-    }
-  },
-  {
-    "evaluations": 33,
-    "seed": "-223489477",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 46,
-    "seed": "-957245175",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 120,
-    "seed": "520888649",
-    "shrunk": {
-      "ls": "[0,0,0,6,0,0,3]"
-    }
-  },
-  {
-    "evaluations": 51,
-    "seed": "1158097113",
-    "shrunk": {
-      "ls": "[0,0,4,0,2]"
-    }
-  },
-  {
-    "evaluations": 150,
-    "seed": "1848681355",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,0,0,8,7]"
-    }
-  },
-  {
-    "evaluations": 110,
-    "seed": "51328436",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,6,5]"
-    }
-  },
-  {
-    "evaluations": 61,
-    "seed": "1165718454",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 140,
-    "seed": "711362867",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,8,0,0,5]"
-    }
-  },
-  {
-    "evaluations": 49,
-    "seed": "-371552031",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 28,
-    "seed": "-1685543074",
-    "shrunk": {
-      "ls": "[0,2,1]"
-    }
-  },
-  {
-    "evaluations": 38,
-    "seed": "-719289153",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 26,
-    "seed": "-2036640157",
-    "shrunk": {
-      "ls": "[0,0,4,0,2]"
-    }
-  },
-  {
-    "evaluations": 14,
-    "seed": "205369674",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 127,
-    "seed": "-2077531160",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,0,7,6]"
-    }
-  },
-  {
-    "evaluations": 121,
-    "seed": "-1919835149",
-    "shrunk": {
-      "ls": "[0,7,0,0,0,0,0,1]"
-    }
-  },
-  {
-    "evaluations": 167,
-    "seed": "-1164472680",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,8,0,0,5]"
-    }
-  },
-  {
-    "evaluations": 76,
-    "seed": "-1350518543",
-    "shrunk": {
-      "ls": "[0,0,0,6,0,0,3]"
-    }
-  },
-  {
-    "evaluations": 88,
-    "seed": "-1305550196",
-    "shrunk": {
-      "ls": "[0,0,0,5,0,3]"
-    }
-  },
-  {
-    "evaluations": 34,
-    "seed": "1103251836",
-    "shrunk": {
-      "ls": "[0,0,3,2]"
-    }
-  },
-  {
-    "evaluations": 4,
-    "seed": "198775672",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 26,
-    "seed": "-212148109",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 48,
-    "seed": "-200690735",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 23,
-    "seed": "119235",
-    "shrunk": {
-      "ls": "[0,2,1]"
-    }
-  },
-  {
-    "evaluations": 43,
-    "seed": "-1282364608",
-    "shrunk": {
-      "ls": "[0,0,0,4,3]"
-    }
-  },
-  {
-    "evaluations": 101,
-    "seed": "-764400367",
-    "shrunk": {
-      "ls": "[0,5,0,0,0,1]"
-    }
-  },
-  {
-    "evaluations": 32,
-    "seed": "-414802732",
-    "shrunk": {
-      "ls": "[0,0,3,2]"
-    }
-  },
-  {
-    "evaluations": 65,
-    "seed": "1448146717",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 33,
-    "seed": "1423785495",
-    "shrunk": {
-      "ls": "[0,2,1]"
-    }
-  },
-  {
-    "evaluations": 100,
-    "seed": "255302075",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 38,
-    "seed": "-54321943",
-    "shrunk": {
-      "ls": "[0,2,1]"
-    }
-  },
-  {
-    "evaluations": 149,
-    "seed": "1639320706",
-    "shrunk": {
-      "ls": "[0,0,0,0,7,0,0,4]"
-    }
-  },
-  {
-    "evaluations": 152,
-    "seed": "-762709195",
-    "shrunk": {
-      "ls": "[0,0,7,0,0,0,0,2]"
-    }
-  },
-  {
-    "evaluations": 9,
-    "seed": "1999564839",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 106,
-    "seed": "350075603",
-    "shrunk": {
-      "ls": "[0,0,0,0,7,0,0,4]"
-    }
-  },
-  {
-    "evaluations": 82,
-    "seed": "-1851702190",
-    "shrunk": {
-      "ls": "[0,0,0,0,5,4]"
-    }
-  },
-  {
-    "evaluations": 116,
-    "seed": "-395247775",
-    "shrunk": {
-      "ls": "[0,8,0,0,0,0,0,0,1]"
-    }
-  },
-  {
-    "evaluations": 36,
-    "seed": "1630908303",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 175,
-    "seed": "2023468640",
+    "evaluations": 160,
+    "seed": "-2073973808",
     "shrunk": {
       "ls": "[0,0,0,0,0,0,8,0,6]"
     }
   },
   {
-    "evaluations": 13,
-    "seed": "-1572430608",
+    "evaluations": 55,
+    "seed": "-838667594",
     "shrunk": {
       "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 27,
-    "seed": "-728996966",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 13,
-    "seed": "1756978101",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 26,
-    "seed": "1700058681",
-    "shrunk": {
-      "ls": "[0,2,1]"
-    }
-  },
-  {
-    "evaluations": 94,
-    "seed": "-1355360567",
-    "shrunk": {
-      "ls": "[0,0,3,2]"
-    }
-  },
-  {
-    "evaluations": 165,
-    "seed": "-1208837783",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,9,0,0,0,5]"
-    }
-  },
-  {
-    "evaluations": 70,
-    "seed": "1251294524",
-    "shrunk": {
-      "ls": "[0,6,0,0,0,0,1]"
-    }
-  },
-  {
-    "evaluations": 8,
-    "seed": "635334699",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 46,
-    "seed": "-1815740828",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 67,
-    "seed": "1158474872",
-    "shrunk": {
-      "ls": "[0,0,4,0,2]"
-    }
-  },
-  {
-    "evaluations": 21,
-    "seed": "-1834158872",
-    "shrunk": {
-      "ls": "[0,2,1]"
-    }
-  },
-  {
-    "evaluations": 23,
-    "seed": "-613726086",
-    "shrunk": {
-      "ls": "[0,2,1]"
-    }
-  },
-  {
-    "evaluations": 104,
-    "seed": "648734396",
-    "shrunk": {
-      "ls": "[0,0,5,0,0,2]"
-    }
-  },
-  {
-    "evaluations": 5,
-    "seed": "-1090063645",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 90,
-    "seed": "1515931118",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,6,5]"
     }
   },
   {
     "evaluations": 4,
-    "seed": "278760321",
+    "seed": "-424399242",
     "shrunk": {
       "ls": "[1,0]"
     }
   },
   {
-    "evaluations": 128,
-    "seed": "1498971210",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,0,8,0,6]"
-    }
-  },
-  {
-    "evaluations": 97,
-    "seed": "1550498905",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,0,7,6]"
-    }
-  },
-  {
-    "evaluations": 79,
-    "seed": "796359202",
-    "shrunk": {
-      "ls": "[0,0,0,0,5,4]"
-    }
-  },
-  {
-    "evaluations": 131,
-    "seed": "1651084889",
-    "shrunk": {
-      "ls": "[0,6,0,0,0,0,1]"
-    }
-  },
-  {
-    "evaluations": 113,
-    "seed": "-1610652198",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,7,0,5]"
-    }
-  },
-  {
-    "evaluations": 44,
-    "seed": "-626077170",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 11,
-    "seed": "-1534225018",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 107,
-    "seed": "-287959195",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 74,
-    "seed": "552714397",
-    "shrunk": {
-      "ls": "[0,4,0,0,1]"
-    }
-  },
-  {
-    "evaluations": 93,
-    "seed": "-266154960",
-    "shrunk": {
-      "ls": "[0,0,5,0,0,2]"
-    }
-  },
-  {
-    "evaluations": 165,
-    "seed": "-642257344",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,0,0,0,9,8]"
-    }
-  },
-  {
-    "evaluations": 33,
-    "seed": "216477203",
-    "shrunk": {
-      "ls": "[0,2,1]"
-    }
-  },
-  {
-    "evaluations": 111,
-    "seed": "-834414995",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 39,
-    "seed": "1997911861",
-    "shrunk": {
-      "ls": "[0,3,0,1]"
-    }
-  },
-  {
-    "evaluations": 36,
-    "seed": "-451636070",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 87,
-    "seed": "-1987349986",
-    "shrunk": {
-      "ls": "[0,0,0,7,0,0,0,3]"
-    }
-  },
-  {
-    "evaluations": 96,
-    "seed": "1338458218",
-    "shrunk": {
-      "ls": "[0,0,5,0,0,2]"
-    }
-  },
-  {
-    "evaluations": 168,
-    "seed": "638621678",
-    "shrunk": {
-      "ls": "[0,0,0,9,0,0,0,0,0,3]"
-    }
-  },
-  {
-    "evaluations": 54,
-    "seed": "-853325442",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 84,
-    "seed": "906039682",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,7,0,5]"
-    }
-  },
-  {
-    "evaluations": 27,
-    "seed": "463371260",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 101,
-    "seed": "1855786170",
-    "shrunk": {
-      "ls": "[0,5,0,0,0,1]"
-    }
-  },
-  {
-    "evaluations": 152,
-    "seed": "1143063138",
-    "shrunk": {
-      "ls": "[0,0,7,0,0,0,0,2]"
-    }
-  },
-  {
-    "evaluations": 106,
-    "seed": "-1922268855",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,6,5]"
-    }
-  },
-  {
-    "evaluations": 15,
-    "seed": "1418018608",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 14,
-    "seed": "292627868",
-    "shrunk": {
-      "ls": "[0,3,0,1]"
-    }
-  },
-  {
-    "evaluations": 69,
-    "seed": "-1807019603",
-    "shrunk": {
-      "ls": "[0,0,4,0,2]"
-    }
-  },
-  {
-    "evaluations": 87,
-    "seed": "436412207",
-    "shrunk": {
-      "ls": "[0,0,0,0,5,4]"
-    }
-  },
-  {
-    "evaluations": 94,
-    "seed": "-2080574962",
-    "shrunk": {
-      "ls": "[0,0,0,7,0,0,0,3]"
-    }
-  },
-  {
-    "evaluations": 141,
-    "seed": "1044712098",
-    "shrunk": {
-      "ls": "[0,0,0,7,0,0,0,3]"
-    }
-  },
-  {
-    "evaluations": 164,
-    "seed": "847680560",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,0,9,0,0,6]"
-    }
-  },
-  {
-    "evaluations": 169,
-    "seed": "722149039",
-    "shrunk": {
-      "ls": "[0,0,0,0,0,0,0,8,7]"
-    }
-  },
-  {
-    "evaluations": 11,
-    "seed": "-1906604085",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 84,
-    "seed": "867152325",
-    "shrunk": {
-      "ls": "[0,4,0,0,1]"
-    }
-  },
-  {
-    "evaluations": 12,
-    "seed": "301576117",
-    "shrunk": {
-      "ls": "[1,0]"
-    }
-  },
-  {
-    "evaluations": 73,
-    "seed": "1762403961",
+    "evaluations": 108,
+    "seed": "736674090",
     "shrunk": {
       "ls": "[0,0,0,6,0,0,3]"
     }
   },
   {
     "evaluations": 56,
-    "seed": "-984890485",
+    "seed": "-787504363",
+    "shrunk": {
+      "ls": "[0,0,0,0,5,4]"
+    }
+  },
+  {
+    "evaluations": 36,
+    "seed": "-1149009502",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 196,
+    "seed": "-1826197294",
+    "shrunk": {
+      "ls": "[0,0,0,9,0,0,0,0,0,3]"
+    }
+  },
+  {
+    "evaluations": 83,
+    "seed": "-105134970",
+    "shrunk": {
+      "ls": "[0,0,0,4,3]"
+    }
+  },
+  {
+    "evaluations": 160,
+    "seed": "-1897406254",
+    "shrunk": {
+      "ls": "[0,0,0,4,3]"
+    }
+  },
+  {
+    "evaluations": 43,
+    "seed": "95112696",
+    "shrunk": {
+      "ls": "[0,0,3,2]"
+    }
+  },
+  {
+    "evaluations": 91,
+    "seed": "-518191164",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 70,
+    "seed": "409773806",
+    "shrunk": {
+      "ls": "[0,0,0,0,6,0,4]"
+    }
+  },
+  {
+    "evaluations": 63,
+    "seed": "-1648686115",
+    "shrunk": {
+      "ls": "[0,0,4,0,2]"
+    }
+  },
+  {
+    "evaluations": 64,
+    "seed": "1821339352",
+    "shrunk": {
+      "ls": "[0,0,4,0,2]"
+    }
+  },
+  {
+    "evaluations": 21,
+    "seed": "1850840624",
+    "shrunk": {
+      "ls": "[0,0,3,2]"
+    }
+  },
+  {
+    "evaluations": 21,
+    "seed": "-1106513801",
+    "shrunk": {
+      "ls": "[0,0,3,2]"
+    }
+  },
+  {
+    "evaluations": 89,
+    "seed": "790033649",
+    "shrunk": {
+      "ls": "[0,0,0,0,8,0,0,0,4]"
+    }
+  },
+  {
+    "evaluations": 28,
+    "seed": "2092381910",
+    "shrunk": {
+      "ls": "[0,0,0,4,3]"
+    }
+  },
+  {
+    "evaluations": 42,
+    "seed": "-54026148",
+    "shrunk": {
+      "ls": "[0,0,4,0,2]"
+    }
+  },
+  {
+    "evaluations": 10,
+    "seed": "1846076635",
+    "shrunk": {
+      "ls": "[0,2,1]"
+    }
+  },
+  {
+    "evaluations": 24,
+    "seed": "1445806222",
+    "shrunk": {
+      "ls": "[0,2,1]"
+    }
+  },
+  {
+    "evaluations": 132,
+    "seed": "-2057458561",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 93,
+    "seed": "236414018",
+    "shrunk": {
+      "ls": "[0,5,0,0,0,1]"
+    }
+  },
+  {
+    "evaluations": 53,
+    "seed": "343202496",
+    "shrunk": {
+      "ls": "[0,0,0,5,0,3]"
+    }
+  },
+  {
+    "evaluations": 13,
+    "seed": "1866130710",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 40,
+    "seed": "-726347102",
+    "shrunk": {
+      "ls": "[0,0,3,2]"
+    }
+  },
+  {
+    "evaluations": 36,
+    "seed": "619131086",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 173,
+    "seed": "-1974013691",
+    "shrunk": {
+      "ls": "[0,0,9,0,0,0,0,0,0,2]"
+    }
+  },
+  {
+    "evaluations": 61,
+    "seed": "1527415327",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 26,
+    "seed": "1763019418",
+    "shrunk": {
+      "ls": "[0,2,1]"
+    }
+  },
+  {
+    "evaluations": 13,
+    "seed": "356372902",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 39,
+    "seed": "-980086118",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 35,
+    "seed": "-797687825",
+    "shrunk": {
+      "ls": "[0,0,3,2]"
+    }
+  },
+  {
+    "evaluations": 116,
+    "seed": "831502762",
+    "shrunk": {
+      "ls": "[0,0,7,0,0,0,0,2]"
+    }
+  },
+  {
+    "evaluations": 30,
+    "seed": "558740065",
+    "shrunk": {
+      "ls": "[0,0,0,4,3]"
+    }
+  },
+  {
+    "evaluations": 44,
+    "seed": "-754577312",
+    "shrunk": {
+      "ls": "[0,0,3,2]"
+    }
+  },
+  {
+    "evaluations": 72,
+    "seed": "1140644999",
+    "shrunk": {
+      "ls": "[0,0,0,4,3]"
+    }
+  },
+  {
+    "evaluations": 97,
+    "seed": "1420705362",
+    "shrunk": {
+      "ls": "[0,0,0,0,5,4]"
+    }
+  },
+  {
+    "evaluations": 125,
+    "seed": "1509396805",
+    "shrunk": {
+      "ls": "[0,0,0,0,0,6,5]"
+    }
+  },
+  {
+    "evaluations": 70,
+    "seed": "195864019",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 9,
+    "seed": "1438615005",
+    "shrunk": {
+      "ls": "[0,2,1]"
+    }
+  },
+  {
+    "evaluations": 11,
+    "seed": "368507717",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 46,
+    "seed": "-954297122",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 23,
+    "seed": "859408916",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 27,
+    "seed": "1867100385",
+    "shrunk": {
+      "ls": "[0,2,1]"
+    }
+  },
+  {
+    "evaluations": 97,
+    "seed": "-653436705",
+    "shrunk": {
+      "ls": "[0,5,0,0,0,1]"
+    }
+  },
+  {
+    "evaluations": 9,
+    "seed": "-42902182",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 162,
+    "seed": "-26923399",
+    "shrunk": {
+      "ls": "[0,9,0,0,0,0,0,0,0,1]"
+    }
+  },
+  {
+    "evaluations": 6,
+    "seed": "-754093471",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 148,
+    "seed": "445198254",
+    "shrunk": {
+      "ls": "[0,0,0,0,0,6,5]"
+    }
+  },
+  {
+    "evaluations": 38,
+    "seed": "1898605748",
+    "shrunk": {
+      "ls": "[0,0,3,2]"
+    }
+  },
+  {
+    "evaluations": 86,
+    "seed": "-1406506956",
+    "shrunk": {
+      "ls": "[0,0,0,0,5,4]"
+    }
+  },
+  {
+    "evaluations": 64,
+    "seed": "102297098",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 37,
+    "seed": "-201798911",
+    "shrunk": {
+      "ls": "[0,0,3,2]"
+    }
+  },
+  {
+    "evaluations": 111,
+    "seed": "-131022933",
+    "shrunk": {
+      "ls": "[0,0,0,0,6,0,4]"
+    }
+  },
+  {
+    "evaluations": 120,
+    "seed": "1733989742",
+    "shrunk": {
+      "ls": "[0,0,0,6,0,0,3]"
+    }
+  },
+  {
+    "evaluations": 72,
+    "seed": "1686695237",
+    "shrunk": {
+      "ls": "[0,0,0,0,5,4]"
+    }
+  },
+  {
+    "evaluations": 72,
+    "seed": "-2061739299",
+    "shrunk": {
+      "ls": "[0,0,0,0,5,4]"
+    }
+  },
+  {
+    "evaluations": 135,
+    "seed": "324504138",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 120,
+    "seed": "-26990734",
+    "shrunk": {
+      "ls": "[0,0,0,6,0,0,3]"
+    }
+  },
+  {
+    "evaluations": 54,
+    "seed": "-1838883489",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 26,
+    "seed": "-1244153835",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 8,
+    "seed": "-407385561",
+    "shrunk": {
+      "ls": "[0,2,1]"
+    }
+  },
+  {
+    "evaluations": 149,
+    "seed": "803042140",
+    "shrunk": {
+      "ls": "[0,0,0,8,0,0,0,0,3]"
+    }
+  },
+  {
+    "evaluations": 95,
+    "seed": "-799153750",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 51,
+    "seed": "-2087985823",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 153,
+    "seed": "1654879741",
+    "shrunk": {
+      "ls": "[0,0,0,8,0,0,0,0,3]"
+    }
+  },
+  {
+    "evaluations": 99,
+    "seed": "1817867402",
+    "shrunk": {
+      "ls": "[0,0,0,0,0,0,8,0,6]"
+    }
+  },
+  {
+    "evaluations": 13,
+    "seed": "-1052077048",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 164,
+    "seed": "1225359964",
+    "shrunk": {
+      "ls": "[0,7,0,0,0,0,0,1]"
+    }
+  },
+  {
+    "evaluations": 61,
+    "seed": "2143062631",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 4,
+    "seed": "122184173",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 27,
+    "seed": "1674156984",
+    "shrunk": {
+      "ls": "[0,2,1]"
+    }
+  },
+  {
+    "evaluations": 76,
+    "seed": "1206342090",
+    "shrunk": {
+      "ls": "[0,0,0,4,3]"
+    }
+  },
+  {
+    "evaluations": 63,
+    "seed": "1310158165",
+    "shrunk": {
+      "ls": "[0,4,0,0,1]"
+    }
+  },
+  {
+    "evaluations": 21,
+    "seed": "-65769364",
+    "shrunk": {
+      "ls": "[0,2,1]"
+    }
+  },
+  {
+    "evaluations": 124,
+    "seed": "1135616103",
+    "shrunk": {
+      "ls": "[0,0,0,0,0,0,7,6]"
+    }
+  },
+  {
+    "evaluations": 69,
+    "seed": "1611579844",
+    "shrunk": {
+      "ls": "[0,0,4,0,2]"
+    }
+  },
+  {
+    "evaluations": 12,
+    "seed": "591245433",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 70,
+    "seed": "836285596",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 15,
+    "seed": "159977033",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 47,
+    "seed": "1467091618",
+    "shrunk": {
+      "ls": "[0,3,0,1]"
+    }
+  },
+  {
+    "evaluations": 9,
+    "seed": "-1737117200",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 4,
+    "seed": "418837981",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 171,
+    "seed": "-1631443890",
+    "shrunk": {
+      "ls": "[0,0,0,0,0,9,0,0,0,5]"
+    }
+  },
+  {
+    "evaluations": 82,
+    "seed": "-1248894960",
+    "shrunk": {
+      "ls": "[0,0,0,0,5,4]"
+    }
+  },
+  {
+    "evaluations": 59,
+    "seed": "-22818850",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 31,
+    "seed": "110449392",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 125,
+    "seed": "1031541731",
+    "shrunk": {
+      "ls": "[0,6,0,0,0,0,1]"
+    }
+  },
+  {
+    "evaluations": 54,
+    "seed": "1870682823",
+    "shrunk": {
+      "ls": "[0,0,0,4,3]"
+    }
+  },
+  {
+    "evaluations": 145,
+    "seed": "739678878",
+    "shrunk": {
+      "ls": "[0,0,0,0,0,0,8,0,6]"
+    }
+  },
+  {
+    "evaluations": 82,
+    "seed": "-2136883232",
+    "shrunk": {
+      "ls": "[0,0,0,5,0,3]"
+    }
+  },
+  {
+    "evaluations": 56,
+    "seed": "-243436322",
+    "shrunk": {
+      "ls": "[0,0,5,0,0,2]"
+    }
+  },
+  {
+    "evaluations": 207,
+    "seed": "-1776571499",
+    "shrunk": {
+      "ls": "[0,8,0,0,0,0,0,0,1]"
+    }
+  },
+  {
+    "evaluations": 96,
+    "seed": "1310452236",
+    "shrunk": {
+      "ls": "[0,0,3,2]"
+    }
+  },
+  {
+    "evaluations": 103,
+    "seed": "1521416537",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 59,
+    "seed": "279217754",
+    "shrunk": {
+      "ls": "[0,4,0,0,1]"
+    }
+  },
+  {
+    "evaluations": 58,
+    "seed": "464262899",
+    "shrunk": {
+      "ls": "[0,0,0,4,3]"
+    }
+  },
+  {
+    "evaluations": 5,
+    "seed": "1712659084",
+    "shrunk": {
+      "ls": "[1,0]"
+    }
+  },
+  {
+    "evaluations": 15,
+    "seed": "-645961443",
     "shrunk": {
       "ls": "[1,0]"
     }
