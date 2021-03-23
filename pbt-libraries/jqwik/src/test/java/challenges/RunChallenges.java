@@ -1,5 +1,8 @@
 package challenges;
 
+import java.time.*;
+import java.time.temporal.*;
+
 import challenges.binheap.*;
 import challenges.bound5.*;
 import challenges.calculator.*;
@@ -50,7 +53,7 @@ public class RunChallenges {
 						.build();
 
 		SummaryGeneratingListener listener = new SummaryGeneratingListener() {
-			boolean initialized = false;
+			volatile boolean initialized = false;
 
 			@Override
 			public void testPlanExecutionStarted(TestPlan testPlan) {
@@ -62,13 +65,19 @@ public class RunChallenges {
 		};
 
 		for (int i = 0; i < RUNS; i++) {
+			LocalTime before = LocalTime.now();
+			System.err.printf("%s: Started  %s (%s/%s)%n", before, challengeClass.getSimpleName(), i + 1, RUNS);
 			launcher.execute(request, listener);
+			LocalTime after = LocalTime.now();
+			Duration duration = Duration.between(before, after).truncatedTo(ChronoUnit.MILLIS);
+			System.err.printf("%s: Finished %s (%s/%s) in %s %n", after, challengeClass.getSimpleName(), i + 1, RUNS, duration);
+			System.gc();
 		}
 
-		System.out.println("Challenge       : " + challengeClass.getSimpleName());
-		System.out.println("Tests started   : " + listener.getSummary().getTestsStartedCount());
-		System.out.println("Tests succeeded : " + listener.getSummary().getTestsSucceededCount());
-		System.out.println("Tests failed    : " + listener.getSummary().getTestsFailedCount());
+		System.err.println("Challenge       : " + challengeClass.getSimpleName());
+		System.err.println("Tests started   : " + listener.getSummary().getTestsStartedCount());
+		System.err.println("Tests succeeded : " + listener.getSummary().getTestsSucceededCount());
+		System.err.println("Tests failed    : " + listener.getSummary().getTestsFailedCount());
 	}
 
 }

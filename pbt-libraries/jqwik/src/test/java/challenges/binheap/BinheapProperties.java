@@ -42,7 +42,6 @@ public class BinheapProperties {
 			return h1;
 		}
 		if (h1.head <= h2.head) {
-
 			return new Heap(h1.head, mergeHeaps(h1.right, h2), h1.left);
 		} else {
 			return new Heap(h2.head, mergeHeaps(h2.right, h1), h2.left);
@@ -90,10 +89,18 @@ public class BinheapProperties {
 	}
 
 	private Arbitrary<Heap> heap(int minKey, int size) {
-		return Arbitraries.lazyOf(
-				() -> Arbitraries.just(null),
-				() -> heapWithChildren(minKey, size)
+		return Arbitraries.lazy(
+				() -> Arbitraries.frequencyOf(
+						Tuple.of(3, Arbitraries.just(null)),
+						Tuple.of(1, heapWithChildren(minKey, size))
+				)
 		);
+
+		// Alternative using lazyOf() seems to perform worse:
+		// return Arbitraries.lazyOf(
+		// 		() -> Arbitraries.just(null),
+		// 		() -> heapWithChildren(minKey, size)
+		// );
 	}
 
 	private Arbitrary<Heap> heapWithChildren(int minKey, int size) {
