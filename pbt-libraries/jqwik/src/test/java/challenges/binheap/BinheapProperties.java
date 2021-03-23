@@ -25,6 +25,17 @@ public class BinheapProperties {
 		assertThat(sorted(l1)).isEqualTo(l2);
 	}
 
+	//@Example
+	void simplestFailingSample() {
+		// (1, None, (0, None, None))
+		Heap h = new Heap(1, null, new Heap(0, null, null));
+
+		List<Integer> l1 = toList(h);
+		List<Integer> l2 = wrongToSortedList(h);
+
+		assertThat(l2).isEqualTo(sorted(l2));
+	}
+
 	private List<Integer> toSortedList(Heap heap) {
 		List<Integer> result = new ArrayList<>();
 		while (heap != null) {
