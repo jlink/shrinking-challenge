@@ -11,6 +11,7 @@ import net.jqwik.api.lifecycle.*;
 import static org.assertj.core.api.Assertions.*;
 
 @AddLifecycleHook(ShrinkingStatistics.class)
+@PropertyDefaults(shrinking = ShrinkingMode.BOUNDED)
 public class BinheapProperties {
 
 	@Label("binheap")
@@ -89,22 +90,10 @@ public class BinheapProperties {
 	}
 
 	private Arbitrary<Heap> heap(int minKey, int size) {
-		// Using lazyOf with null heap and heap with children
-		// should theoretically provide better shrinking results,
-		// but it has a bug and will only generate null heap in this case
-		return Arbitraries.lazy(
-				() -> {
-					if (size <= 0) {
-						return Arbitraries.just(null);
-					}
-					Arbitrary<Integer> branches = Arbitraries.integers().between(1, 8);
-					return branches.flatMap(branch -> {
-						if (branch == 1) {
-							return Arbitraries.just(null);
-						}
-						return heapWithChildren(minKey, size);
-					});
-				});
+		return Arbitraries.lazyOf(
+				() -> Arbitraries.just(null),
+				() -> heapWithChildren(minKey, size)
+		);
 	}
 
 	private Arbitrary<Heap> heapWithChildren(int minKey, int size) {

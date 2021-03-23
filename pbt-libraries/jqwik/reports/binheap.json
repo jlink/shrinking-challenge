@@ -1,702 +1,698 @@
 [
   {
-    "evaluations" : 1328,
-    "seed" : "-3491316427986782117",
+    "evaluations" : 251,
+    "seed" : "-3511393802313817726",
     "shrunk" : {
-      "h" : "(1610, None, (71532, (71532, None, None), (71533, None, None)))"
+      "h" : "(0, (0, None, (0, None, (0, (0, None, (0, None, None)), (0, (1, None, None), None)))), None)"
     }
   },
   {
-    "evaluations" : 326,
-    "seed" : "-602562164932105060",
+    "evaluations" : 115,
+    "seed" : "-3627728849615815807",
     "shrunk" : {
-      "h" : "(39, None, (39, (39, None, None), (40, None, None)))"
+      "h" : "(620, (483, None, (331, None, (7072, (1166, (0, (0, None, None), (0, None, (0, None, (0, (0, (0, None, None), None), (0, None, None))))), (301, (0, None, (599601, None, (0, (119, (0, None, None), None), (19, None, None)))), (111002, (599601, None, (67, (119, (161426, None, None), None), (19, None, None))), (326, (67, (119, (161426, None, None), None), (19, None, None)), None)))), (206927, (301, (20, None, (599601, None, (67, (119, (161426, None, None), None), (19, None, None)))), (111002, (599601, None, (67, (119, (161426, None, None), None), (19, None, None))), (326, (67, (119, (161426, None, None), None), (19, None, None)), None))), (6667, (111002, (599601, None, (67, (119, (161426, None, None), None), (19, None, None))), (326, (67, (119, (161426, None, None), None), (19, None, None)), None)), (888742, (326, (67, (119, (161426, None, None), None), (19, None, None)), None), None)))))), None)"
     }
   },
   {
-    "evaluations" : 1447,
-    "seed" : "-8048254178476976722",
+    "evaluations" : 18,
+    "seed" : "-9198550933502254987",
     "shrunk" : {
-      "h" : "(669986, (707081, None, None), (669986, (669987, None, None), (669986, None, None)))"
+      "h" : "(65, (212, (141241, (1462405241, None, (7, (615642, None, (451548, (61, (30330, (2112, (47470, None, (2592997, (7, (13805, None, (594206815, (0, (0, None, (0, None, None)), None), (0, None, (1426, (0, None, (37, None, None)), None)))), (10897, (594206815, (319, (1932, None, (7, None, None)), None), (557, None, (1426, (1585, None, (37, None, None)), None))), None)), None)), (3, (2592997, (7, (13805, None, (594206815, (319, (1932, None, (7, None, None)), None), (557, None, (1426, (1585, None, (37, None, None)), None)))), (10897, (594206815, (319, (1932, None, (7, None, None)), None), (557, None, (1426, (1585, None, (37, None, None)), None))), None)), None), None)), (5981297, (3, (2592997, (7, (13805, None, (594206815, (319, (1932, None, (7, None, None)), None), (557, None, (1426, (1585, None, (37, None, None)), None)))), (10897, (594206815, (319, (1932, None, (7, None, None)), None), (557, None, (1426, (1585, None, (37, None, None)), None))), None)), None), None), None)), (727334, (5981297, (3, (2592997, (7, (13805, None, (594206815, (319, (1932, None, (7, None, None)), None), (557, None, (1426, (1585, None, (37, None, None)), None)))), (10897, (594206815, (319, (1932, None, (7, None, None)), None), (557, None, (1426, (1585, None, (37, None, None)), None))), None)), None), None), None), None)), None)), None)), (39, (7, (615642, None, (451548, (61, (30330, (2112, (47470, None, (2592997, (7, (13805, None, (594206815, (319, (1932, None, (7, None, None)), None), (557, None, (1426, (1585, None, (37, None, None)), None)))), (10897, (594206815, (319, (1932, None, (7, None, None)), None), (557, None, (1426, (1585, None, (37, None, None)), None))), None)), None)), (3, (2592997, (7, (13805, None, (594206815, (319, (1932, None, (7, None, None)), None), (557, None, (1426, (1585, None, (37, None, None)), None)))), (10897, (594206815, (319, (1932, None, (7, None, None)), None), (557, None, (1426, (1585, None, (37, None, None)), None))), None)), None), None)), (5981297, (3, (2592997, (7, (13805, None, (594206815, (319, (1932, None, (7, None, None)), None), (557, None, (1426, (1585, None, (37, None, None)), None)))), (10897, (594206815, (319, (1932, None, (7, None, None)), None), (557, None, (1426, (1585, None, (37, None, None)), None))), None)), None), None), None)), (727334, (5981297, (3, (2592997, (7, (13805, None, (594206815, (319, (1932, None, (7, None, None)), None), (557, None, (1426, (1585, None, (37, None, None)), None)))), (10897, (594206815, (319, (1932, None, (7, None, None)), None), (557, None, (1426, (1585, None, (37, None, None)), None))), None)), None), None), None), None)), None)), None), None)), None), None)"
     }
   },
   {
-    "evaluations" : 172,
-    "seed" : "8019881802362500891",
+    "evaluations" : 320,
+    "seed" : "2320518209432670118",
     "shrunk" : {
-      "h" : "(130442, None, (130442, (130442, None, None), (130443, None, None)))"
+      "h" : "(0, None, (0, (426, None, (0, None, None)), None))"
     }
   },
   {
-    "evaluations" : 656,
-    "seed" : "-8926964648341667991",
+    "evaluations" : 376,
+    "seed" : "2528027069985193072",
     "shrunk" : {
-      "h" : "(4478305, (4478407, None, None), (4478305, (4478408, None, None), None))"
+      "h" : "(0, (0, (0, (0, (0, None, (0, (0, None, None), None)), (0, (0, (0, None, None), None), None)), (0, (0, (0, (1, None, None), None), None), None)), None), None)"
     }
   },
   {
-    "evaluations" : 606,
-    "seed" : "-1185584967804411995",
+    "evaluations" : 39,
+    "seed" : "-2705578330822205398",
     "shrunk" : {
-      "h" : "(0, None, (0, (0, None, None), (1, None, None)))"
+      "h" : "(93029, (15035, None, (570772, (2907, (24, (68, None, (1094969, None, (68, None, (11810, (139532, (0, None, None), (45, None, (123, (211866, None, (3, (0, None, None), (3612490, None, (565, None, (306592, (3446, None, (3842, (405959, (0, None, (0, (0, (0, None, None), None), None)), (0, (4, (2014151, (866905, None, None), None), None), (211, None, (199, None, None)))), None)), None))))), None))), (5666, (45, None, (123, (211866, None, (3, (69984, None, None), (3612490, None, (565, None, (306592, (3446, None, (3842, (405959, (1857808, None, (4, (2014151, (866905, None, None), None), None)), (82, (4, (2014151, (866905, None, None), None), None), (211, None, (199, None, None)))), None)), None))))), None)), None))))), (56, (1094969, None, (68, None, (11810, (139532, (33653, None, None), (45, None, (123, (211866, None, (3, (69984, None, None), (3612490, None, (565, None, (306592, (3446, None, (3842, (405959, (1857808, None, (4, (2014151, (866905, None, None), None), None)), (82, (4, (2014151, (866905, None, None), None), None), (211, None, (199, None, None)))), None)), None))))), None))), (5666, (45, None, (123, (211866, None, (3, (69984, None, None), (3612490, None, (565, None, (306592, (3446, None, (3842, (405959, (1857808, None, (4, (2014151, (866905, None, None), None), None)), (82, (4, (2014151, (866905, None, None), None), None), (211, None, (199, None, None)))), None)), None))))), None)), None)))), None)), None), (4574, None, None))), None)"
     }
   },
   {
-    "evaluations" : 361,
-    "seed" : "-8287798711309030586",
+    "evaluations" : 1,
+    "seed" : "-4641625480702871784",
     "shrunk" : {
-      "h" : "(1759859540, None, (1760054600, (1760054600, None, None), (1760054684, None, None)))"
+      "h" : "(5549043, (4794, (5884, None, None), (112032, None, (6, None, (104640, (7, None, None), None)))), None)"
     }
   },
   {
-    "evaluations" : 104,
-    "seed" : "5180529082147574989",
+    "evaluations" : 3,
+    "seed" : "",
+    "shrunk" : { }
+  },
+  {
+    "evaluations" : 5,
+    "seed" : "",
+    "shrunk" : { }
+  },
+  {
+    "evaluations" : 467,
+    "seed" : "-908982602186664845",
     "shrunk" : {
-      "h" : "(1, None, (5294544, None, (5294544, (5294544, None, None), (5294545, None, None))))"
+      "h" : "(0, (0, (0, (1836, (0, None, None), None), None), None), None)"
     }
   },
   {
-    "evaluations" : 3728,
-    "seed" : "-2633125799053516041",
+    "evaluations" : 187,
+    "seed" : "-1321583158632736440",
     "shrunk" : {
-      "h" : "(172, (440503, None, None), (172, (173, None, None), (172, None, None)))"
+      "h" : "(0, (0, (0, None, None), (0, None, None)), (83, (0, None, None), None))"
     }
   },
   {
-    "evaluations" : 1590,
-    "seed" : "-3053276677829484445",
+    "evaluations" : 52,
+    "seed" : "-8189897362648469524",
     "shrunk" : {
-      "h" : "(1553024, (1553024, (1553391, None, None), None), (1553390, None, None))"
+      "h" : "(0, None, (0, (0, (0, None, None), None), (1, None, None)))"
     }
   },
   {
-    "evaluations" : 1788,
-    "seed" : "371377968536874697",
+    "evaluations" : 1078,
+    "seed" : "1453698047381664632",
     "shrunk" : {
-      "h" : "(0, (0, None, (1, None, None)), (0, (2, None, None), None))"
+      "h" : "(0, (0, (0, (0, (0, (0, None, (0, (4, (0, None, None), None), None)), None), None), None), None), None)"
     }
   },
   {
-    "evaluations" : 14373,
-    "seed" : "4735823869875409810",
+    "evaluations" : 349,
+    "seed" : "-6627327102521393748",
     "shrunk" : {
-      "h" : "(0, (0, None, (0, (0, (0, None, None), (1, None, None)), None)), None)"
+      "h" : "(0, (0, (0, (3181, (0, None, None), (0, None, None)), None), None), None)"
     }
   },
   {
-    "evaluations" : 194,
-    "seed" : "-2736565460929603856",
+    "evaluations" : 463,
+    "seed" : "-1147378432324196856",
     "shrunk" : {
-      "h" : "(516, None, (516, (516, None, None), (517, None, None)))"
+      "h" : "(0, None, (3868, (0, None, None), None))"
     }
   },
   {
-    "evaluations" : 549,
-    "seed" : "-7809408757606949812",
+    "evaluations" : 481,
+    "seed" : "-8116546548768780725",
     "shrunk" : {
-      "h" : "(20, (89221, None, None), (20, (21, None, None), (20, None, None)))"
+      "h" : "(0, None, (0, (0, (0, (441, None, (0, (0, None, None), None)), None), None), None))"
     }
   },
   {
-    "evaluations" : 652,
-    "seed" : "-8035254051691031265",
+    "evaluations" : 164,
+    "seed" : "2036961047004659261",
     "shrunk" : {
-      "h" : "(0, None, (0, (0, None, None), (1, None, None)))"
+      "h" : "(0, (79, (0, None, None), None), None)"
     }
   },
   {
-    "evaluations" : 180,
-    "seed" : "-8965273725543068447",
+    "evaluations" : 71,
+    "seed" : "7542430890757725571",
     "shrunk" : {
-      "h" : "(977, None, (977, (977, None, None), (978, None, None)))"
+      "h" : "(0, None, (0, (0, None, (0, None, None)), (0, (1, None, None), None)))"
     }
   },
   {
-    "evaluations" : 267,
-    "seed" : "-6364493681609042554",
+    "evaluations" : 151,
+    "seed" : "-8068920585193839380",
     "shrunk" : {
-      "h" : "(29, None, (29, (29, None, None), (30, None, None)))"
+      "h" : "(0, (0, (0, (19, (0, None, None), None), None), None), None)"
     }
   },
   {
-    "evaluations" : 184,
-    "seed" : "-2104713983318553703",
+    "evaluations" : 52,
+    "seed" : "-5487344431524350295",
     "shrunk" : {
-      "h" : "(74803, None, (74803, (74803, None, None), (74804, None, None)))"
+      "h" : "(3, (0, None, None), (0, None, (0, None, (0, None, None))))"
     }
   },
   {
-    "evaluations" : 732,
-    "seed" : "1554875872074091291",
+    "evaluations" : 659,
+    "seed" : "1642764432212214670",
     "shrunk" : {
-      "h" : "(60, (77228, None, None), (60, (61, None, None), (60, None, None)))"
+      "h" : "(0, (28950, None, (0, None, None)), None)"
     }
   },
   {
-    "evaluations" : 130,
-    "seed" : "-3688083658396648715",
+    "evaluations" : 212,
+    "seed" : "7863671964568441889",
     "shrunk" : {
-      "h" : "(42, None, (303125, None, (303126, (303126, None, None), (303127, None, None))))"
+      "h" : "(0, (0, (0, None, None), None), (0, None, (41, None, (0, None, (0, None, None)))))"
     }
   },
   {
-    "evaluations" : 290,
-    "seed" : "-683942487575431132",
+    "evaluations" : 201,
+    "seed" : "5097669942883801137",
     "shrunk" : {
-      "h" : "(979, None, (2765, (2765, None, None), (2766, None, None)))"
+      "h" : "(0, (0, None, (0, (0, None, None), None)), (0, (0, (0, None, None), None), (0, None, (0, (0, None, (1, None, None)), None))))"
     }
   },
   {
-    "evaluations" : 120,
-    "seed" : "-1626778926899225274",
+    "evaluations" : 761,
+    "seed" : "-4166338133929378165",
     "shrunk" : {
-      "h" : "(7, None, (7, (7, None, None), (8, None, None)))"
+      "h" : "(0, (0, (0, (0, None, (0, None, None)), (0, (0, None, None), (0, None, (0, None, None)))), (0, (0, (0, None, None), (0, None, (0, None, None))), (0, (0, None, (0, None, None)), None))), (0, (0, (0, (0, None, None), (0, None, (0, None, None))), (0, (0, None, (1, None, None)), None)), None))"
     }
   },
   {
-    "evaluations" : 1524,
-    "seed" : "381536228288999295",
+    "evaluations" : 314,
+    "seed" : "4378363459604118578",
     "shrunk" : {
-      "h" : "(78, (78, (78, (78, None, None), (79, None, None)), None), None)"
+      "h" : "(0, None, (0, None, (122, None, (0, (0, (0, None, None), None), None))))"
     }
   },
   {
-    "evaluations" : 351,
-    "seed" : "3005584917771784426",
+    "evaluations" : 105,
+    "seed" : "6666742745824085358",
     "shrunk" : {
-      "h" : "(2005, None, (2005, (2005, None, None), (2006, None, None)))"
+      "h" : "(22, (0, None, (0, None, None)), None)"
     }
   },
   {
-    "evaluations" : 2485,
-    "seed" : "2953135386343779619",
+    "evaluations" : 134,
+    "seed" : "-8461374193112115223",
     "shrunk" : {
-      "h" : "(33395, (33395, (33396, None, None), (33395, None, None)), (2147483647, None, None))"
+      "h" : "(24, (0, (0, None, None), None), (0, None, None))"
     }
   },
   {
-    "evaluations" : 518,
-    "seed" : "5716627045580668627",
+    "evaluations" : 177,
+    "seed" : "8898681634092147066",
     "shrunk" : {
-      "h" : "(10110, (13555, None, None), (10110, (10111, None, None), (10110, None, None)))"
+      "h" : "(0, (0, (0, None, None), None), (0, None, (22, None, (0, None, None))))"
     }
   },
   {
-    "evaluations" : 1688,
-    "seed" : "-5431800692682886721",
+    "evaluations" : 386,
+    "seed" : "-8990652504431587279",
     "shrunk" : {
-      "h" : "(18917, (2026590, None, None), (18917, (18918, None, None), (18917, None, None)))"
+      "h" : "(0, (3144, (0, None, None), None), None)"
     }
   },
   {
-    "evaluations" : 171,
-    "seed" : "-2902247903710558479",
+    "evaluations" : 247,
+    "seed" : "2932988320099106973",
     "shrunk" : {
-      "h" : "(2199455, None, (2199464, None, (2199464, (2199464, None, None), (2199465, None, None))))"
+      "h" : "(0, (0, (0, (0, (0, None, (0, None, None)), (0, (1, None, None), None)), None), None), None)"
     }
   },
   {
-    "evaluations" : 432,
-    "seed" : "4827234047823796600",
+    "evaluations" : 193,
+    "seed" : "7967916080494190364",
     "shrunk" : {
-      "h" : "(0, (0, None, (0, (0, None, None), (1, None, None))), None)"
+      "h" : "(21, (1545279, None, (64, (0, None, (0, (0, (0, (0, None, None), None), (0, None, (0, (0, (0, None, None), None), None))), None)), (1155, (0, (181, (1699001598, (15, None, None), None), (21, None, (1, (28937, (4655, None, None), None), None))), None), (479, None, (1699001598, (15, None, None), None))))), (39, (64, (532213169, None, (286635, (181, (1699001598, (15, None, None), None), (21, None, (1, (28937, (4655, None, None), None), None))), None)), (1155, (286635, (181, (1699001598, (15, None, None), None), (21, None, (1, (28937, (4655, None, None), None), None))), None), (479, None, (1699001598, (15, None, None), None)))), (5877, (1155, (286635, (181, (1699001598, (15, None, None), None), (21, None, (1, (28937, (4655, None, None), None), None))), None), (479, None, (1699001598, (15, None, None), None))), None)))"
     }
   },
   {
-    "evaluations" : 1364,
-    "seed" : "5513493869681786690",
+    "evaluations" : 838,
+    "seed" : "-3857099801346946761",
     "shrunk" : {
-      "h" : "(8, (16586, None, None), (8, (16587, None, None), None))"
+      "h" : "(917692, None, (0, (0, None, (902915, None, (0, None, (17667, None, (105602, None, (40230, None, (71, (0, (0, None, None), None), None))))))), None))"
     }
   },
   {
-    "evaluations" : 1968,
-    "seed" : "-556033852396350715",
+    "evaluations" : 5,
+    "seed" : "7221574415979287492",
     "shrunk" : {
-      "h" : "(1217, (648165, None, None), (1217, (1218, None, None), (1217, None, None)))"
+      "h" : "(158928, None, (97, (5479, (53, None, (53939, None, (317657, (52757, None, None), None))), (138, (53939, None, (317657, (52757, None, None), None)), (438, (317657, (52757, None, None), None), (65977, None, (1434, None, (559418267, (437076, None, (91, None, (18, None, None))), (3799, (91, None, (18, None, None)), None))))))), (141200, (138, (53939, None, (317657, (52757, None, None), None)), (438, (317657, (52757, None, None), None), (65977, None, (1434, None, (559418267, (437076, None, (91, None, (18, None, None))), (3799, (91, None, (18, None, None)), None)))))), None)))"
     }
   },
   {
-    "evaluations" : 1968,
-    "seed" : "-6785803922440502045",
+    "evaluations" : 285,
+    "seed" : "-3487459655207005410",
     "shrunk" : {
-      "h" : "(0, None, (0, (0, (0, None, None), (1, None, None)), None))"
+      "h" : "(21218, (0, None, None), None)"
     }
   },
   {
-    "evaluations" : 216,
-    "seed" : "-2568734831061768755",
+    "evaluations" : 79,
+    "seed" : "-6313334373929703465",
     "shrunk" : {
-      "h" : "(39246, (39306, (39306, None, (42072, (42072, None, None), (42073, None, None))), None), None)"
+      "h" : "(12, None, (0, None, None))"
     }
   },
   {
-    "evaluations" : 258,
-    "seed" : "2226106605952592986",
+    "evaluations" : 193,
+    "seed" : "-4696021631774006202",
     "shrunk" : {
-      "h" : "(176, (910, None, (235348, (235348, None, None), (235349, None, None))), None)"
+      "h" : "(0, (0, None, None), (54, None, (0, (0, None, (0, None, None)), None)))"
     }
   },
   {
-    "evaluations" : 813,
-    "seed" : "-2760429963511815961",
+    "evaluations" : 128,
+    "seed" : "-1337583540444593102",
     "shrunk" : {
-      "h" : "(2, None, (68193, (68193, None, None), (68194, None, None)))"
+      "h" : "(0, None, (7, None, (0, None, (0, None, (0, None, None)))))"
     }
   },
   {
-    "evaluations" : 241,
-    "seed" : "-7034587072238068200",
+    "evaluations" : 484,
+    "seed" : "8232435401200775716",
     "shrunk" : {
-      "h" : "(358, None, (358, (358, None, None), (359, None, None)))"
+      "h" : "(0, (0, None, (0, (0, None, (0, (0, None, None), (0, None, None))), (0, (0, (0, None, None), (0, None, None)), (0, (0, None, None), (0, None, None))))), (25909, (787, (1988000594, None, (3524, (0, None, None), (0, None, None))), (326, (3524, (123, None, None), (435780, None, None)), (7, (435780, None, None), (314632, None, None)))), (241, (326, (3524, (123, None, None), (435780, None, None)), (7, (435780, None, None), (314632, None, None))), None)))"
     }
   },
   {
-    "evaluations" : 1498,
-    "seed" : "8859375593175474504",
+    "evaluations" : 541,
+    "seed" : "7906510464584434351",
     "shrunk" : {
-      "h" : "(1, (94, None, None), (1, (95, None, None), None))"
+      "h" : "(4, (31, None, (945, (0, None, (0, (5473, None, None), (51, None, None))), (197378710, (2, (5473, None, None), (51, None, None)), None))), (275, (945, (710, None, (2, (5473, None, None), (51, None, None))), (197378710, (2, (5473, None, None), (51, None, None)), None)), (297, (197378710, (2, (5473, None, None), (51, None, None)), None), (744984, None, (2878, None, (136717, None, None))))))"
     }
   },
   {
-    "evaluations" : 683,
-    "seed" : "-8387836001571811008",
+    "evaluations" : 2,
+    "seed" : "-5252639869425192712",
     "shrunk" : {
-      "h" : "(29857, (75397, None, None), (29857, (29858, None, None), (29857, None, None)))"
+      "h" : "(4038, (62411, (79451, (53, None, (38573, None, None)), (15024, (38573, None, None), None)), None), (934622, None, (261162, None, None)))"
     }
   },
   {
-    "evaluations" : 196,
-    "seed" : "-5784933314837650970",
+    "evaluations" : 208,
+    "seed" : "463631349452087027",
     "shrunk" : {
-      "h" : "(164, None, (164, (164, None, None), (165, None, None)))"
+      "h" : "(0, (0, None, (0, (0, (0, None, None), (0, None, None)), None)), (0, (0, (0, (0, None, None), (0, None, None)), None), (1, None, None)))"
     }
   },
   {
-    "evaluations" : 362,
-    "seed" : "3143238643014127480",
+    "evaluations" : 71,
+    "seed" : "5015294634168683399",
     "shrunk" : {
-      "h" : "(4810, None, (4810, (4810, None, None), (4811, None, None)))"
+      "h" : "(0, (0, (0, (0, None, None), (1, None, None)), None), None)"
     }
   },
   {
-    "evaluations" : 273,
-    "seed" : "1514761111593227759",
+    "evaluations" : 7,
+    "seed" : "-5421265343500969059",
     "shrunk" : {
-      "h" : "(3156, None, (3188, (3188, None, None), (3189, None, None)))"
+      "h" : "(37, (1, (18, (252, None, (145815, (7, (539766, (570452, (20, (1476, (42299, None, (518, (922934, None, (767774, None, (87021, (892121963, None, (55020, (10164, (0, None, None), (1403, None, (0, (0, None, None), (100, None, None)))), (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None)))))), (109694, (55020, (10164, (800744, None, None), (1403, None, (33, (2, None, None), (100, None, None)))), (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None))))), (196, (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None)))), (70, (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None))), None)))))), (336, (767774, None, (87021, (892121963, None, (55020, (10164, (800744, None, None), (1403, None, (33, (2, None, None), (100, None, None)))), (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None)))))), (109694, (55020, (10164, (800744, None, None), (1403, None, (33, (2, None, None), (100, None, None)))), (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None))))), (196, (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None)))), (70, (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None))), None))))), None))), None), None), None), None), None), None)), (4956, (145815, (7, (539766, (570452, (20, (1476, (42299, None, (518, (922934, None, (767774, None, (87021, (892121963, None, (55020, (10164, (800744, None, None), (1403, None, (33, (2, None, None), (100, None, None)))), (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None)))))), (109694, (55020, (10164, (800744, None, None), (1403, None, (33, (2, None, None), (100, None, None)))), (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None))))), (196, (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None)))), (70, (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None))), None)))))), (336, (767774, None, (87021, (892121963, None, (55020, (10164, (800744, None, None), (1403, None, (33, (2, None, None), (100, None, None)))), (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None)))))), (109694, (55020, (10164, (800744, None, None), (1403, None, (33, (2, None, None), (100, None, None)))), (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None))))), (196, (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None)))), (70, (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None))), None))))), None))), None), None), None), None), None), None), None)), (2938, (4956, (145815, (7, (539766, (570452, (20, (1476, (42299, None, (518, (922934, None, (767774, None, (87021, (892121963, None, (55020, (10164, (800744, None, None), (1403, None, (33, (2, None, None), (100, None, None)))), (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None)))))), (109694, (55020, (10164, (800744, None, None), (1403, None, (33, (2, None, None), (100, None, None)))), (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None))))), (196, (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None)))), (70, (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None))), None)))))), (336, (767774, None, (87021, (892121963, None, (55020, (10164, (800744, None, None), (1403, None, (33, (2, None, None), (100, None, None)))), (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None)))))), (109694, (55020, (10164, (800744, None, None), (1403, None, (33, (2, None, None), (100, None, None)))), (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None))))), (196, (71, (1403, None, (33, (2, None, None), (100, None, None))), (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None)))), (70, (122379180, (33, (2, None, None), (100, None, None)), (11570, (100, None, None), (2956, None, None))), None))))), None))), None), None), None), None), None), None), None), None)), None)"
+    }
+  },
+  {
+    "evaluations" : 187,
+    "seed" : "-6540237328980319969",
+    "shrunk" : {
+      "h" : "(0, (0, (0, (0, (0, None, None), None), None), None), (32, None, (0, (0, None, None), None)))"
     }
   },
   {
     "evaluations" : 281,
-    "seed" : "1969173603489280695",
+    "seed" : "1638880447437771089",
     "shrunk" : {
-      "h" : "(48, None, (801200, (801200, None, None), (801201, None, None)))"
+      "h" : "(0, None, (750, (0, None, None), None))"
     }
   },
   {
-    "evaluations" : 148,
-    "seed" : "383143350422169811",
+    "evaluations" : 40,
+    "seed" : "8038566066185604442",
     "shrunk" : {
-      "h" : "(374057, None, (374057, (374057, None, None), (374058, None, None)))"
+      "h" : "(456776016, (4651529, (104, (7, (97554, (14463, (487, None, (3, None, (75, (5092245, (77913, (157553, (945308906, (2787156, (131, (1705123, (0, (0, (0, None, None), None), (0, None, (0, None, (0, (0, None, None), None)))), None), None), (152, None, None)), (4258, (152, None, None), (386310598, None, (1096, None, (42890, None, None))))), (5565570, (4258, (152, None, None), (386310598, None, (1096, None, (42890, None, None)))), None)), None), (258, None, None)), (671, (258, None, None), (246714, None, (141812, None, None)))))), (4968, (3, None, (75, (5092245, (77913, (157553, (945308906, (2787156, (131, (1705123, (50, (178, (854166, None, None), None), (15, None, (6476, None, (140, (4768, None, None), None)))), None), None), (152, None, None)), (4258, (152, None, None), (386310598, None, (1096, None, (42890, None, None))))), (5565570, (4258, (152, None, None), (386310598, None, (1096, None, (42890, None, None)))), None)), None), (258, None, None)), (671, (258, None, None), (246714, None, (141812, None, None))))), (972595, (75, (5092245, (77913, (157553, (945308906, (2787156, (131, (1705123, (50, (178, (854166, None, None), None), (15, None, (6476, None, (140, (4768, None, None), None)))), None), None), (152, None, None)), (4258, (152, None, None), (386310598, None, (1096, None, (42890, None, None))))), (5565570, (4258, (152, None, None), (386310598, None, (1096, None, (42890, None, None)))), None)), None), (258, None, None)), (671, (258, None, None), (246714, None, (141812, None, None)))), (195, (671, (258, None, None), (246714, None, (141812, None, None))), None)))), None), None), (571670, None, (19, None, None))), (7, (571670, None, (19, None, None)), (1230, (19, None, None), None))), None)"
     }
   },
   {
-    "evaluations" : 584,
-    "seed" : "7863278961300123303",
+    "evaluations" : 187,
+    "seed" : "-3511512925246499467",
     "shrunk" : {
-      "h" : "(0, (0, (0, None, None), (1, None, None)), None)"
+      "h" : "(0, None, (0, (0, (0, (0, None, None), None), (0, None, (0, None, None))), (0, (0, None, (1, None, None)), None)))"
     }
   },
   {
-    "evaluations" : 1290,
-    "seed" : "997754422673827329",
+    "evaluations" : 249,
+    "seed" : "-6295889184798182292",
     "shrunk" : {
-      "h" : "(7285, None, (513341, (513341, None, None), (513342, None, None)))"
+      "h" : "(0, (0, (0, None, None), (0, None, None)), (0, (0, None, None), (0, None, (0, None, (0, (0, None, None), (1, None, None))))))"
     }
   },
   {
-    "evaluations" : 127,
-    "seed" : "-2914936045167194429",
+    "evaluations" : 461,
+    "seed" : "4753228539189528477",
     "shrunk" : {
-      "h" : "(208, (643, None, (643, (643, None, None), (644, None, None))), None)"
+      "h" : "(0, None, (0, (0, None, (0, (0, None, (0, None, None)), (0, (0, None, None), None))), (0, (0, (0, None, (0, None, None)), (0, (1, None, None), None)), None)))"
     }
   },
   {
-    "evaluations" : 1441,
-    "seed" : "7468098627036979267",
+    "evaluations" : 198,
+    "seed" : "-3134242737686452879",
     "shrunk" : {
-      "h" : "(1889416396, (1894813416, None, None), (1889416396, (1889416397, None, None), (1889416396, None, None)))"
+      "h" : "(0, (0, None, (0, None, None)), (468, (0, None, None), None))"
     }
   },
   {
-    "evaluations" : 1073,
-    "seed" : "5334547197598434981",
+    "evaluations" : 470,
+    "seed" : "993610537030186725",
     "shrunk" : {
-      "h" : "(2108961, (2108961, (2108962, None, None), (2108961, None, None)), (3094592, None, None))"
-    }
-  },
-  {
-    "evaluations" : 558,
-    "seed" : "-5782162793823138124",
-    "shrunk" : {
-      "h" : "(0, None, (0, (0, None, None), (1, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 2914,
-    "seed" : "2910497626631655719",
-    "shrunk" : {
-      "h" : "(47961, (47961, (96362, None, None), None), (96361, None, None))"
-    }
-  },
-  {
-    "evaluations" : 1281,
-    "seed" : "6496077777554692374",
-    "shrunk" : {
-      "h" : "(5526899, None, (10888912, (10888912, None, None), (10888913, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 206,
-    "seed" : "8551420951658649867",
-    "shrunk" : {
-      "h" : "(397047, None, (397090, None, (397090, (397090, None, None), (397091, None, None))))"
-    }
-  },
-  {
-    "evaluations" : 260,
-    "seed" : "-7081318099163298356",
-    "shrunk" : {
-      "h" : "(32383, None, (32402, (32402, None, None), (32403, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 294,
-    "seed" : "-2299171715685267090",
-    "shrunk" : {
-      "h" : "(52916, None, (52916, (52916, None, None), (52917, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 4302,
-    "seed" : "-3921408821257309783",
-    "shrunk" : {
-      "h" : "(940020, (1019518, None, None), (940020, (1019519, None, None), None))"
-    }
-  },
-  {
-    "evaluations" : 384,
-    "seed" : "-3110039808956059292",
-    "shrunk" : {
-      "h" : "(0, (0, (0, None, None), (1, None, None)), None)"
-    }
-  },
-  {
-    "evaluations" : 1127,
-    "seed" : "-6434024415950970133",
-    "shrunk" : {
-      "h" : "(1820896, None, (1825425, (1825425, None, None), (1825426, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 3989,
-    "seed" : "-6512738892160946041",
-    "shrunk" : {
-      "h" : "(180, (9825, None, None), (180, None, (180, (181, None, None), (180, None, None))))"
-    }
-  },
-  {
-    "evaluations" : 229,
-    "seed" : "-6946562085598809432",
-    "shrunk" : {
-      "h" : "(3757, None, (16579, None, (27753, (27753, None, None), (27754, None, None))))"
-    }
-  },
-  {
-    "evaluations" : 356,
-    "seed" : "-2244997643678166293",
-    "shrunk" : {
-      "h" : "(0, (0, (0, None, None), (1, None, None)), None)"
-    }
-  },
-  {
-    "evaluations" : 705,
-    "seed" : "-776085629055250079",
-    "shrunk" : {
-      "h" : "(667, (2147483647, None, None), (667, (668, None, None), (667, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 652,
-    "seed" : "-2558814612723974463",
-    "shrunk" : {
-      "h" : "(18, None, (27901, (27901, None, None), (27902, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 335,
-    "seed" : "1280536327017078811",
-    "shrunk" : {
-      "h" : "(16555, None, (17030, (17030, None, None), (17031, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 725,
-    "seed" : "4523523426728260467",
-    "shrunk" : {
-      "h" : "(1525, None, (804649, (804649, None, None), (804650, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 270,
-    "seed" : "5638201776087895911",
-    "shrunk" : {
-      "h" : "(2624712, None, (2624712, (2624712, None, None), (2624713, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 697,
-    "seed" : "2590393978386484969",
-    "shrunk" : {
-      "h" : "(0, None, (0, None, (0, (0, None, None), (1, None, None))))"
-    }
-  },
-  {
-    "evaluations" : 608,
-    "seed" : "8791094760552789033",
-    "shrunk" : {
-      "h" : "(0, (0, (0, None, None), (1, None, None)), None)"
-    }
-  },
-  {
-    "evaluations" : 1690,
-    "seed" : "-1615081749883322610",
-    "shrunk" : {
-      "h" : "(65, (65, (66766, (67181, None, None), (67121, None, (67182, None, None))), None), None)"
-    }
-  },
-  {
-    "evaluations" : 236,
-    "seed" : "-496078269925069917",
-    "shrunk" : {
-      "h" : "(797556, None, (797556, (797556, None, None), (797557, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 3569,
-    "seed" : "-4937925075251249223",
-    "shrunk" : {
-      "h" : "(3845634, None, (407952596, (407952596, None, None), (407952597, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 1057,
-    "seed" : "3514098162315796135",
-    "shrunk" : {
-      "h" : "(17, None, (17, (17, None, None), (18, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 98,
-    "seed" : "-5376389846327589436",
-    "shrunk" : {
-      "h" : "(1, None, (1, None, (1, (1, None, None), (2, None, None))))"
-    }
-  },
-  {
-    "evaluations" : 297,
-    "seed" : "3901283923457641692",
-    "shrunk" : {
-      "h" : "(103, None, (138, (370081, None, (477477, (477477, None, None), (477478, None, None))), None))"
-    }
-  },
-  {
-    "evaluations" : 253,
-    "seed" : "233246142581988475",
-    "shrunk" : {
-      "h" : "(49210, None, (49210, (49210, None, None), (49211, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 1881,
-    "seed" : "8030544744207711001",
-    "shrunk" : {
-      "h" : "(364297, (364297, (364298, None, None), (364297, None, None)), (367674, None, None))"
-    }
-  },
-  {
-    "evaluations" : 676,
-    "seed" : "9164048904638245634",
-    "shrunk" : {
-      "h" : "(20977, (2147483647, None, None), (20977, (20978, None, None), (20977, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 178,
-    "seed" : "-53382711243852185",
-    "shrunk" : {
-      "h" : "(13727, None, (13727, (13727, None, None), (13728, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 760,
-    "seed" : "6536038262769576652",
-    "shrunk" : {
-      "h" : "(114, (17679, None, None), (114, (115, None, None), (114, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 1034,
-    "seed" : "-2794885390318925484",
-    "shrunk" : {
-      "h" : "(101562, (101757, None, None), (101562, (101563, None, None), (101562, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 6445,
-    "seed" : "-2309864619068280732",
-    "shrunk" : {
-      "h" : "(5640, (434394, None, None), (5640, (5641, None, None), (5640, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 5459,
-    "seed" : "-5963426540526508183",
-    "shrunk" : {
-      "h" : "(1011709691, (1011948570, None, None), (1011709691, (1011709692, None, None), (1011709691, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 637,
-    "seed" : "4537564347523189004",
-    "shrunk" : {
-      "h" : "(3, None, (3, (3, None, None), (4, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 1215,
-    "seed" : "2145679498122989382",
-    "shrunk" : {
-      "h" : "(0, None, (0, None, (0, (0, None, None), (1, None, None))))"
-    }
-  },
-  {
-    "evaluations" : 308,
-    "seed" : "-6387492718204178888",
-    "shrunk" : {
-      "h" : "(356, (3119, (563442, None, (563442, (563442, None, None), (563443, None, None))), None), None)"
-    }
-  },
-  {
-    "evaluations" : 2844,
-    "seed" : "-344847891916293129",
-    "shrunk" : {
-      "h" : "(50, None, (2389978, (2437875, None, None), (2389978, None, (2437876, None, None))))"
+      "h" : "(2108780, (14173, (0, (0, (0, None, None), (0, None, (0, (1268, None, (619, (0, None, None), None)), (10882, (619, (20, None, None), None), None)))), (1768724280, (450542, None, (2621, (1268, None, (619, (20, None, None), None)), (10882, (619, (20, None, None), None), None))), (3192157, (2621, (1268, None, (619, (20, None, None), None)), (10882, (619, (20, None, None), None), None)), None))), None), None)"
     }
   },
   {
     "evaluations" : 124,
-    "seed" : "-279203100154687772",
+    "seed" : "-7712797910142683784",
     "shrunk" : {
-      "h" : "(93, None, (93, (93, None, None), (94, None, None)))"
+      "h" : "(25, (0, None, None), (0, None, None))"
     }
   },
   {
-    "evaluations" : 149,
-    "seed" : "-3507107856247701528",
+    "evaluations" : 87,
+    "seed" : "5537698283348114713",
     "shrunk" : {
-      "h" : "(1, None, (1, (1, None, None), (2, None, None)))"
+      "h" : "(0, None, (0, (0, None, (0, None, None)), (0, (0, None, None), (1, None, None))))"
     }
   },
   {
-    "evaluations" : 8535,
-    "seed" : "3076474774287182015",
+    "evaluations" : 538,
+    "seed" : "5425012490412076124",
     "shrunk" : {
-      "h" : "(1, (37367, None, None), (1, (1, None, (37368, None, None)), None))"
+      "h" : "(0, (0, (0, None, None), (0, None, None)), (0, (0, None, None), (1, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 386,
+    "seed" : "7308775499491825346",
+    "shrunk" : {
+      "h" : "(0, (0, (0, None, (0, (0, None, None), None)), (0, (0, (0, None, None), None), None)), (57, (0, (0, (0, None, None), None), None), None))"
+    }
+  },
+  {
+    "evaluations" : 351,
+    "seed" : "-6494815633566107271",
+    "shrunk" : {
+      "h" : "(0, (0, (68, None, (0, (0, None, (0, None, None)), None)), None), None)"
+    }
+  },
+  {
+    "evaluations" : 125,
+    "seed" : "-2433472518656231273",
+    "shrunk" : {
+      "h" : "(0, (0, (0, (0, (0, None, None), (1, None, None)), None), None), (0, None, None))"
+    }
+  },
+  {
+    "evaluations" : 199,
+    "seed" : "4442805429577202939",
+    "shrunk" : {
+      "h" : "(1628, (3582379, None, (5466495, None, (16213, (0, (0, (0, (0, None, None), None), (0, None, (0, None, (0, (0, None, None), (0, None, None))))), (0, (0, None, (0, None, (664740, (0, None, None), (38, None, None)))), None)), None))), (12175, (5466495, None, (16213, (873711, (1246757, (5657, (642, None, None), None), (2015485344, None, (32348, None, (664740, (2272, None, None), (38, None, None))))), (2799, (2015485344, None, (32348, None, (664740, (2272, None, None), (38, None, None)))), None)), None)), (17391, (16213, (873711, (1246757, (5657, (642, None, None), None), (2015485344, None, (32348, None, (664740, (2272, None, None), (38, None, None))))), (2799, (2015485344, None, (32348, None, (664740, (2272, None, None), (38, None, None)))), None)), None), None)))"
+    }
+  },
+  {
+    "evaluations" : 3,
+    "seed" : "3191384694256698386",
+    "shrunk" : {
+      "h" : "(117352, None, (498984665, (949591783, (2, None, None), (48, None, (2812267, None, None))), None))"
+    }
+  },
+  {
+    "evaluations" : 3,
+    "seed" : "-5873175941038169690",
+    "shrunk" : {
+      "h" : "(81140, None, (165, None, (523234249, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 297,
+    "seed" : "4402559983386071001",
+    "shrunk" : {
+      "h" : "(447, None, (0, None, None))"
+    }
+  },
+  {
+    "evaluations" : 363,
+    "seed" : "-8021471531604567581",
+    "shrunk" : {
+      "h" : "(0, None, (0, None, (955, (0, None, (0, None, None)), None)))"
+    }
+  },
+  {
+    "evaluations" : 992,
+    "seed" : "3352145501976405181",
+    "shrunk" : {
+      "h" : "(0, (0, None, None), (0, None, (0, (0, None, (0, (0, None, (0, (0, None, None), None)), (0, (0, (1, None, None), None), None))), None)))"
+    }
+  },
+  {
+    "evaluations" : 73,
+    "seed" : "2651769177015361754",
+    "shrunk" : {
+      "h" : "(0, (0, (0, None, (0, None, None)), (0, (1, None, None), None)), None)"
+    }
+  },
+  {
+    "evaluations" : 270,
+    "seed" : "-543482634912106419",
+    "shrunk" : {
+      "h" : "(0, None, (0, (0, None, (0, (0, (0, None, None), None), None)), (0, (0, (0, (1, None, None), None), None), None)))"
+    }
+  },
+  {
+    "evaluations" : 34,
+    "seed" : "6401228816876964937",
+    "shrunk" : {
+      "h" : "(0, None, (0, None, (34, None, (0, None, None))))"
+    }
+  },
+  {
+    "evaluations" : 36,
+    "seed" : "-138297574884095566",
+    "shrunk" : {
+      "h" : "(60, None, (5, None, None))"
+    }
+  },
+  {
+    "evaluations" : 33,
+    "seed" : "-8184408452805227682",
+    "shrunk" : {
+      "h" : "(183, (12, (430, None, (24534, None, None)), (35, (24534, None, None), None)), None)"
+    }
+  },
+  {
+    "evaluations" : 341,
+    "seed" : "-7068725155729806216",
+    "shrunk" : {
+      "h" : "(0, (741668, (517, None, (1217176662, (295, (12, None, (0, None, None)), (563, (64, None, None), None)), None)), (12, (1217176662, (295, (12, None, (64, None, None)), (563, (64, None, None), None)), None), None)), (6061, (12, (1217176662, (295, (12, None, (64, None, None)), (563, (64, None, None), None)), None), None), None))"
+    }
+  },
+  {
+    "evaluations" : 648,
+    "seed" : "7859381246360559005",
+    "shrunk" : {
+      "h" : "(0, (0, (0, None, (0, None, (0, None, (17045, None, (0, None, None))))), None), None)"
+    }
+  },
+  {
+    "evaluations" : 258,
+    "seed" : "373891755234728370",
+    "shrunk" : {
+      "h" : "(797027317, None, (1349, (0, None, (0, (0, (0, None, None), (0, None, (0, None, (0, None, None)))), (0, (0, None, (0, None, (0, None, None))), (0, (0, None, (0, None, None)), None)))), (374889973, (0, (0, (0, None, None), (0, None, (0, None, (0, None, None)))), (5, (2262, None, (659, None, (0, None, None))), (13, (659, None, (301, None, None)), None))), None)))"
+    }
+  },
+  {
+    "evaluations" : 14,
+    "seed" : "7815138241415500840",
+    "shrunk" : {
+      "h" : "(182, (19, None, None), (198, None, None))"
+    }
+  },
+  {
+    "evaluations" : 2,
+    "seed" : "-5148950629643522145",
+    "shrunk" : {
+      "h" : "(3366, (10644963, (5948, None, (16953, None, (696238, None, None))), (63778, (16953, None, (696238, None, None)), None)), None)"
+    }
+  },
+  {
+    "evaluations" : 947,
+    "seed" : "-7550636799408831391",
+    "shrunk" : {
+      "h" : "(0, (593, (0, None, (0, (0, (0, None, None), None), (1523, None, (0, (31108, (0, (0, (0, None, None), None), (0, None, None)), None), None)))), None), None)"
+    }
+  },
+  {
+    "evaluations" : 110,
+    "seed" : "679988932161329637",
+    "shrunk" : {
+      "h" : "(14, (588280694, (519439153, None, None), None), None)"
+    }
+  },
+  {
+    "evaluations" : 11,
+    "seed" : "-6205807126800436387",
+    "shrunk" : {
+      "h" : "(2964119, (5254, (2, (45, None, None), None), None), None)"
+    }
+  },
+  {
+    "evaluations" : 5,
+    "seed" : "2868554206652133545",
+    "shrunk" : {
+      "h" : "(11704, (1, None, None), None)"
+    }
+  },
+  {
+    "evaluations" : 164,
+    "seed" : "3652263885336817893",
+    "shrunk" : {
+      "h" : "(170, None, (0, None, None))"
+    }
+  },
+  {
+    "evaluations" : 110,
+    "seed" : "1962314897950364093",
+    "shrunk" : {
+      "h" : "(5349993, (54012, (1392547, (741758, (3, (469112, (11472, (46, (94579, None, (3396973, None, (52217, (145068, None, (26325, (5852, (0, None, None), (195, None, (1801498239, None, (0, (0, None, (586, None, (1682952, (0, None, (134, (0, None, None), None)), None))), None)))), None)), (520, (26325, (5852, (605, None, None), (195, None, (1801498239, None, (430, (21805, None, (586, None, (1682952, (667, None, (134, (38783, None, None), None)), None))), None)))), None), (143095, None, None))))), None), None), None), (1738, None, None)), None), (912961, None, (41, None, (1312, (91590460, (6128, None, None), None), None)))), (28, (912961, None, (41, None, (1312, (91590460, (6128, None, None), None), None))), None)), (108396, (28, (912961, None, (41, None, (1312, (91590460, (6128, None, None), None), None))), None), (176, None, (1829021403, (44, (1312, (91590460, (6128, None, None), None), None), None), None))))"
+    }
+  },
+  {
+    "evaluations" : 33,
+    "seed" : "-652845174655448134",
+    "shrunk" : {
+      "h" : "(13, (0, None, None), (0, None, None))"
+    }
+  },
+  {
+    "evaluations" : 10,
+    "seed" : "856862145648232165",
+    "shrunk" : {
+      "h" : "(13, None, (14288, None, (5491, (204, None, (1, (150267, (26, None, (171, None, (22, (3, None, (5547, None, None)), None))), (17531, (171, None, (22, (3, None, (5547, None, None)), None)), None)), None)), (50, (1, (150267, (26, None, (171, None, (22, (3, None, (5547, None, None)), None))), (17531, (171, None, (22, (3, None, (5547, None, None)), None)), None)), None), (142026, None, (159904, None, None))))))"
+    }
+  },
+  {
+    "evaluations" : 269,
+    "seed" : "-3550995893879320391",
+    "shrunk" : {
+      "h" : "(3590, (67, (337, (770222, (86490, (0, (0, None, (0, (23318, (0, None, (0, None, None)), (0, (0, None, None), None)), (2028, (10, (70705, None, None), None), None))), (111015, (15, (23318, (380, None, (70705, None, None)), (10, (70705, None, None), None)), (2028, (10, (70705, None, None), None), None)), (37243, (2028, (10, (70705, None, None), None), None), None))), None), None), (62111, None, None)), (193, (62111, None, None), None)), (1559, (193, (62111, None, None), None), None))"
+    }
+  },
+  {
+    "evaluations" : 326,
+    "seed" : "-7854096580820997893",
+    "shrunk" : {
+      "h" : "(2348, None, (2, (40, (1, (848690, (3902, (0, (364638, (0, (949958, (990, (0, None, None), (0, None, None)), (2022, (18, None, None), None)), (6711, (2022, (18, None, None), None), (53260, None, (2340915, (10914, (19, None, None), None), (4, None, None))))), None), (1905797934, None, (10, None, None))), None), (43, None, None)), (1973, (43, None, None), None)), None), None))"
+    }
+  },
+  {
+    "evaluations" : 248,
+    "seed" : "-6391085021460830962",
+    "shrunk" : {
+      "h" : "(0, (0, None, None), (221, None, (0, None, None)))"
+    }
+  },
+  {
+    "evaluations" : 93,
+    "seed" : "3525030548290776276",
+    "shrunk" : {
+      "h" : "(26, (0, None, None), None)"
+    }
+  },
+  {
+    "evaluations" : 356,
+    "seed" : "-7393870131032729887",
+    "shrunk" : {
+      "h" : "(1196741262, (0, (0, (0, None, None), (0, None, (0, (0, (0, None, None), None), (0, None, (0, None, None))))), (0, (0, None, (0, (0, (0, None, None), None), (0, None, (0, None, None)))), None)), (359, (0, (0, None, (0, (0, (0, None, None), None), (0, None, (0, None, None)))), None), (149, None, (0, (184677, (0, None, (0, None, None)), (0, (0, None, None), (0, None, (0, None, None)))), (73, (12, (93068, None, None), (710723, None, (74, None, None))), (1468, (710723, None, (74, None, None)), None))))))"
+    }
+  },
+  {
+    "evaluations" : 91,
+    "seed" : "-7095453123032061530",
+    "shrunk" : {
+      "h" : "(0, (0, (0, None, (0, None, None)), None), (0, None, (0, (0, None, None), (1, None, None))))"
+    }
+  },
+  {
+    "evaluations" : 124,
+    "seed" : "8226322156460154789",
+    "shrunk" : {
+      "h" : "(156315, (61, (1914325161, (63, (0, (0, None, None), None), (38991, None, (1, (5769473, None, (51, (163444, (0, (0, None, None), None), (0, None, (2474543, (4753, (90789126, None, (2346790, (1750882413, None, None), (592, None, None))), (1, (2346790, (1750882413, None, None), (592, None, None)), (213, (592, None, None), None))), None))), (36517, (130, None, (2474543, (4753, (90789126, None, (2346790, (1750882413, None, None), (592, None, None))), (1, (2346790, (1750882413, None, None), (592, None, None)), (213, (592, None, None), None))), None)), None))), None))), None), None), None)"
+    }
+  },
+  {
+    "evaluations" : 890,
+    "seed" : "-7739213006102893461",
+    "shrunk" : {
+      "h" : "(0, (0, (0, (0, None, (0, None, (0, (23, (0, None, None), (0, None, None)), None))), None), None), None)"
+    }
+  },
+  {
+    "evaluations" : 40,
+    "seed" : "-4874398408943170112",
+    "shrunk" : {
+      "h" : "(7851, (105, (1381011479, (122534, None, (1030, None, (188, (1463, (39270, (0, None, (0, None, (693, (96747, (0, None, None), (20, None, None)), None))), None), (1573754423, None, (219, None, None))), (4835, (1573754423, None, (219, None, None)), (155748, (219, None, None), None))))), (3525, (1030, None, (188, (1463, (39270, (37, None, (132, None, (693, (96747, (97, None, None), (20, None, None)), None))), None), (1573754423, None, (219, None, None))), (4835, (1573754423, None, (219, None, None)), (155748, (219, None, None), None)))), (5582194, (188, (1463, (39270, (37, None, (132, None, (693, (96747, (97, None, None), (20, None, None)), None))), None), (1573754423, None, (219, None, None))), (4835, (1573754423, None, (219, None, None)), (155748, (219, None, None), None))), (878635, (4835, (1573754423, None, (219, None, None)), (155748, (219, None, None), None)), (40, (155748, (219, None, None), None), None))))), (128915, (3525, (1030, None, (188, (1463, (39270, (37, None, (132, None, (693, (96747, (97, None, None), (20, None, None)), None))), None), (1573754423, None, (219, None, None))), (4835, (1573754423, None, (219, None, None)), (155748, (219, None, None), None)))), (5582194, (188, (1463, (39270, (37, None, (132, None, (693, (96747, (97, None, None), (20, None, None)), None))), None), (1573754423, None, (219, None, None))), (4835, (1573754423, None, (219, None, None)), (155748, (219, None, None), None))), (878635, (4835, (1573754423, None, (219, None, None)), (155748, (219, None, None), None)), (40, (155748, (219, None, None), None), None)))), (225, (5582194, (188, (1463, (39270, (37, None, (132, None, (693, (96747, (97, None, None), (20, None, None)), None))), None), (1573754423, None, (219, None, None))), (4835, (1573754423, None, (219, None, None)), (155748, (219, None, None), None))), (878635, (4835, (1573754423, None, (219, None, None)), (155748, (219, None, None), None)), (40, (155748, (219, None, None), None), None))), None))), (527, (128915, (3525, (1030, None, (188, (1463, (39270, (37, None, (132, None, (693, (96747, (97, None, None), (20, None, None)), None))), None), (1573754423, None, (219, None, None))), (4835, (1573754423, None, (219, None, None)), (155748, (219, None, None), None)))), (5582194, (188, (1463, (39270, (37, None, (132, None, (693, (96747, (97, None, None), (20, None, None)), None))), None), (1573754423, None, (219, None, None))), (4835, (1573754423, None, (219, None, None)), (155748, (219, None, None), None))), (878635, (4835, (1573754423, None, (219, None, None)), (155748, (219, None, None), None)), (40, (155748, (219, None, None), None), None)))), (225, (5582194, (188, (1463, (39270, (37, None, (132, None, (693, (96747, (97, None, None), (20, None, None)), None))), None), (1573754423, None, (219, None, None))), (4835, (1573754423, None, (219, None, None)), (155748, (219, None, None), None))), (878635, (4835, (1573754423, None, (219, None, None)), (155748, (219, None, None), None)), (40, (155748, (219, None, None), None), None))), None)), None))"
+    }
+  },
+  {
+    "evaluations" : 340,
+    "seed" : "3488290149264398584",
+    "shrunk" : {
+      "h" : "(3684707, None, (5166197, (0, None, (0, (0, None, (0, (0, None, None), (0, None, (0, (0, None, None), (0, None, (0, None, None)))))), None)), (728177, (0, (0, None, (0, (0, None, None), (0, None, (0, (0, None, None), (0, None, (0, None, None)))))), None), (10, None, (0, (22, (0, None, (0, (0, None, None), (0, None, (0, None, None)))), (8, (0, (0, None, None), (348, None, (426, None, None))), None)), None)))))"
+    }
+  },
+  {
+    "evaluations" : 13,
+    "seed" : "-7355959665900663506",
+    "shrunk" : {
+      "h" : "(9, None, (137113, None, (14805, None, (11181, (2038728625, None, (75, None, None)), None))))"
+    }
+  },
+  {
+    "evaluations" : 4,
+    "seed" : "1650193836749815586",
+    "shrunk" : {
+      "h" : "(5028608, (577396, (41821, (4835753, (45925, (16, None, None), (1043, None, (15691, None, (23175, None, None)))), (90357, (1043, None, (15691, None, (23175, None, None))), None)), (718292, (90357, (1043, None, (15691, None, (23175, None, None))), None), (40346, None, (381419, (497752, (23175, None, None), (210, None, (82692, None, (19180, (39949, (58, None, (1121392928, (5234, (3933829, None, (37, (672, (1946447788, None, None), (16, None, None)), None)), (16459, (37, (672, (1946447788, None, None), (16, None, None)), None), (460, None, (64, None, None)))), None)), None), (4673521, None, None))))), None)))), (7, (718292, (90357, (1043, None, (15691, None, (23175, None, None))), None), (40346, None, (381419, (497752, (23175, None, None), (210, None, (82692, None, (19180, (39949, (58, None, (1121392928, (5234, (3933829, None, (37, (672, (1946447788, None, None), (16, None, None)), None)), (16459, (37, (672, (1946447788, None, None), (16, None, None)), None), (460, None, (64, None, None)))), None)), None), (4673521, None, None))))), None))), (151, (40346, None, (381419, (497752, (23175, None, None), (210, None, (82692, None, (19180, (39949, (58, None, (1121392928, (5234, (3933829, None, (37, (672, (1946447788, None, None), (16, None, None)), None)), (16459, (37, (672, (1946447788, None, None), (16, None, None)), None), (460, None, (64, None, None)))), None)), None), (4673521, None, None))))), None)), (538, (381419, (497752, (23175, None, None), (210, None, (82692, None, (19180, (39949, (58, None, (1121392928, (5234, (3933829, None, (37, (672, (1946447788, None, None), (16, None, None)), None)), (16459, (37, (672, (1946447788, None, None), (16, None, None)), None), (460, None, (64, None, None)))), None)), None), (4673521, None, None))))), None), None)))), (1875672794, (7, (718292, (90357, (1043, None, (15691, None, (23175, None, None))), None), (40346, None, (381419, (497752, (23175, None, None), (210, None, (82692, None, (19180, (39949, (58, None, (1121392928, (5234, (3933829, None, (37, (672, (1946447788, None, None), (16, None, None)), None)), (16459, (37, (672, (1946447788, None, None), (16, None, None)), None), (460, None, (64, None, None)))), None)), None), (4673521, None, None))))), None))), (151, (40346, None, (381419, (497752, (23175, None, None), (210, None, (82692, None, (19180, (39949, (58, None, (1121392928, (5234, (3933829, None, (37, (672, (1946447788, None, None), (16, None, None)), None)), (16459, (37, (672, (1946447788, None, None), (16, None, None)), None), (460, None, (64, None, None)))), None)), None), (4673521, None, None))))), None)), (538, (381419, (497752, (23175, None, None), (210, None, (82692, None, (19180, (39949, (58, None, (1121392928, (5234, (3933829, None, (37, (672, (1946447788, None, None), (16, None, None)), None)), (16459, (37, (672, (1946447788, None, None), (16, None, None)), None), (460, None, (64, None, None)))), None)), None), (4673521, None, None))))), None), None))), None))"
+    }
+  },
+  {
+    "evaluations" : 921,
+    "seed" : "-1957073031344493661",
+    "shrunk" : {
+      "h" : "(0, (0, (0, None, None), None), (129170, None, (0, None, (0, None, None))))"
+    }
+  },
+  {
+    "evaluations" : 121,
+    "seed" : "-8360413826712811605",
+    "shrunk" : {
+      "h" : "(28, (0, None, None), None)"
+    }
+  },
+  {
+    "evaluations" : 278,
+    "seed" : "2622585592120664049",
+    "shrunk" : {
+      "h" : "(0, (0, None, (0, (0, None, (51, (0, None, None), None)), None)), None)"
+    }
+  },
+  {
+    "evaluations" : 145,
+    "seed" : "-6896373038674424164",
+    "shrunk" : {
+      "h" : "(0, None, (110, (0, (0, None, None), None), None))"
     }
   },
   {
     "evaluations" : 390,
-    "seed" : "-3653233237920718649",
+    "seed" : "2254059252954975640",
     "shrunk" : {
-      "h" : "(0, None, (0, (0, None, None), (1, None, None)))"
+      "h" : "(0, (0, (0, None, (0, (0, None, None), None)), None), (825, None, (0, (0, None, None), (0, None, None))))"
     }
   },
   {
-    "evaluations" : 417,
-    "seed" : "593316398428810742",
+    "evaluations" : 921,
+    "seed" : "-8799082861340182747",
     "shrunk" : {
-      "h" : "(8675, None, (8675, (8675, (8675, None, None), (8676, None, None)), None))"
+      "h" : "(0, (0, (0, (0, None, (0, None, None)), None), (0, None, (0, None, None))), (0, (51396, None, (0, None, None)), None))"
     }
   },
   {
-    "evaluations" : 4903,
-    "seed" : "-5374602563089101661",
+    "evaluations" : 49,
+    "seed" : "9107252250582227952",
     "shrunk" : {
-      "h" : "(2668111, None, (2799736, (2799736, None, None), (2799737, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 230,
-    "seed" : "-3702641600802062393",
-    "shrunk" : {
-      "h" : "(2975808, None, (3360262, None, (3360262, (3360262, None, None), (3360263, None, None))))"
-    }
-  },
-  {
-    "evaluations" : 2732,
-    "seed" : "-6389916770068201207",
-    "shrunk" : {
-      "h" : "(0, (0, (0, None, None), (1, None, None)), None)"
-    }
-  },
-  {
-    "evaluations" : 451,
-    "seed" : "626144344150005532",
-    "shrunk" : {
-      "h" : "(42652, None, (42652, (42652, None, None), (42653, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 172,
-    "seed" : "-5607030315562193612",
-    "shrunk" : {
-      "h" : "(1610, None, (1631, None, (3720, (3720, None, None), (3721, None, None))))"
-    }
-  },
-  {
-    "evaluations" : 614,
-    "seed" : "-8206788764389261659",
-    "shrunk" : {
-      "h" : "(2266, (2266, (2267, None, None), (2266, None, None)), (16159, None, None))"
-    }
-  },
-  {
-    "evaluations" : 1177,
-    "seed" : "934851059380437045",
-    "shrunk" : {
-      "h" : "(933084, (933084, (933092, None, None), None), (933084, None, None))"
-    }
-  },
-  {
-    "evaluations" : 2239,
-    "seed" : "2750999630761768721",
-    "shrunk" : {
-      "h" : "(19, None, (1608, (2129, (2129, None, None), (2130, None, None)), None))"
-    }
-  },
-  {
-    "evaluations" : 243,
-    "seed" : "-466693537454380692",
-    "shrunk" : {
-      "h" : "(14502, None, (14847, (14847, None, None), (14848, None, None)))"
-    }
-  },
-  {
-    "evaluations" : 1021,
-    "seed" : "-5663926333889361387",
-    "shrunk" : {
-      "h" : "(73, (73, (74, None, None), (73, None, None)), (1472612467, None, None))"
+      "h" : "(8, (0, None, None), (0, None, None))"
     }
   }
 ]
