@@ -5,17 +5,17 @@ between two random positive integer parameters.
 
 Test 1 ("difference must not be zero") only succeeds if 
 - the first parameter is less than 10 
-- _or_ the difference is zero.
+- _or_ the difference is not zero.
 The smallest falsified sample is `[10, 10]`
 
 Test 2 ("difference must not be small") only succeeds if 
 - the first parameter is less than 10 
-- _or_ the difference is between 1 and 4.
+- _or_ the difference is not between 1 and 4.
 The smallest falsified sample is `[10, 6]`.
 
 Test 3 ("difference must not be one") only succeeds if 
 - the first parameter is less than 10 
-- _or_ the difference is exactly 1.
+- _or_ the difference is not exactly 1.
 The smallest falsified sample is `[10, 9]`.
 
 Shrinking is a challenge in these examples because it requires keeping up a dependency between 
