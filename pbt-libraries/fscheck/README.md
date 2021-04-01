@@ -8,5 +8,8 @@ FsCheck's shrinking approach is vintage, similar in approach to the mother of al
 
 ## Implemented Challenges
 
-- [bound5](/pbt-libraries/fscheck/challenges/bound5.fsx)
-- [reverse](/pbt-libraries/fscheck/challenges/reverse.fsx)
+|Challenge|Code|Report|
+|---------|----|------|
+|[bound5](/challenges/bound5.md)|[Bound5.fsx](/pbt-libraries/fscheck/challenges/Bound5.fsx)|[bound5.md](/pbt-libraries/fscheck/challenges/bound5.md)|
+|[large union list](/challenges/large_union_list.md)|[LargeUnionList.fsx](/pbt-libraries/fscheck/challenges/LargeUnionList.fsx)|[LargeUnionList.md](/pbt-libraries/fscheck/challenges/LargeUnionList.md)|
+|[reverse](/challenges/reverse.md)|[Reverse.fsx](/pbt-libraries/fscheck/challenges/Reverse.fsx)|[Reverse.md](/pbt-libraries/fscheck/challenges/Reverse.md)|
