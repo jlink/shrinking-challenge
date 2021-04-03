@@ -21,3 +21,4 @@ The expected smallest falsified sample is `([0, 0], 0)`.
 | ---------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | jqwik      | [DeletionProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/deletion/DeletionProperties.java) | [deletion.md](/pbt-libraries/jqwik/reports/deletion.md)      |
 | fast-check | [deletion.js](/pbt-libraries/fast-check/challenges/deletion.js)                                           | [deletion.md](/pbt-libraries/fast-check/reports/deletion.md) |
+| CsCheck    |[ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L205)|[deletion.md](/pbt-libraries/cscheck/reports/deletion.md)|

@@ -16,3 +16,4 @@ One of the possible difficulties that might come up is the shrinking of recursiv
 | jqwik      | [CalculatorProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/calculator/CalculatorProperties.java) | [calculator.md](/pbt-libraries/jqwik/reports/calculator.md)         |
 | PropEr     | [calculator.erl](/pbt-libraries/proper/challenges/calculator.erl)                                               | [calculator.md](/pbt-libraries/proper/challenges/calculator.md)     |
 | fast-check | [calculator.js](/pbt-libraries/fast-check/challenges/calculator.js)                                             | [calculator.md](/pbt-libraries/fast-check/reports/calculator.md)    |
+| CsCheck    |[ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L60)|[calculator.md](/pbt-libraries/cscheck/reports/calculator.md)|

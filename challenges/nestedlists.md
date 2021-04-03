@@ -19,3 +19,4 @@ a single list of 11 elements: `[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]`.
 | ---------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
 | jqwik      | [NestedListsProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/nestedlists/NestedListsProperties.java) | [nestedlists.md](/pbt-libraries/jqwik/reports/nestedlists.md)      |
 | fast-check | [nestedlist.js](/pbt-libraries/fast-check/challenges/nestedlists.js)                                               | [nestedlists.md](/pbt-libraries/fast-check/reports/nestedlists.md) |
+| CsCheck    |[ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L225)|[nestedlists.md](/pbt-libraries/cscheck/reports/nestedlists.md)|
