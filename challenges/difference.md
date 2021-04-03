@@ -32,6 +32,9 @@ This is also the hardest to find a falsifying sample in the first place.
 
 |Library   |Code|Report|
 |----------|----|------|
-|jqwik     |[DifferenceProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/difference/DifferenceProperties.java)|[difference_must_not_be_zero.md](/pbt-libraries/jqwik/reports/difference_must_not_be_zero.md)
+| jqwik    |[DifferenceProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/difference/DifferenceProperties.java)|[difference_must_not_be_zero.md](/pbt-libraries/jqwik/reports/difference_must_not_be_zero.md)
 |          |    |[difference_must_not_be_one.md](/pbt-libraries/jqwik/reports/difference_must_not_be_one.md)
 |          |    |[difference_must_not_be_small.md](/pbt-libraries/jqwik/reports/difference_must_not_be_small.md)
+| CsCheck  |[ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L105)|[difference_must_not_be_zero.md](/pbt-libraries/cscheck/reports/difference_must_not_be_zero.md)
+|          |[ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L119)|[difference_must_not_be_one.md](/pbt-libraries/cscheck/reports/difference_must_not_be_one.md)
+|          |[ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L112)|[difference_must_not_be_small.md](/pbt-libraries/cscheck/reports/difference_must_not_be_small.md)

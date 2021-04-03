@@ -14,3 +14,4 @@ It is a basic example to validate that a library can reliably normalize simple s
 | PropEr     | [reverse.erl](/pbt-libraries/proper/challenges/reverse.erl)                                            | [reverse.md](/pbt-libraries/proper/challenges/reverse.md)     |
 | FsCheck    | [Reverse.fsx](/pbt-libraries/fscheck/challenges/Reverse.fsx)                                           | [Reverse.md](/pbt-libraries/fscheck/challenges/Reverse.md)    |
 | fast-check | [reverse.js](/pbt-libraries/fast-check/challenges/reverse.js)                                          | [reverse.md](/pbt-libraries/fast-check/reports/reverse.md)    |
+| CsCheck    |[ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L46)|[reverse.md](/pbt-libraries/cscheck/reports/reverse.md)|

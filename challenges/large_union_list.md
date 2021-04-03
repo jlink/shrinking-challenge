@@ -16,3 +16,4 @@ In particular, a shrinker cannot hope to normalise this unless it is able to eit
 | PropEr     | [large_union_list.erl](/pbt-libraries/proper/challenges/large_union_list.erl)                                               | [large_union_list.md](/pbt-libraries/proper/challenges/large_union_list.md)     |
 | FsCheck    | [LargeUnionList.fsx](/pbt-libraries/fscheck/challenges/LargeUnionList.fsx)                                                  | [LargeUnionList.md](/pbt-libraries/fscheck/challenges/LargeUnionList.md)        |
 | fast-check | [large_union_list.js](/pbt-libraries/fast-check/challenges/large_union_list.js)                                             | [large_union_list.md](/pbt-libraries/fast-check/reports/large_union_list.md)    |
+| CsCheck    |[ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L30)|[large_union_list.md](/pbt-libraries/cscheck/reports/large_union_list.md)|
