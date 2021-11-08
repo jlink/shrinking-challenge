@@ -1,4 +1,4 @@
-# fast-chech
+# fast-check
 
 [fast-check](https://github.com/dubzzz/fast-check/blob/master/README.md) is a Property based testing framework for JavaScript/TypeScript.
 
