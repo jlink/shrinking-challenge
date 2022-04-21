@@ -49,3 +49,12 @@ pbt-libraries/hypothesis/.hypothesis
 
 # JavaScript
 node_modules
+
+# SBT
+.bsp
+.cache
+project/project/
+project/target/
+target/
+/.project
+/.bsp
