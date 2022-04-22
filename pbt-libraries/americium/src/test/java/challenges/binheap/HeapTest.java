@@ -36,8 +36,7 @@ public class HeapTest {
         List<Integer> l1 = toList(h);
         List<Integer> l2 = wrongToSortedList(h);
 
-        assertThat(l2).isEqualTo(sorted(l2));
-        assertThat(sorted(l1)).isEqualTo(l2);
+        assertThat(l2).isSorted().containsExactlyInAnyOrderElementsOf(l1);
     }
 
     @TrialsTest(trials = {"heaps"}, casesLimit = 500)
@@ -45,8 +44,7 @@ public class HeapTest {
         List<Integer> l1 = toList(h);
         List<Integer> l2 = toSortedList(h);
 
-        assertThat(l2).isEqualTo(sorted(l2));
-        assertThat(sorted(l1)).isEqualTo(l2);
+        assertThat(l2).isSorted().containsExactlyInAnyOrderElementsOf(l1);
     }
 
     private List<Integer> toSortedList(Heap heap) {
@@ -81,12 +79,6 @@ public class HeapTest {
             result.addAll(toList(mergeHeaps(heap.left, heap.right)));
             return result;
         }
-    }
-
-    private List<Integer> sorted(List<Integer> list) {
-        List<Integer> sorted = new ArrayList<>(list);
-        Collections.sort(sorted);
-        return sorted;
     }
 
     private List<Integer> toList(Heap heap) {
