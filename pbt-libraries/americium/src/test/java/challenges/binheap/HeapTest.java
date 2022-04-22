@@ -32,9 +32,18 @@ public class HeapTest {
     // the hypothesis (ahem) that small examples are too sparse to allow a really good shrinkage to occur - less
     // choice is better, it seems.
     @TrialsTest(trials = {"heaps"}, casesLimit = 10)
-    void test(Heap h) {
+    void testWithIncorrectSort(Heap h) {
         List<Integer> l1 = toList(h);
         List<Integer> l2 = wrongToSortedList(h);
+
+        assertThat(l2).isEqualTo(sorted(l2));
+        assertThat(sorted(l1)).isEqualTo(l2);
+    }
+
+    @TrialsTest(trials = {"heaps"}, casesLimit = 500)
+    void testWithCorrectSort(Heap h) {
+        List<Integer> l1 = toList(h);
+        List<Integer> l2 = toSortedList(h);
 
         assertThat(l2).isEqualTo(sorted(l2));
         assertThat(sorted(l1)).isEqualTo(l2);
