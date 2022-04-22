@@ -1,6 +1,6 @@
 # Report for Americium Shrinking on "binheap"
 
-This report was generated with Americium 1.3.4
+This report was generated with Americium 1.3.5
 
 ## Normalization
 

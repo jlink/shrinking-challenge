@@ -18,7 +18,7 @@ lazy val settings = Seq(
     case _ => Nil
   }),
   javacOptions ++= Seq("-source", javaVersion, "-target", javaVersion),
-  libraryDependencies += "com.sageserpent" %% "americium" % "1.3.4",
+  libraryDependencies += "com.sageserpent" %% "americium" % "1.3.5",
   libraryDependencies += "org.assertj" % "assertj-core" % "3.19.0",
   libraryDependencies += "net.aichler" % "jupiter-interface" % JupiterKeys.jupiterVersion.value % Test,
   libraryDependencies ++= Seq(
