@@ -5,6 +5,8 @@ package challenges.binheap;
 
 import cyclops.data.tuple.Tuple3;
 
+import java.util.Optional;
+
 class Heap {
 
     final int head;
@@ -20,17 +22,16 @@ class Heap {
     }
 
     void checkInvariant() {
-        if (null != left) {
-            assert head <= left.head;
+        // No need to check the invariant recursively on any children, as they
+        // should already satisfy it by prior construction; this type is immutable.
 
-            left.checkInvariant();
-        }
+        Optional.ofNullable(left).ifPresent(content -> {
+            assert head <= content.head;
+        });
 
-        if (null != right) {
-            assert head <= right.head;
-
-            right.checkInvariant();
-        }
+        Optional.ofNullable(right).ifPresent(content -> {
+            assert head <= content.head;
+        });
     }
 
     @Override
