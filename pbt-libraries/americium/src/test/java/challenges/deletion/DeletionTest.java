@@ -21,7 +21,11 @@ public class DeletionTest {
     // elements and then making a list from just those elements. Simply throwing together lists directly
     // from, say `api.integers()` is extremely unlikely to create duplicates unless an artificial range
     // clamp is imposed, which would cause the lists to have clustered elements, thus losing generality.
-    private final static Trials<ImmutableList<Integer>> lists = api.integers().immutableSets().filter(candidateElementSet -> !candidateElementSet.isEmpty()).flatMap(choices -> api.choose(choices).immutableLists());
+    private final static Trials<ImmutableList<Integer>> lists = api
+            .integers()
+            .immutableSets()
+            .filter(candidateElementSet -> !candidateElementSet.isEmpty())
+            .flatMap(choices -> api.choose(choices).immutableLists());
 
     private final Trials<Integer> indices = api.integers(0, 10);
 
@@ -41,12 +45,12 @@ public class DeletionTest {
         Trials.whenever(list.size() > indexOfElementToRemoveFromList, () -> {
             final List<Integer> mutable = list.stream().collect(Collectors.toList());
 
-            final int removedItem = mutable.remove(indexOfElementToRemoveFromList);
+            final int itemForRemoval = mutable.get(indexOfElementToRemoveFromList);
 
-            while (mutable.remove((Object) removedItem)) {
+            while (mutable.remove((Object) itemForRemoval)) {
             }
 
-            assertThat(mutable).doesNotContain(removedItem);
+            assertThat(mutable).doesNotContain(itemForRemoval);
         });
     }
 }
