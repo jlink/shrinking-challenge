@@ -17,16 +17,14 @@ public class DifferenceTest {
     private final static int maximumPowerOfTwo = Integer.bitCount(Integer.MAX_VALUE);
 
     // Have to work hard to get Americium to root out the failing cases - by default, the integers will
-    // vary wildly from 0 to `Integer.MAX_VALUE`. The question arises though - is this challenge truly
-    // representative of real bugs? For example, suppose the failures were provoked by integers in some
-    // small range around 76467553 +/- 10? Without some insight into the potential mode of failure, how
-    // could we tune the test generation to hone in on *that* range?
+    // vary wildly from 0 to `Integer.MAX_VALUE`. An interesting thought experiment is to imagine what
+    // would happen if the exclusion range for failures was increased from 10 to some large number...
     private final static Trials<Integer> positivesFavouringSmallerValues =
             api.alternateWithWeights(IntStream.range(1, maximumPowerOfTwo)
-                    .mapToObj(power -> Maps.immutableEntry(Math.max(1, 100 / power), api.integers(0, (2 << power) - 1)))
+                    .mapToObj(power -> Maps.immutableEntry(Math.max(1, maximumPowerOfTwo - power), api.integers(0, (2 << power) - 1)))
                     .toArray(Map.Entry[]::new));
 
-    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 20)
+    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 1000)
     void mustNotBeZero(int first, int second) {
         if (first < 10) {
             return;
@@ -35,7 +33,7 @@ public class DifferenceTest {
         assertThat(difference).isNotZero();
     }
 
-    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 20)
+    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 150)
     void mustNotBeSmall(int first, int second) {
         if (first < 10) {
             return;
@@ -44,7 +42,17 @@ public class DifferenceTest {
         assertThat(1 > difference || difference > 4).isTrue();
     }
 
-    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 20)
+    // The thought experiment alluded to above...
+    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 100000)
+    void mustNotBeSmallVariationWithLargerExclusionZone(int first, int second) {
+        if (first < 76347853) {
+            return;
+        }
+        int difference = Math.abs(first - second);
+        assertThat(1 > difference || difference > 4).isTrue();
+    }
+
+    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 350)
     void mustNotBeOne(int first, int second) {
         if (first < 10) {
             return;
