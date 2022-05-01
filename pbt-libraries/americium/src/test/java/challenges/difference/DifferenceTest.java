@@ -4,8 +4,10 @@ import com.google.common.collect.Maps;
 import com.sageserpent.americium.java.Trials;
 import com.sageserpent.americium.java.TrialsApi;
 import com.sageserpent.americium.java.TrialsTest;
+import org.junit.jupiter.api.Test;
 
 import java.util.Map;
+import java.util.concurrent.atomic.AtomicLong;
 import java.util.stream.IntStream;
 
 import static org.assertj.core.api.Assertions.assertThat;
@@ -43,13 +45,23 @@ public class DifferenceTest {
     }
 
     // The thought experiment alluded to above...
-    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 100000)
-    void mustNotBeSmallVariationWithLargerExclusionZone(int first, int second) {
-        if (first < 76347853) {
-            return;
+    @Test
+    void mustNotBeSmallVariationWithLargerExclusionZone() {
+        final AtomicLong counter = new AtomicLong(0L);
+
+        try {
+            positivesFavouringSmallerValues.and(positivesFavouringSmallerValues).withLimit(Integer.MAX_VALUE).supplyTo((first, second) -> {
+                counter.incrementAndGet();
+
+                if (first < 76347853) {
+                    return;
+                }
+                int difference = Math.abs(first - second);
+                assertThat(1 > difference || difference > 4).isTrue();
+            });
+        } finally {
+            System.out.println(counter.get());
         }
-        int difference = Math.abs(first - second);
-        assertThat(1 > difference || difference > 4).isTrue();
     }
 
     @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 350)
