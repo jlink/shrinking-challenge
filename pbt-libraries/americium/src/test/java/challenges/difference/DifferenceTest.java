@@ -49,19 +49,24 @@ public class DifferenceTest {
     void mustNotBeSmallVariationWithLargerExclusionZone() {
         final AtomicLong counter = new AtomicLong(0L);
 
-        try {
-            positivesFavouringSmallerValues.and(positivesFavouringSmallerValues).withLimit(Integer.MAX_VALUE).supplyTo((first, second) -> {
-                counter.incrementAndGet();
+        positivesFavouringSmallerValues.and(positivesFavouringSmallerValues).withLimit(10000).supplyTo((first, second) -> {
+            counter.incrementAndGet();
 
-                if (first < 76347853) {
+            try {
+                // If the limit for trivial passes is increased to *449*, this test will pass,
+                // despite the large number of test cases examined. The thing is, 449 isn't that
+                // large a number. The issue here is that the test logic intrinsically favours
+                // distributions that have a higher frequency around zero before shrinkage even
+                // comes into play.
+                if (first < 448) {
                     return;
                 }
                 int difference = Math.abs(first - second);
                 assertThat(1 > difference || difference > 4).isTrue();
-            });
-        } finally {
-            System.out.println(counter.get());
-        }
+            } finally {
+                System.out.format("First: %d, second: %d, number of cases examined so far: %d\n", first, second, counter.get());
+            }
+        });
     }
 
     @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 350)
