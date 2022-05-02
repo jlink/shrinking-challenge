@@ -1,6 +1,6 @@
 # Report for Americium Shrinking on "binheap"
 
-This report was generated with Americium 1.3.5
+This report was generated with Americium 1.4.2
 
 ## Normalization
 
@@ -11,10 +11,10 @@ Americium currently uses a fixed internal randomisation seed, so always yields t
 
 ## Performance
 
-444 cases were run.
+443 cases were run.
 
 3 successful runs were performed out of a limit of 10 successful cases, prior to the first failing case.
 
-1 + 55 = 56 runs then failed out of a subsequent shrinkage sequence of 444 - 3 = 441 runs, including the first failing case.
+1 + 54 = 55 runs then failed out of a subsequent shrinkage sequence of 443 - 3 = 440 runs, including the first failing case.
 
 The best shrunk case was the last one examined.
