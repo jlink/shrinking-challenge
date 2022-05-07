@@ -28,7 +28,7 @@ lazy val settings = Seq(
   ),
   libraryDependencies += "org.hamcrest" % "hamcrest" % "2.2" % Test,
 )
-lazy val americiumChallenge = (project in file(".")).settings(settings: _*)
+lazy val americiumShrinkageChallenges = (project in file(".")).settings(settings: _*)
 
 ThisBuild / scalaVersion := scala2_13_Version
 
