@@ -55,9 +55,16 @@ set of equally valid choices.
 
 ## Running examples
 
-You need Java >= 8 (1.8).
+You need Java >= 8 (1.8) and the SBT build tool if you want to run both the Java and Scala tests.
+
+Get the latter from here: [SBT](https://www.scala-sbt.org/), it is available for Windows, Linux, MacOS.
+
+If you're only interested in the Java tests, use Maven instead.
 
 ```bash
 cd pbt-libraries/americium
-./sbt test
+# Run both the Java and Scala tests via SBT...
+sbt test
+# Alternatively, run just the Java tests via Maven ...
+mvn test
 ```
