@@ -28,10 +28,7 @@ public class HeapTest {
                                         heaps(head).map(right -> new Heap(head, left, right)))));
     }
 
-    // Interestingly, being parsimonious with the `caseLimit` yields a better shrinkage. This would fit in with
-    // the hypothesis (ahem) that small examples are too sparse to allow a really good shrinkage to occur - less
-    // choice is better, it seems.
-    @TrialsTest(trials = {"heaps"}, casesLimit = 10)
+    @TrialsTest(trials = {"heaps"}, casesLimit = 170)
     void testWithIncorrectSort(Heap h) {
         List<Integer> l1 = toList(h);
         List<Integer> l2 = wrongToSortedList(h);

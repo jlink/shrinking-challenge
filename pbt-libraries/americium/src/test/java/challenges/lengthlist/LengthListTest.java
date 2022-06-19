@@ -15,7 +15,7 @@ public class LengthListTest {
 
     final private static int limit = 900;
 
-    @TrialsTest(trials = "listsOfBoundedLengthAndElementValue", casesLimit = 200)
+    @TrialsTest(trials = "listsOfBoundedLengthAndElementValue", casesLimit = 180)
     void allElementShouldBeBelowLimit(ImmutableList<Integer> list) {
         assertThat(list).allSatisfy(element -> assertThat(element).isLessThan(limit));
     }

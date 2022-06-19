@@ -1,6 +1,6 @@
 # Report for Americium Shrinking on "nestedlists"
 
-This report was generated with Americium 1.4.2
+This report was generated with Americium 1.4.6
 
 ## Normalization
 
