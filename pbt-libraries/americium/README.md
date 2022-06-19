@@ -37,21 +37,21 @@ set of equally valid choices.
 
 ## Implemented Challenges
 
-| Challenge                                 | Code                                                                                                     | Report                                                                                              |
-|-------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Challenge                                 | Code                                                                                                       | Report                                                                                              |
+|-------------------------------------------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 |                                           ||
 ||||
 ||||
 ||||
-| [length list](/challenges/lengthlist.md)  | [LengthListTest.java](/pbt-libraries/americium/src/test/java/challenges/lengthlist/LengthListTest.java)  | [lengthList.md](/pbt-libraries/americium/reports/lengthlist.md)                                     |
-| [difference](/challenges/difference.md)   | [DifferenceTest.java](/pbt-libraries/americium/src/test/java/challenges/difference/DifferenceTest.java)  | [difference_must_not_be_zero.md](/pbt-libraries/americium/reports/difference_must_not_be_zero.md)   |
-|                                           |                                                                                                          | [difference_must_not_be_one.md](/pbt-libraries/americium/reports/difference_must_not_be_one.md)     |
-|                                           |                                                                                                          | [difference_must_not_be_small.md](/pbt-libraries/americium/reports/difference_must_not_be_small.md) |
-| [binheap](/challenges/binheap.md)         | [HeapTest.java](/pbt-libraries/americium/src/test/java/challenges/binheap/HeapTest.java)                 | [binheap.md](/pbt-libraries/americium/reports/binheap.md)                                           |
+| [length list](/challenges/lengthlist.md)  | [LengthListTest.java](/pbt-libraries/americium/src/test/java/challenges/lengthlist/LengthListTest.java)    | [lengthList.md](/pbt-libraries/americium/reports/lengthlist.md)                                     |
+| [difference](/challenges/difference.md)   | [DifferenceTest.java](/pbt-libraries/americium/src/test/java/challenges/difference/DifferenceTest.java)    | [difference_must_not_be_zero.md](/pbt-libraries/americium/reports/difference_must_not_be_zero.md)   |
+|                                           |                                                                                                            | [difference_must_not_be_one.md](/pbt-libraries/americium/reports/difference_must_not_be_one.md)     |
+|                                           |                                                                                                            | [difference_must_not_be_small.md](/pbt-libraries/americium/reports/difference_must_not_be_small.md) |
+| [binheap](/challenges/binheap.md)         | [HeapTest.java](/pbt-libraries/americium/src/test/java/challenges/binheap/HeapTest.java)                   | [binheap.md](/pbt-libraries/americium/reports/binheap.md)                                           |
 ||||
-| [deletion](/challenges/deletion.md)       | [DeletionTest.java](/pbt-libraries/americium/src/test/java/challenges/deletion/DeletionTest.java)        | [deletion.md](/pbt-libraries/americium/reports/deletion.md)                                         |
+| [deletion](/challenges/deletion.md)       | [DeletionTest.java](/pbt-libraries/americium/src/test/java/challenges/deletion/DeletionTest.java)          | [deletion.md](/pbt-libraries/americium/reports/deletion.md)                                         |
 ||||
-| [nestedlists](/challenges/nestedlists.md) | [LengthListTest.java](/pbt-libraries/americium/src/test/java/challenges/nestedlists/NestedListTest.java) | [lengthList.md](/pbt-libraries/americium/reports/nestedlists.md)                                    |
+| [nestedlists](/challenges/nestedlists.md) | [NestedListsTest.java](/pbt-libraries/americium/src/test/java/challenges/nestedlists/NestedListsTest.java) | [nestedLists.md](/pbt-libraries/americium/reports/nestedlists.md)                                   |
 
 ## Running examples
 
