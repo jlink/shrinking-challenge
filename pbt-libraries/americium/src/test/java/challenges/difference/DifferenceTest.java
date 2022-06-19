@@ -26,7 +26,7 @@ public class DifferenceTest {
                     .mapToObj(power -> Maps.immutableEntry(Math.max(1, maximumPowerOfTwo - power), api.integers(0, (2 << power) - 1)))
                     .toArray(Map.Entry[]::new));
 
-    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 1000)
+    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 3500)
     void mustNotBeZero(int first, int second) {
         if (first < 10) {
             return;
@@ -69,7 +69,7 @@ public class DifferenceTest {
         });
     }
 
-    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 350)
+    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 1000)
     void mustNotBeOne(int first, int second) {
         if (first < 10) {
             return;
