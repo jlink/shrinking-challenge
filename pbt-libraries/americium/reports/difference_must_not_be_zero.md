@@ -1,6 +1,6 @@
 # Report for Americium Shrinking on "difference must not be zero"
 
-This report was generated with Americium 1.4.2
+This report was generated with Americium 1.4.6
 
 ## Normalization
 
