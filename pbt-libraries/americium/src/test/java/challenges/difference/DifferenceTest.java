@@ -1,8 +1,12 @@
 package challenges.difference;
 
+import com.google.common.collect.Maps;
 import com.sageserpent.americium.java.Trials;
 import com.sageserpent.americium.java.TrialsApi;
 import com.sageserpent.americium.java.TrialsTest;
+
+import java.util.Map;
+import java.util.stream.IntStream;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -12,14 +16,15 @@ public class DifferenceTest {
 
     private final static int maximumPowerOfTwo = Integer.bitCount(Integer.MAX_VALUE);
 
+    // Have to work hard to get Americium to root out the failing cases - by default, the integers will
+    // vary wildly from 0 to `Integer.MAX_VALUE`. An interesting thought experiment is to imagine what
+    // would happen if the exclusion range for failures was increased from 10 to some large number...
     private final static Trials<Integer> positivesFavouringSmallerValues =
-            api.integers(1, maximumPowerOfTwo).flatMap(power -> {
-                final int basePowerOfTwo = 1 << (power - 1);
-                final int offsetUpperBound = basePowerOfTwo - 1;
-                return api.integers(0, offsetUpperBound).map(offset -> basePowerOfTwo + offset);
-            });
+            api.alternateWithWeights(IntStream.range(1, maximumPowerOfTwo)
+                    .mapToObj(power -> Maps.immutableEntry(Math.max(1, maximumPowerOfTwo - power), api.integers(0, (2 << power) - 1)))
+                    .toArray(Map.Entry[]::new));
 
-    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 2500)
+    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 1000)
     void mustNotBeZero(int first, int second) {
         if (first < 10) {
             return;
@@ -28,7 +33,7 @@ public class DifferenceTest {
         assertThat(difference).isNotZero();
     }
 
-    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 500)
+    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 150)
     void mustNotBeSmall(int first, int second) {
         if (first < 10) {
             return;
@@ -37,7 +42,7 @@ public class DifferenceTest {
         assertThat(1 > difference || difference > 4).isTrue();
     }
 
-    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 4300)
+    @TrialsTest(trials = {"positivesFavouringSmallerValues", "positivesFavouringSmallerValues"}, casesLimit = 400)
     void mustNotBeOne(int first, int second) {
         if (first < 10) {
             return;
