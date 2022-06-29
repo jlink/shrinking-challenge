@@ -28,7 +28,7 @@ public class HeapTest {
                                         heaps(head).map(right -> new Heap(head, left, right)))));
     }
 
-    @TrialsTest(trials = {"heaps"}, casesLimit = 170)
+    @TrialsTest(trials = {"heaps"}, casesLimit = 190)
     void testWithIncorrectSort(Heap h) {
         List<Integer> l1 = toList(h);
         List<Integer> l2 = wrongToSortedList(h);
