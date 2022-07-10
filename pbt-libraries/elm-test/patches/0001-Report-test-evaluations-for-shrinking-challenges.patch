@@ -1,0 +1,187 @@
+From 5bbd7cff9cdfdc172c2c2af4ba86895e54833d32 Mon Sep 17 00:00:00 2001
+From: Martin Janiczek <martin@janiczek.cz>
+Date: Sun, 10 Jul 2022 22:58:52 +0200
+Subject: [PATCH] Report test evaluations (for shrinking-challenges)
+
+---
+ src/Simplify.elm    | 45 ++++++++++++++++++++++++++++++++++++---------
+ src/Test/Fuzz.elm   |  7 ++++---
+ src/Test/Runner.elm | 12 +++++++-----
+ 3 files changed, 47 insertions(+), 17 deletions(-)
+
+diff --git a/src/Simplify.elm b/src/Simplify.elm
+index 6717eec..ba72788 100644
+--- a/src/Simplify.elm
++++ b/src/Simplify.elm
+@@ -39,6 +39,7 @@ type alias State a =
+     , value : a
+     , randomRun : RandomRun
+     , expectation : Expectation
++    , testEvaluations : Int
+     }
+ 
+ 
+@@ -60,7 +61,15 @@ andThen fn { newState } =
+     fn newState
+ 
+ 
+-simplify : State a -> ( a, RandomRun, Expectation )
++type alias Simplified a =
++    { value : a
++    , randomRun : RandomRun
++    , expectation : Expectation
++    , testEvaluations : Int
++    }
++
++
++simplify : State a -> Simplified a
+ simplify state =
+     {-
+        let
+@@ -70,13 +79,17 @@ simplify state =
+     -}
+     if RandomRun.isEmpty state.randomRun then
+         -- We can't do any better
+-        ( state.value, state.randomRun, state.expectation )
++        { value = state.value
++        , randomRun = state.randomRun
++        , expectation = state.expectation
++        , testEvaluations = 0
++        }
+ 
+     else
+         simplifyWhileProgress state
+ 
+ 
+-simplifyWhileProgress : State a -> ( a, RandomRun, Expectation )
++simplifyWhileProgress : State a -> Simplified a
+ simplifyWhileProgress state =
+     {-
+        let
+@@ -89,7 +102,11 @@ simplifyWhileProgress state =
+             simplifyOnce state
+     in
+     if RandomRun.equal nextState.randomRun state.randomRun then
+-        ( nextState.value, nextState.randomRun, nextState.expectation )
++        { value = nextState.value
++        , randomRun = nextState.randomRun
++        , expectation = nextState.expectation
++        , testEvaluations = nextState.testEvaluations
++        }
+ 
+     else
+         simplifyWhileProgress nextState
+@@ -204,6 +221,11 @@ runCmd cmd state =
+     result
+ 
+ 
++incrementEvaluations : State a -> State a
++incrementEvaluations state =
++    { state | testEvaluations = state.testEvaluations + 1 }
++
++
+ {-| Tries the new RandomRun with the given fuzzer and test fn, and if the run
+ generates a value which fails the test, save it as the currently best
+ counterexample.
+@@ -216,15 +238,20 @@ keepIfBetter newRandomRun state =
+     else
+         case Fuzz.Internal.generate (PRNG.hardcoded newRandomRun) state.fuzzer of
+             Generated { value } ->
+-                case state.getExpectation value of
++                let
++                    incrementedState : State a
++                    incrementedState =
++                        incrementEvaluations state
++                in
++                case incrementedState.getExpectation value of
+                     Pass ->
+-                        noImprovement state
++                        noImprovement incrementedState
+ 
+                     Fail fail ->
+-                        if RandomRun.compare state.randomRun newRandomRun == GT then
++                        if RandomRun.compare incrementedState.randomRun newRandomRun == GT then
+                             { wasImprovement = True
+                             , newState =
+-                                { state
++                                { incrementedState
+                                     | value = value
+                                     , randomRun = newRandomRun
+                                     , expectation = Fail fail
+@@ -232,7 +259,7 @@ keepIfBetter newRandomRun state =
+                             }
+ 
+                         else
+-                            noImprovement state
++                            noImprovement incrementedState
+ 
+             Rejected _ ->
+                 noImprovement state
+diff --git a/src/Test/Fuzz.elm b/src/Test/Fuzz.elm
+index b060a6a..f6cbd11 100644
+--- a/src/Test/Fuzz.elm
++++ b/src/Test/Fuzz.elm
+@@ -105,6 +105,7 @@ runOneFuzzIteration fuzzer getExpectation ( _, currentSeed ) =
+                         , randomRun = PRNG.getRun prng
+                         , value = value
+                         , expectation = getExpectation value
++                        , testEvaluations = 0
+                         }
+     in
+     ( maybeFailure, nextSeed )
+@@ -144,11 +145,11 @@ testGeneratedValue state =
+ findSimplestFailure : Simplify.State a -> Failure
+ findSimplestFailure state =
+     let
+-        ( simplestValue, _, expectation ) =
++        simplified =
+             Simplify.simplify state
+     in
+-    { given = Just <| Test.Internal.toString simplestValue
+-    , expectation = expectation
++    { given = Just <| Test.Internal.toString simplified.value
++    , expectation = simplified.expectation
+     }
+ 
+ 
+diff --git a/src/Test/Runner.elm b/src/Test/Runner.elm
+index 4066a17..8d753c3 100644
+--- a/src/Test/Runner.elm
++++ b/src/Test/Runner.elm
+@@ -492,26 +492,28 @@ drive the simplification process: if a simplified value passes the test, it will
+ be discarded. In this sense, you will get the simplest value that still fails
+ your test.
+ -}
+-simplify : (a -> Expectation) -> ( a, Simplifiable a ) -> Maybe ( a, Simplifiable a )
++simplify : (a -> Expectation) -> ( a, Simplifiable a ) -> Maybe ( a, Simplifiable a, Int )
+ simplify getExpectation ( value, Simplifiable { randomRun, fuzzer } ) =
+     let
+-        ( newValue, newRandomRun, _ ) =
++        simplified =
+             Simplify.simplify
+                 { getExpectation = getExpectation
+                 , fuzzer = fuzzer
+                 , randomRun = randomRun
+                 , value = value
+                 , expectation = getExpectation value
++                , testEvaluations = 0
+                 }
+     in
+-    if RandomRun.equal newRandomRun randomRun then
++    if RandomRun.equal simplified.randomRun randomRun then
+         Nothing
+ 
+     else
+         Just
+-            ( newValue
++            ( simplified.value
+             , Simplifiable
+-                { randomRun = newRandomRun
++                { randomRun = simplified.randomRun
+                 , fuzzer = fuzzer
+                 }
++            , simplified.testEvaluations
+             )
+-- 
+2.32.1 (Apple Git-133)
+

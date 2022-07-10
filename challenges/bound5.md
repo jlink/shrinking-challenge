@@ -22,3 +22,4 @@ which would look somethink like `([-32768], [-1], [], [], [])`.
 | FsCheck    | [Bound5.fsx](/pbt-libraries/fscheck/challenges/Bound5.fsx)                                          | [bound5.md](/pbt-libraries/fscheck/challenges/bound5.md)    |
 | fast-check | [bound5.js](/pbt-libraries/fast-check/challenges/bound5.js)                                         | [bound5.md](/pbt-libraries/fast-check/reports/bound5.md)    |
 | CsCheck    |[ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L12)|[bound5.md](/pbt-libraries/cscheck/reports/bound5.md)|
+| elm-test   |[Bound5.elm](/pbt-libraries/elm-test/src/Challenge/Bound5.elm)|[bound5.md](/pbt-libraries/elm-test/reports/bound5.md)|

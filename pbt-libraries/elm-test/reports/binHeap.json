@@ -1,0 +1,602 @@
+[
+  {
+    "evaluations": 252,
+    "seed": 1946736040,
+    "original": "Heap 71 (Just (Heap -29 Nothing (Just (Heap -65 (Just (Heap 29063 (Just (Heap 20320 Nothing Nothing)) (Just (Heap 223154806 Nothing Nothing)))) Nothing)))) (Just (Heap 8 Nothing (Just (Heap 4 Nothing Nothing))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 120,
+    "seed": -1324526716,
+    "original": "Heap 2 (Just (Heap -7 (Just (Heap -85 (Just (Heap -121 Nothing Nothing)) (Just (Heap -4 (Just (Heap -69 Nothing Nothing)) Nothing)))) (Just (Heap 0 (Just (Heap -2 (Just (Heap -20556 Nothing Nothing)) (Just (Heap 77 Nothing Nothing)))) (Just (Heap 17796 Nothing (Just (Heap 19 Nothing Nothing)))))))) Nothing",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 1179,
+    "seed": -136699281,
+    "original": "Heap -3 (Just (Heap 13 (Just (Heap 60 Nothing Nothing)) (Just (Heap 29697 (Just (Heap -1072817064 (Just (Heap 7 Nothing Nothing)) (Just (Heap -694324293 Nothing Nothing)))) Nothing)))) (Just (Heap 24895 Nothing (Just (Heap -125 Nothing (Just (Heap -27128 (Just (Heap -92 Nothing Nothing)) (Just (Heap 54 Nothing Nothing))))))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 526,
+    "seed": 502553815,
+    "original": "Heap -5 (Just (Heap -19441 (Just (Heap -363372087 (Just (Heap 4 (Just (Heap -6 Nothing Nothing)) (Just (Heap 303582600 Nothing Nothing)))) (Just (Heap 16 Nothing (Just (Heap 124 Nothing Nothing)))))) (Just (Heap -29 (Just (Heap -70 (Just (Heap 7 Nothing Nothing)) (Just (Heap 63 Nothing Nothing)))) Nothing)))) Nothing",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 188,
+    "seed": 1302390134,
+    "original": "Heap 76 (Just (Heap 17 (Just (Heap 5 (Just (Heap 93 (Just (Heap 67 Nothing Nothing)) Nothing)) Nothing)) (Just (Heap -524035116 (Just (Heap 4 (Just (Heap 116 Nothing Nothing)) (Just (Heap 42 Nothing Nothing)))) Nothing)))) (Just (Heap 9 (Just (Heap 0 Nothing (Just (Heap -125 (Just (Heap 3438 Nothing Nothing)) (Just (Heap 9703 Nothing Nothing)))))) (Just (Heap -12 Nothing Nothing))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 119,
+    "seed": 16619435,
+    "original": "Heap 6 Nothing (Just (Heap -94 (Just (Heap -121 (Just (Heap 32 (Just (Heap 12586 Nothing Nothing)) Nothing)) (Just (Heap -3 (Just (Heap 127 Nothing Nothing)) Nothing)))) (Just (Heap 26 (Just (Heap 0 Nothing (Just (Heap 45 Nothing Nothing)))) Nothing))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 117,
+    "seed": 1470978334,
+    "original": "Heap 5 (Just (Heap -5 (Just (Heap -36 (Just (Heap 95 (Just (Heap -6 Nothing Nothing)) (Just (Heap -79 Nothing Nothing)))) (Just (Heap 130970623 (Just (Heap -91 Nothing Nothing)) (Just (Heap -126 Nothing Nothing)))))) (Just (Heap -4 Nothing Nothing)))) (Just (Heap 0 (Just (Heap 70 (Just (Heap -7 (Just (Heap -66 Nothing Nothing)) (Just (Heap -1 Nothing Nothing)))) (Just (Heap -78 (Just (Heap 0 Nothing Nothing)) (Just (Heap -127 Nothing Nothing)))))) Nothing))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 2265,
+    "seed": 1883606641,
+    "original": "Heap -951663699 (Just (Heap -21 Nothing (Just (Heap 37 Nothing Nothing)))) (Just (Heap 6 (Just (Heap 13 (Just (Heap 127 (Just (Heap -28 Nothing Nothing)) (Just (Heap -38 Nothing Nothing)))) (Just (Heap 113 (Just (Heap -80 Nothing Nothing)) (Just (Heap 80 Nothing Nothing)))))) (Just (Heap 101 (Just (Heap 60303471 Nothing (Just (Heap -318458284 Nothing Nothing)))) (Just (Heap 4 (Just (Heap -3 Nothing Nothing)) (Just (Heap 1668 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 120,
+    "seed": -1069621984,
+    "original": "Heap -5 (Just (Heap -7 (Just (Heap 35 (Just (Heap 3 Nothing (Just (Heap -2 Nothing Nothing)))) Nothing)) (Just (Heap -90 (Just (Heap 15 (Just (Heap 0 Nothing Nothing)) (Just (Heap -62 Nothing Nothing)))) (Just (Heap -82 (Just (Heap -35 Nothing Nothing)) (Just (Heap -1 Nothing Nothing)))))))) (Just (Heap 42 (Just (Heap -51 (Just (Heap -62 Nothing (Just (Heap -48 Nothing Nothing)))) (Just (Heap 373455706 (Just (Heap -98 Nothing Nothing)) Nothing)))) (Just (Heap 941144640 (Just (Heap 0 (Just (Heap -10 Nothing Nothing)) (Just (Heap 0 Nothing Nothing)))) (Just (Heap 2 (Just (Heap 3 Nothing Nothing)) Nothing))))))",
+    "shrunk": "Heap 0 (Just (Heap -1 Nothing Nothing)) Nothing"
+  },
+  {
+    "evaluations": 371,
+    "seed": 19923908,
+    "original": "Heap 79 (Just (Heap -464967023 (Just (Heap 111 (Just (Heap 49 (Just (Heap 0 Nothing Nothing)) (Just (Heap -70182791 Nothing Nothing)))) (Just (Heap -30957 Nothing Nothing)))) (Just (Heap 6 Nothing Nothing)))) Nothing",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 1596,
+    "seed": 1840834934,
+    "original": "Heap -133700704 (Just (Heap 110 (Just (Heap 15 Nothing Nothing)) (Just (Heap 27 Nothing Nothing)))) Nothing",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 603,
+    "seed": 1905010014,
+    "original": "Heap -27128 Nothing (Just (Heap -63 (Just (Heap -5 Nothing (Just (Heap -103 Nothing Nothing)))) Nothing))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 123,
+    "seed": 1655681866,
+    "original": "Heap 2 (Just (Heap -6 (Just (Heap -102 (Just (Heap -530684750 (Just (Heap 32 Nothing Nothing)) (Just (Heap 2 Nothing Nothing)))) Nothing)) (Just (Heap -117 (Just (Heap -61 (Just (Heap 109 Nothing Nothing)) (Just (Heap 2442 Nothing Nothing)))) Nothing)))) (Just (Heap 28 (Just (Heap -2 (Just (Heap -113 (Just (Heap 3 Nothing Nothing)) (Just (Heap -721250571 Nothing Nothing)))) (Just (Heap 5 (Just (Heap 3 Nothing Nothing)) (Just (Heap 0 Nothing Nothing)))))) (Just (Heap 5 (Just (Heap -18552 (Just (Heap 16141 Nothing Nothing)) (Just (Heap 192709542 Nothing Nothing)))) (Just (Heap -2 (Just (Heap 19206 Nothing Nothing)) Nothing))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 167,
+    "seed": -1170548024,
+    "original": "Heap -37 (Just (Heap 68 Nothing (Just (Heap 395304575 (Just (Heap -5 (Just (Heap 0 Nothing Nothing)) (Just (Heap 4 Nothing Nothing)))) (Just (Heap -4 (Just (Heap 1 Nothing Nothing)) Nothing)))))) (Just (Heap -48 (Just (Heap 0 (Just (Heap -91 (Just (Heap 13 Nothing Nothing)) (Just (Heap -120 Nothing Nothing)))) (Just (Heap 3 Nothing Nothing)))) (Just (Heap 0 (Just (Heap 104 (Just (Heap 7 Nothing Nothing)) Nothing)) (Just (Heap -63 (Just (Heap -47 Nothing Nothing)) (Just (Heap 96 Nothing Nothing))))))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 1437,
+    "seed": -1187448220,
+    "original": "Heap -7 (Just (Heap 0 Nothing Nothing)) (Just (Heap 0 Nothing (Just (Heap -212574499 (Just (Heap 4 (Just (Heap 124 Nothing Nothing)) (Just (Heap 817958611 Nothing Nothing)))) (Just (Heap 72 (Just (Heap 45 Nothing Nothing)) Nothing))))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 189,
+    "seed": 525567741,
+    "original": "Heap 70 (Just (Heap 31 Nothing (Just (Heap 5 (Just (Heap 58 (Just (Heap -8 Nothing Nothing)) (Just (Heap 4 Nothing Nothing)))) (Just (Heap -121 (Just (Heap -42 Nothing Nothing)) (Just (Heap 28 Nothing Nothing)))))))) (Just (Heap -84 (Just (Heap -3 (Just (Heap -16 (Just (Heap -40 Nothing Nothing)) (Just (Heap 7 Nothing Nothing)))) (Just (Heap 7 (Just (Heap -249991132 Nothing Nothing)) (Just (Heap 75 Nothing Nothing)))))) (Just (Heap -69 Nothing (Just (Heap -98 (Just (Heap -24 Nothing Nothing)) (Just (Heap -25317 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 188,
+    "seed": 1670178958,
+    "original": "Heap 90 (Just (Heap 13582 (Just (Heap -17607 (Just (Heap 0 (Just (Heap 1057573245 Nothing Nothing)) Nothing)) (Just (Heap -2 (Just (Heap -2 Nothing Nothing)) (Just (Heap -67 Nothing Nothing)))))) (Just (Heap 4 Nothing (Just (Heap -7 Nothing (Just (Heap 0 Nothing Nothing)))))))) (Just (Heap -37573313 Nothing (Just (Heap 8854 Nothing (Just (Heap 0 Nothing (Just (Heap 117 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 1690,
+    "seed": -339656626,
+    "original": "Heap -32 (Just (Heap 4 (Just (Heap -745446130 Nothing (Just (Heap -33 (Just (Heap -5839 Nothing Nothing)) (Just (Heap 115 Nothing Nothing)))))) (Just (Heap 5 (Just (Heap 14732 (Just (Heap -4 Nothing Nothing)) (Just (Heap -7 Nothing Nothing)))) (Just (Heap -117388731 (Just (Heap -87 Nothing Nothing)) (Just (Heap 44 Nothing Nothing)))))))) Nothing",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 311,
+    "seed": -469065840,
+    "original": "Heap 94 (Just (Heap 100 (Just (Heap 6841 (Just (Heap 1 (Just (Heap -16672 Nothing Nothing)) (Just (Heap 152303269 Nothing Nothing)))) (Just (Heap 26914 (Just (Heap -38 Nothing Nothing)) Nothing)))) (Just (Heap 89 (Just (Heap -21 (Just (Heap -6 Nothing Nothing)) (Just (Heap 7 Nothing Nothing)))) (Just (Heap 24141 (Just (Heap -53 Nothing Nothing)) (Just (Heap 25763 Nothing Nothing)))))))) (Just (Heap -2 (Just (Heap 139522561 (Just (Heap 2051 Nothing (Just (Heap -2 Nothing Nothing)))) (Just (Heap -5 (Just (Heap 5 Nothing Nothing)) (Just (Heap 1 Nothing Nothing)))))) (Just (Heap -35 (Just (Heap 76 (Just (Heap -10 Nothing Nothing)) (Just (Heap -5 Nothing Nothing)))) (Just (Heap 51 (Just (Heap -7 Nothing Nothing)) (Just (Heap -60 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 466,
+    "seed": -685042788,
+    "original": "Heap 14650 (Just (Heap -115 (Just (Heap -93 (Just (Heap 9691 Nothing (Just (Heap -522539233 Nothing Nothing)))) (Just (Heap -126 (Just (Heap 80 Nothing Nothing)) (Just (Heap -121 Nothing Nothing)))))) (Just (Heap -107 (Just (Heap -119 Nothing (Just (Heap -79 Nothing Nothing)))) (Just (Heap -15184 (Just (Heap 40 Nothing Nothing)) (Just (Heap -1 Nothing Nothing)))))))) (Just (Heap -1 (Just (Heap -18681 (Just (Heap 65 (Just (Heap -36 Nothing Nothing)) (Just (Heap -100 Nothing Nothing)))) (Just (Heap -72 Nothing Nothing)))) Nothing))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 1108,
+    "seed": -1484825187,
+    "original": "Heap 202329057 (Just (Heap -88 Nothing Nothing)) Nothing",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 616,
+    "seed": 709454313,
+    "original": "Heap -27854 (Just (Heap -2 (Just (Heap 13 (Just (Heap 3 (Just (Heap 73 Nothing Nothing)) (Just (Heap -25379 Nothing Nothing)))) (Just (Heap -110 Nothing Nothing)))) (Just (Heap 1555 (Just (Heap -170611496 (Just (Heap -3 Nothing Nothing)) Nothing)) (Just (Heap 6 (Just (Heap 1 Nothing Nothing)) (Just (Heap 7 Nothing Nothing)))))))) (Just (Heap 3 (Just (Heap -26 (Just (Heap -18866 (Just (Heap 43 Nothing Nothing)) Nothing)) Nothing)) (Just (Heap -4 Nothing Nothing))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 189,
+    "seed": -495435703,
+    "original": "Heap 53 (Just (Heap 89 Nothing Nothing)) (Just (Heap -32378 (Just (Heap -116 (Just (Heap 3 (Just (Heap 9670 Nothing Nothing)) (Just (Heap -18 Nothing Nothing)))) (Just (Heap -1 (Just (Heap 72 Nothing Nothing)) Nothing)))) (Just (Heap -4418 (Just (Heap 29347 Nothing (Just (Heap -7851 Nothing Nothing)))) (Just (Heap -53 (Just (Heap 121 Nothing Nothing)) (Just (Heap 0 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 269,
+    "seed": -683501731,
+    "original": "Heap -900557462 (Just (Heap 15 (Just (Heap 23 Nothing (Just (Heap 26 (Just (Heap 87 Nothing Nothing)) (Just (Heap -11 Nothing Nothing)))))) (Just (Heap 70 (Just (Heap -4 (Just (Heap -22 Nothing Nothing)) (Just (Heap -4 Nothing Nothing)))) (Just (Heap 7 (Just (Heap 4 Nothing Nothing)) (Just (Heap 125 Nothing Nothing)))))))) (Just (Heap -10 Nothing (Just (Heap 58 (Just (Heap 5 (Just (Heap 27745 Nothing Nothing)) (Just (Heap 4 Nothing Nothing)))) (Just (Heap 5575 Nothing (Just (Heap 124 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 226,
+    "seed": -151397477,
+    "original": "Heap -24 (Just (Heap -24 (Just (Heap 1 (Just (Heap 124 (Just (Heap 40 Nothing Nothing)) Nothing)) Nothing)) (Just (Heap 147877728 (Just (Heap -6 (Just (Heap 24 Nothing Nothing)) Nothing)) Nothing)))) (Just (Heap 0 Nothing (Just (Heap -64 (Just (Heap -75 (Just (Heap -6 Nothing Nothing)) Nothing)) (Just (Heap 0 (Just (Heap 0 Nothing Nothing)) Nothing))))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 534,
+    "seed": 621566028,
+    "original": "Heap 4969 (Just (Heap 25840 (Just (Heap -103 (Just (Heap 4 (Just (Heap 27058 Nothing Nothing)) (Just (Heap -5 Nothing Nothing)))) (Just (Heap -753069428 (Just (Heap -6 Nothing Nothing)) (Just (Heap -46 Nothing Nothing)))))) Nothing)) Nothing",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 251,
+    "seed": -20168245,
+    "original": "Heap 78 (Just (Heap 14419 (Just (Heap -58 (Just (Heap -1604 (Just (Heap 3 Nothing Nothing)) (Just (Heap 111 Nothing Nothing)))) (Just (Heap -114 (Just (Heap -3 Nothing Nothing)) (Just (Heap -114 Nothing Nothing)))))) (Just (Heap 0 (Just (Heap -3 (Just (Heap 7 Nothing Nothing)) (Just (Heap -6 Nothing Nothing)))) (Just (Heap -27856 (Just (Heap 26 Nothing Nothing)) (Just (Heap 57 Nothing Nothing)))))))) (Just (Heap -57 Nothing (Just (Heap -110 Nothing Nothing))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 168,
+    "seed": -2013298369,
+    "original": "Heap -68 (Just (Heap 86 (Just (Heap 30029 (Just (Heap -106 (Just (Heap -4 Nothing Nothing)) (Just (Heap -1 Nothing Nothing)))) Nothing)) Nothing)) (Just (Heap 17577 (Just (Heap 6 (Just (Heap 24257 (Just (Heap -1632 Nothing Nothing)) (Just (Heap -18 Nothing Nothing)))) (Just (Heap -109 (Just (Heap -54 Nothing Nothing)) Nothing)))) (Just (Heap 0 (Just (Heap 39 Nothing (Just (Heap 1 Nothing Nothing)))) (Just (Heap -123 (Just (Heap 0 Nothing Nothing)) (Just (Heap 126 Nothing Nothing))))))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 225,
+    "seed": -824219845,
+    "original": "Heap 0 (Just (Heap 63 Nothing (Just (Heap -148 (Just (Heap 0 (Just (Heap 51 Nothing Nothing)) (Just (Heap 550601699 Nothing Nothing)))) (Just (Heap 5 (Just (Heap -11802 Nothing Nothing)) Nothing)))))) (Just (Heap 11555 (Just (Heap 15756 (Just (Heap 39 (Just (Heap 56 Nothing Nothing)) (Just (Heap -1 Nothing Nothing)))) (Just (Heap -78 (Just (Heap -115 Nothing Nothing)) Nothing)))) (Just (Heap -3 (Just (Heap -114 (Just (Heap -95 Nothing Nothing)) Nothing)) (Just (Heap 3 (Just (Heap 69 Nothing Nothing)) (Just (Heap 3309 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 229,
+    "seed": -157996390,
+    "original": "Heap -98 (Just (Heap 0 (Just (Heap 71 (Just (Heap -2 Nothing (Just (Heap -117 Nothing Nothing)))) (Just (Heap 12532 Nothing (Just (Heap -426481030 Nothing Nothing)))))) (Just (Heap 36 (Just (Heap -28 (Just (Heap 96 Nothing Nothing)) Nothing)) (Just (Heap -2 (Just (Heap 36 Nothing Nothing)) (Just (Heap 53 Nothing Nothing)))))))) (Just (Heap 3 (Just (Heap 25 (Just (Heap 80 (Just (Heap -1 Nothing Nothing)) (Just (Heap 253163965 Nothing Nothing)))) (Just (Heap 70 (Just (Heap -14 Nothing Nothing)) (Just (Heap -118 Nothing Nothing)))))) (Just (Heap -18 (Just (Heap 20826 (Just (Heap 2 Nothing Nothing)) (Just (Heap 63 Nothing Nothing)))) (Just (Heap -34 (Just (Heap -58709082 Nothing Nothing)) (Just (Heap -5 Nothing Nothing))))))))",
+    "shrunk": "Heap 0 (Just (Heap -1 Nothing Nothing)) Nothing"
+  },
+  {
+    "evaluations": 122,
+    "seed": 674578464,
+    "original": "Heap 7 (Just (Heap -66 (Just (Heap 6 Nothing (Just (Heap 0 (Just (Heap -111 Nothing Nothing)) Nothing)))) (Just (Heap -51 (Just (Heap 28203 (Just (Heap 5 Nothing Nothing)) Nothing)) Nothing)))) (Just (Heap -12 (Just (Heap 47 (Just (Heap -225948213 (Just (Heap -28 Nothing Nothing)) (Just (Heap 17 Nothing Nothing)))) (Just (Heap -5 (Just (Heap -24 Nothing Nothing)) Nothing)))) (Just (Heap -4 Nothing (Just (Heap 3 (Just (Heap 7 Nothing Nothing)) Nothing))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 407,
+    "seed": 1917535305,
+    "original": "Heap 16148 (Just (Heap 19719 Nothing (Just (Heap -46 (Just (Heap -116 Nothing (Just (Heap -4 Nothing Nothing)))) (Just (Heap 85 (Just (Heap -536494783 Nothing Nothing)) (Just (Heap 29153 Nothing Nothing)))))))) (Just (Heap -96 Nothing Nothing))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 164,
+    "seed": -2097214453,
+    "original": "Heap 0 (Just (Heap -54 (Just (Heap -46 (Just (Heap -75 Nothing (Just (Heap 52 Nothing Nothing)))) Nothing)) Nothing)) (Just (Heap -62 (Just (Heap -224788214 (Just (Heap 74 (Just (Heap 86 Nothing Nothing)) Nothing)) Nothing)) (Just (Heap 6 (Just (Heap 19 Nothing Nothing)) (Just (Heap 93121270 Nothing (Just (Heap -1 Nothing Nothing))))))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 120,
+    "seed": 1900368581,
+    "original": "Heap 2 (Just (Heap -76 (Just (Heap 125 Nothing (Just (Heap -113 (Just (Heap -132194623 Nothing Nothing)) (Just (Heap -4 Nothing Nothing)))))) (Just (Heap -251511548 (Just (Heap 8 (Just (Heap -4 Nothing Nothing)) (Just (Heap -2 Nothing Nothing)))) Nothing)))) (Just (Heap 12781 (Just (Heap -99 (Just (Heap 20110 (Just (Heap 6 Nothing Nothing)) Nothing)) (Just (Heap -27 (Just (Heap 88 Nothing Nothing)) (Just (Heap 8082 Nothing Nothing)))))) (Just (Heap 5 Nothing (Just (Heap -61 (Just (Heap 5 Nothing Nothing)) Nothing))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 759,
+    "seed": 52964996,
+    "original": "Heap 27450 (Just (Heap 2 (Just (Heap 9351 (Just (Heap 46 (Just (Heap 5 Nothing Nothing)) (Just (Heap -50 Nothing Nothing)))) Nothing)) (Just (Heap 29163 (Just (Heap 3 (Just (Heap 0 Nothing Nothing)) (Just (Heap -1 Nothing Nothing)))) (Just (Heap 77 (Just (Heap -7 Nothing Nothing)) (Just (Heap -42 Nothing Nothing)))))))) (Just (Heap 72 Nothing (Just (Heap 66 Nothing (Just (Heap -82 (Just (Heap 52 Nothing Nothing)) (Just (Heap 48 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 187,
+    "seed": 1938792142,
+    "original": "Heap 21 (Just (Heap 95 Nothing Nothing)) (Just (Heap -4 (Just (Heap -4 (Just (Heap -45 (Just (Heap 43 Nothing Nothing)) (Just (Heap 28762 Nothing Nothing)))) (Just (Heap 13 (Just (Heap 6 Nothing Nothing)) (Just (Heap 2 Nothing Nothing)))))) (Just (Heap 0 (Just (Heap -118 Nothing (Just (Heap 0 Nothing Nothing)))) Nothing))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 248,
+    "seed": 244506490,
+    "original": "Heap 91 (Just (Heap 15 (Just (Heap 4 (Just (Heap -12952 (Just (Heap -58 Nothing Nothing)) (Just (Heap 7 Nothing Nothing)))) (Just (Heap -47 (Just (Heap -37 Nothing Nothing)) Nothing)))) (Just (Heap 23017 Nothing (Just (Heap 1 (Just (Heap -1 Nothing Nothing)) (Just (Heap -37 Nothing Nothing)))))))) (Just (Heap -3 (Just (Heap -1 Nothing (Just (Heap -119395345 Nothing (Just (Heap -115 Nothing Nothing)))))) Nothing))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 120,
+    "seed": 1695203412,
+    "original": "Heap 4 (Just (Heap 3 (Just (Heap 124 (Just (Heap 125 Nothing (Just (Heap 7 Nothing Nothing)))) Nothing)) (Just (Heap -73 (Just (Heap 2 (Just (Heap -92 Nothing Nothing)) (Just (Heap -88 Nothing Nothing)))) (Just (Heap -24 (Just (Heap -50 Nothing Nothing)) Nothing)))))) (Just (Heap 3 (Just (Heap 4 (Just (Heap 34 Nothing (Just (Heap -117 Nothing Nothing)))) (Just (Heap -111 (Just (Heap -64 Nothing Nothing)) (Just (Heap -35 Nothing Nothing)))))) Nothing))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 113,
+    "seed": -1131771726,
+    "original": "Heap 3 (Just (Heap -1316 (Just (Heap 8 (Just (Heap -1 (Just (Heap 102622616 Nothing Nothing)) Nothing)) (Just (Heap 2 (Just (Heap -735490398 Nothing Nothing)) (Just (Heap -22404 Nothing Nothing)))))) Nothing)) Nothing",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 112,
+    "seed": -380395739,
+    "original": "Heap -27 (Just (Heap -5 (Just (Heap 38 (Just (Heap -123 (Just (Heap -34 Nothing Nothing)) (Just (Heap 27179 Nothing Nothing)))) (Just (Heap -3 (Just (Heap -7 Nothing Nothing)) (Just (Heap 1668 Nothing Nothing)))))) Nothing)) Nothing",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 737,
+    "seed": 511351801,
+    "original": "Heap 31243 (Just (Heap 4 (Just (Heap 127 (Just (Heap 0 (Just (Heap -5 Nothing Nothing)) (Just (Heap -61 Nothing Nothing)))) (Just (Heap 51 (Just (Heap 671492737 Nothing Nothing)) (Just (Heap 73 Nothing Nothing)))))) Nothing)) (Just (Heap 4 (Just (Heap -25 (Just (Heap 78 (Just (Heap 28 Nothing Nothing)) (Just (Heap 3 Nothing Nothing)))) Nothing)) (Just (Heap 12 (Just (Heap -105 Nothing (Just (Heap -53 Nothing Nothing)))) (Just (Heap 610 (Just (Heap 273496231 Nothing Nothing)) (Just (Heap -122 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 123,
+    "seed": 1087025411,
+    "original": "Heap 68 (Just (Heap 40 Nothing (Just (Heap 6782 Nothing (Just (Heap 30951 (Just (Heap 26903 Nothing Nothing)) (Just (Heap -43 Nothing Nothing)))))))) Nothing",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 166,
+    "seed": -897661783,
+    "original": "Heap -53 (Just (Heap 58 Nothing (Just (Heap -4 (Just (Heap -24425 (Just (Heap -2 Nothing Nothing)) (Just (Heap -100 Nothing Nothing)))) (Just (Heap -1047159066 (Just (Heap -7 Nothing Nothing)) Nothing)))))) (Just (Heap 3 (Just (Heap -9561 (Just (Heap -2 (Just (Heap -771747395 Nothing Nothing)) (Just (Heap 0 Nothing Nothing)))) (Just (Heap 63 (Just (Heap 58 Nothing Nothing)) (Just (Heap -3 Nothing Nothing)))))) (Just (Heap 6 (Just (Heap 0 Nothing (Just (Heap -1 Nothing Nothing)))) Nothing))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 1546,
+    "seed": -2002030174,
+    "original": "Heap 289586565 (Just (Heap 104 Nothing (Just (Heap 31681 (Just (Heap 65 (Just (Heap 123 Nothing Nothing)) (Just (Heap 16 Nothing Nothing)))) Nothing)))) (Just (Heap 353810644 (Just (Heap 1 (Just (Heap 3 (Just (Heap 41 Nothing Nothing)) (Just (Heap -682757890 Nothing Nothing)))) Nothing)) (Just (Heap 3 Nothing (Just (Heap -10973 (Just (Heap -1 Nothing Nothing)) (Just (Heap -3 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 411,
+    "seed": -2003016542,
+    "original": "Heap 17291 (Just (Heap 5 (Just (Heap 0 Nothing Nothing)) (Just (Heap 36 (Just (Heap 5233 (Just (Heap -2 Nothing Nothing)) Nothing)) (Just (Heap 7 (Just (Heap 29 Nothing Nothing)) (Just (Heap 272704225 Nothing Nothing)))))))) (Just (Heap 0 (Just (Heap -94 (Just (Heap -118 (Just (Heap 6 Nothing Nothing)) (Just (Heap 31 Nothing Nothing)))) Nothing)) (Just (Heap -15 Nothing (Just (Heap 102 (Just (Heap -2782 Nothing Nothing)) (Just (Heap -101 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 184,
+    "seed": -1966525781,
+    "original": "Heap 66 (Just (Heap 70 Nothing Nothing)) (Just (Heap 34 (Just (Heap -26 Nothing (Just (Heap 104 Nothing Nothing)))) (Just (Heap -78 (Just (Heap -51 (Just (Heap -21523 Nothing Nothing)) (Just (Heap -107 Nothing Nothing)))) (Just (Heap -528199581 (Just (Heap -3 Nothing Nothing)) (Just (Heap -16 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 193,
+    "seed": 334950479,
+    "original": "Heap 1 (Just (Heap 127 (Just (Heap -57 (Just (Heap 7 Nothing (Just (Heap 467597136 Nothing Nothing)))) Nothing)) (Just (Heap -41 (Just (Heap 2 (Just (Heap -8 Nothing Nothing)) (Just (Heap 0 Nothing Nothing)))) (Just (Heap -3623520 (Just (Heap 0 Nothing Nothing)) (Just (Heap 27 Nothing Nothing)))))))) (Just (Heap 88 (Just (Heap 124 (Just (Heap -93 Nothing Nothing)) (Just (Heap -9466 Nothing Nothing)))) (Just (Heap -2 Nothing (Just (Heap 412 (Just (Heap 65 Nothing Nothing)) Nothing))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 176,
+    "seed": 1276402768,
+    "original": "Heap 16 (Just (Heap 2 Nothing (Just (Heap 117 (Just (Heap -7 (Just (Heap 101 Nothing Nothing)) (Just (Heap -4 Nothing Nothing)))) (Just (Heap -77 (Just (Heap 5 Nothing Nothing)) (Just (Heap -5 Nothing Nothing)))))))) (Just (Heap 12 (Just (Heap -13 Nothing Nothing)) Nothing))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 227,
+    "seed": 552175619,
+    "original": "Heap -96 (Just (Heap 7 (Just (Heap -10 Nothing (Just (Heap -1 Nothing (Just (Heap 16291 Nothing Nothing)))))) Nothing)) Nothing",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 245,
+    "seed": 658421420,
+    "original": "Heap -30877 (Just (Heap 1 Nothing (Just (Heap 10 (Just (Heap -4 (Just (Heap -573671480 Nothing Nothing)) Nothing)) (Just (Heap -6 (Just (Heap -87 Nothing Nothing)) (Just (Heap 2 Nothing Nothing)))))))) (Just (Heap -28861 (Just (Heap -12281 Nothing (Just (Heap 944784129 (Just (Heap -26449 Nothing Nothing)) (Just (Heap 9868 Nothing Nothing)))))) (Just (Heap 31811 (Just (Heap -121 Nothing (Just (Heap -7 Nothing Nothing)))) (Just (Heap 80 Nothing (Just (Heap -6 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 244,
+    "seed": -1663936909,
+    "original": "Heap 39 (Just (Heap -17974 Nothing Nothing)) Nothing",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 161,
+    "seed": -1678309137,
+    "original": "Heap -7 (Just (Heap 24 (Just (Heap -7 (Just (Heap -3 (Just (Heap -4 Nothing Nothing)) (Just (Heap 85 Nothing Nothing)))) Nothing)) (Just (Heap -118 (Just (Heap 73 (Just (Heap 118 Nothing Nothing)) (Just (Heap 2561 Nothing Nothing)))) Nothing)))) (Just (Heap -736644592 (Just (Heap 5 Nothing Nothing)) Nothing))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 237,
+    "seed": -1949225553,
+    "original": "Heap -61 (Just (Heap 575 Nothing (Just (Heap 16 (Just (Heap 3 (Just (Heap 102 Nothing Nothing)) Nothing)) (Just (Heap -27 (Just (Heap 114624444 Nothing Nothing)) (Just (Heap 115 Nothing Nothing)))))))) (Just (Heap -84 (Just (Heap 11053 (Just (Heap 11266 (Just (Heap -3 Nothing Nothing)) (Just (Heap 0 Nothing Nothing)))) Nothing)) (Just (Heap 6 Nothing (Just (Heap 99 (Just (Heap -85 Nothing Nothing)) Nothing))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 112,
+    "seed": -107202842,
+    "original": "Heap -41 (Just (Heap 81 Nothing (Just (Heap 2 (Just (Heap 22809 Nothing Nothing)) (Just (Heap 36 (Just (Heap 0 Nothing Nothing)) (Just (Heap -25 Nothing Nothing)))))))) (Just (Heap 1011088481 (Just (Heap -3 (Just (Heap 17 (Just (Heap 34 Nothing Nothing)) (Just (Heap -7 Nothing Nothing)))) Nothing)) (Just (Heap -88 (Just (Heap 5869 (Just (Heap 98 Nothing Nothing)) (Just (Heap 76 Nothing Nothing)))) (Just (Heap 5 Nothing (Just (Heap 4 Nothing Nothing))))))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 1032,
+    "seed": 1271430511,
+    "original": "Heap -908224216 Nothing (Just (Heap -6 (Just (Heap 117 (Just (Heap 75 (Just (Heap -49 Nothing Nothing)) (Just (Heap -2 Nothing Nothing)))) (Just (Heap -7 (Just (Heap 34260168 Nothing Nothing)) (Just (Heap 38 Nothing Nothing)))))) (Just (Heap 122786845 (Just (Heap 110 (Just (Heap 6 Nothing Nothing)) (Just (Heap -114 Nothing Nothing)))) (Just (Heap -89 (Just (Heap 3 Nothing Nothing)) (Just (Heap -70 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 493,
+    "seed": 571441752,
+    "original": "Heap -103 (Just (Heap 30 Nothing (Just (Heap 12115 (Just (Heap -9773 (Just (Heap -97 Nothing Nothing)) Nothing)) Nothing)))) Nothing",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 119,
+    "seed": 836255239,
+    "original": "Heap -2 (Just (Heap 0 (Just (Heap 8 (Just (Heap 83 Nothing (Just (Heap -81 Nothing Nothing)))) (Just (Heap 0 Nothing Nothing)))) Nothing)) (Just (Heap 520775373 (Just (Heap -10794 (Just (Heap 0 (Just (Heap -22852 Nothing Nothing)) (Just (Heap 0 Nothing Nothing)))) (Just (Heap -4 (Just (Heap 15 Nothing Nothing)) (Just (Heap 82 Nothing Nothing)))))) (Just (Heap 72 (Just (Heap -11 (Just (Heap -93 Nothing Nothing)) (Just (Heap 65 Nothing Nothing)))) (Just (Heap 23708 (Just (Heap -17 Nothing Nothing)) Nothing))))))",
+    "shrunk": "Heap 0 (Just (Heap -1 Nothing Nothing)) Nothing"
+  },
+  {
+    "evaluations": 118,
+    "seed": -1036656568,
+    "original": "Heap 3 (Just (Heap -2 (Just (Heap 0 (Just (Heap -107 Nothing (Just (Heap 4 Nothing Nothing)))) (Just (Heap -17268 (Just (Heap 85 Nothing Nothing)) (Just (Heap 4 Nothing Nothing)))))) (Just (Heap 22256 (Just (Heap -1 Nothing Nothing)) (Just (Heap 28613 (Just (Heap -59 Nothing Nothing)) (Just (Heap -3 Nothing Nothing)))))))) (Just (Heap 95 (Just (Heap 98 (Just (Heap 2 (Just (Heap -79 Nothing Nothing)) (Just (Heap -66 Nothing Nothing)))) (Just (Heap -6 (Just (Heap 117 Nothing Nothing)) Nothing)))) (Just (Heap 5 (Just (Heap -61 (Just (Heap 2 Nothing Nothing)) (Just (Heap -53 Nothing Nothing)))) (Just (Heap -77 Nothing (Just (Heap 102 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 118,
+    "seed": 417257635,
+    "original": "Heap 7 (Just (Heap 3 (Just (Heap 576157370 Nothing (Just (Heap -119 (Just (Heap 98 Nothing Nothing)) (Just (Heap 54 Nothing Nothing)))))) (Just (Heap 40 (Just (Heap -90 Nothing Nothing)) (Just (Heap -18 (Just (Heap -25 Nothing Nothing)) Nothing)))))) (Just (Heap -31895 (Just (Heap -54 (Just (Heap -68 (Just (Heap -6 Nothing Nothing)) Nothing)) (Just (Heap 122 (Just (Heap -4 Nothing Nothing)) (Just (Heap -27342 Nothing Nothing)))))) Nothing))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 220,
+    "seed": -114143708,
+    "original": "Heap -92 (Just (Heap 106 (Just (Heap 6 (Just (Heap 5 (Just (Heap 41 Nothing Nothing)) (Just (Heap -43 Nothing Nothing)))) (Just (Heap 45 (Just (Heap -48 Nothing Nothing)) Nothing)))) (Just (Heap -107 Nothing Nothing)))) (Just (Heap -10133 (Just (Heap -14 (Just (Heap -664826590 (Just (Heap 46173708 Nothing Nothing)) (Just (Heap -4 Nothing Nothing)))) (Just (Heap -35 (Just (Heap 0 Nothing Nothing)) (Just (Heap -24495 Nothing Nothing)))))) (Just (Heap 4 (Just (Heap -7 (Just (Heap -20029 Nothing Nothing)) (Just (Heap 17392 Nothing Nothing)))) (Just (Heap -119 (Just (Heap 18318 Nothing Nothing)) (Just (Heap -23763 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 256,
+    "seed": -1579118521,
+    "original": "Heap 81 Nothing (Just (Heap -29 (Just (Heap 124 (Just (Heap 3 (Just (Heap -5 Nothing Nothing)) Nothing)) (Just (Heap -26719 (Just (Heap 98 Nothing Nothing)) (Just (Heap -24 Nothing Nothing)))))) (Just (Heap -24529 (Just (Heap 28 Nothing (Just (Heap 0 Nothing Nothing)))) (Just (Heap -2 Nothing (Just (Heap 84 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 120,
+    "seed": -1662942557,
+    "original": "Heap 4 (Just (Heap -5 Nothing (Just (Heap -79 (Just (Heap -7 Nothing (Just (Heap -2 Nothing Nothing)))) (Just (Heap 75 Nothing Nothing)))))) (Just (Heap 0 Nothing (Just (Heap 5 (Just (Heap 6 (Just (Heap 8 Nothing Nothing)) (Just (Heap -6 Nothing Nothing)))) (Just (Heap -1017267946 (Just (Heap 27521 Nothing Nothing)) (Just (Heap 147074948 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 267,
+    "seed": -2056163307,
+    "original": "Heap 10424 (Just (Heap 18043 (Just (Heap -7 (Just (Heap 7 Nothing (Just (Heap -8083 Nothing Nothing)))) (Just (Heap -29252 (Just (Heap -30 Nothing Nothing)) (Just (Heap 3 Nothing Nothing)))))) Nothing)) Nothing",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 167,
+    "seed": -1368983815,
+    "original": "Heap -30 (Just (Heap -116 (Just (Heap -27 (Just (Heap 2 (Just (Heap 16408 Nothing Nothing)) (Just (Heap -4 Nothing Nothing)))) (Just (Heap -2 Nothing Nothing)))) (Just (Heap -27618 Nothing (Just (Heap 41 Nothing (Just (Heap 1 Nothing Nothing)))))))) (Just (Heap -13 (Just (Heap -10 (Just (Heap 108 (Just (Heap -65 Nothing Nothing)) (Just (Heap -85 Nothing Nothing)))) (Just (Heap 123372829 (Just (Heap 1 Nothing Nothing)) Nothing)))) (Just (Heap 61 Nothing (Just (Heap 73 Nothing Nothing))))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 168,
+    "seed": -1604451583,
+    "original": "Heap -7 (Just (Heap 19906 (Just (Heap 38 (Just (Heap 106 Nothing (Just (Heap 3 Nothing Nothing)))) (Just (Heap -19 (Just (Heap -96 Nothing Nothing)) (Just (Heap 1 Nothing Nothing)))))) Nothing)) (Just (Heap -4 (Just (Heap 6 Nothing (Just (Heap -114 Nothing Nothing)))) (Just (Heap 75 Nothing (Just (Heap 3 Nothing Nothing))))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 376,
+    "seed": -1766065766,
+    "original": "Heap 121 (Just (Heap -32 (Just (Heap -36 Nothing (Just (Heap 13282 Nothing Nothing)))) (Just (Heap -19943 (Just (Heap -33 (Just (Heap 60 Nothing Nothing)) (Just (Heap -459891917 Nothing Nothing)))) Nothing)))) (Just (Heap 55 (Just (Heap -73 (Just (Heap -3 Nothing (Just (Heap -98 Nothing Nothing)))) Nothing)) (Just (Heap -1027334389 (Just (Heap -5 (Just (Heap 0 Nothing Nothing)) Nothing)) (Just (Heap -14265 (Just (Heap 96 Nothing Nothing)) (Just (Heap -5 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 216,
+    "seed": 10024578,
+    "original": "Heap -33 (Just (Heap -3 (Just (Heap -1 (Just (Heap -6 (Just (Heap 32 Nothing Nothing)) (Just (Heap 0 Nothing Nothing)))) (Just (Heap -6489 Nothing (Just (Heap -657958493 Nothing Nothing)))))) (Just (Heap 373841818 (Just (Heap 55 (Just (Heap -4 Nothing Nothing)) (Just (Heap -41 Nothing Nothing)))) (Just (Heap 17682 (Just (Heap -20 Nothing Nothing)) (Just (Heap -101 Nothing Nothing)))))))) Nothing",
+    "shrunk": "Heap 0 (Just (Heap -1 Nothing Nothing)) Nothing"
+  },
+  {
+    "evaluations": 122,
+    "seed": -637634325,
+    "original": "Heap 68 (Just (Heap 45 (Just (Heap -35 Nothing (Just (Heap 33 (Just (Heap -126 Nothing Nothing)) (Just (Heap -828727238 Nothing Nothing)))))) (Just (Heap -3 (Just (Heap -1 (Just (Heap 0 Nothing Nothing)) (Just (Heap 83 Nothing Nothing)))) Nothing)))) Nothing",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 442,
+    "seed": -1078720258,
+    "original": "Heap -95 (Just (Heap 0 (Just (Heap 2 (Just (Heap 4 (Just (Heap 112 Nothing Nothing)) (Just (Heap 31 Nothing Nothing)))) Nothing)) (Just (Heap 0 (Just (Heap 70 (Just (Heap -5 Nothing Nothing)) (Just (Heap -6847 Nothing Nothing)))) Nothing)))) (Just (Heap -120 (Just (Heap -97 (Just (Heap -4 (Just (Heap -2 Nothing Nothing)) (Just (Heap -66 Nothing Nothing)))) Nothing)) (Just (Heap 96 Nothing (Just (Heap 1 (Just (Heap -6 Nothing Nothing)) Nothing))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 219,
+    "seed": 291271205,
+    "original": "Heap 0 (Just (Heap 109 (Just (Heap -4 (Just (Heap 28090 Nothing (Just (Heap 82 Nothing Nothing)))) (Just (Heap 103 (Just (Heap -1046515258 Nothing Nothing)) (Just (Heap -61 Nothing Nothing)))))) (Just (Heap 41 (Just (Heap 4 (Just (Heap 219018245 Nothing Nothing)) Nothing)) (Just (Heap -26114 (Just (Heap -109 Nothing Nothing)) (Just (Heap 123 Nothing Nothing)))))))) (Just (Heap -14 (Just (Heap -124 (Just (Heap -22843 Nothing (Just (Heap -4712 Nothing Nothing)))) (Just (Heap -107 (Just (Heap -106 Nothing Nothing)) (Just (Heap 487986932 Nothing Nothing)))))) (Just (Heap 17 Nothing Nothing))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 397,
+    "seed": -1728035100,
+    "original": "Heap -7 (Just (Heap 0 (Just (Heap 98 (Just (Heap 118 (Just (Heap -10125 Nothing Nothing)) Nothing)) (Just (Heap -4 (Just (Heap 0 Nothing Nothing)) (Just (Heap -4 Nothing Nothing)))))) (Just (Heap -98 Nothing (Just (Heap -50 (Just (Heap 34 Nothing Nothing)) (Just (Heap 6 Nothing Nothing)))))))) (Just (Heap 2 (Just (Heap 37 (Just (Heap -9900 Nothing (Just (Heap -54 Nothing Nothing)))) Nothing)) Nothing))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 127,
+    "seed": 1202361374,
+    "original": "Heap 44 Nothing (Just (Heap -76 (Just (Heap -1 (Just (Heap -116 (Just (Heap -120 Nothing Nothing)) (Just (Heap -127 Nothing Nothing)))) (Just (Heap -50 (Just (Heap -4 Nothing Nothing)) (Just (Heap 122 Nothing Nothing)))))) (Just (Heap -82 (Just (Heap -108 (Just (Heap 847501003 Nothing Nothing)) (Just (Heap 0 Nothing Nothing)))) (Just (Heap 1016367731 (Just (Heap -92 Nothing Nothing)) (Just (Heap -7 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 676,
+    "seed": -957367525,
+    "original": "Heap 5725 (Just (Heap 96 (Just (Heap -322562060 Nothing (Just (Heap 0 (Just (Heap -67 Nothing Nothing)) (Just (Heap 123 Nothing Nothing)))))) Nothing)) (Just (Heap -7 Nothing (Just (Heap -10 (Just (Heap -3 (Just (Heap 110 Nothing Nothing)) (Just (Heap -31 Nothing Nothing)))) Nothing))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 1026,
+    "seed": -1812237681,
+    "original": "Heap 28001 (Just (Heap 1 Nothing (Just (Heap 55 (Just (Heap -614794290 (Just (Heap 6 Nothing Nothing)) Nothing)) Nothing)))) (Just (Heap -30 Nothing (Just (Heap 45 (Just (Heap -25 (Just (Heap 63 Nothing Nothing)) (Just (Heap 21935 Nothing Nothing)))) (Just (Heap 24 (Just (Heap -19 Nothing Nothing)) (Just (Heap -73 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 254,
+    "seed": 1774911367,
+    "original": "Heap 93 (Just (Heap -3 (Just (Heap -88 Nothing (Just (Heap -4 (Just (Heap -83 Nothing Nothing)) (Just (Heap -3 Nothing Nothing)))))) (Just (Heap -125 (Just (Heap -518186524 (Just (Heap -367280599 Nothing Nothing)) (Just (Heap -125 Nothing Nothing)))) (Just (Heap -118 (Just (Heap -17012 Nothing Nothing)) (Just (Heap -18877 Nothing Nothing)))))))) (Just (Heap 122 (Just (Heap 53 (Just (Heap -4 (Just (Heap 45 Nothing Nothing)) (Just (Heap 74 Nothing Nothing)))) (Just (Heap -72 (Just (Heap -3 Nothing Nothing)) (Just (Heap -111 Nothing Nothing)))))) Nothing))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 160,
+    "seed": 183330987,
+    "original": "Heap -4 (Just (Heap -98 (Just (Heap -44 Nothing (Just (Heap -6 (Just (Heap 151333989 Nothing Nothing)) (Just (Heap -124 Nothing Nothing)))))) Nothing)) (Just (Heap -32148743 Nothing (Just (Heap 64 (Just (Heap -31 (Just (Heap 86 Nothing Nothing)) (Just (Heap -590349692 Nothing Nothing)))) (Just (Heap -28 Nothing (Just (Heap -75 Nothing Nothing))))))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 177,
+    "seed": -1640379656,
+    "original": "Heap 8 Nothing (Just (Heap 6 Nothing (Just (Heap 54 (Just (Heap 34 Nothing Nothing)) (Just (Heap -85 (Just (Heap 3 Nothing Nothing)) (Just (Heap -7 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 1359,
+    "seed": -582945279,
+    "original": "Heap -124 (Just (Heap -117 (Just (Heap 0 (Just (Heap -128419134 Nothing (Just (Heap 24557 Nothing Nothing)))) (Just (Heap -859376172 (Just (Heap 87 Nothing Nothing)) (Just (Heap 80 Nothing Nothing)))))) (Just (Heap -105 (Just (Heap -1043811161 (Just (Heap -20 Nothing Nothing)) (Just (Heap 0 Nothing Nothing)))) (Just (Heap 31 (Just (Heap 53 Nothing Nothing)) (Just (Heap 3278 Nothing Nothing)))))))) (Just (Heap -22635 Nothing (Just (Heap 82 (Just (Heap 110 (Just (Heap 281151811 Nothing Nothing)) (Just (Heap 109541499 Nothing Nothing)))) (Just (Heap 17467 (Just (Heap 0 Nothing Nothing)) (Just (Heap 78 Nothing Nothing))))))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 122,
+    "seed": -853071280,
+    "original": "Heap 5 (Just (Heap 71 (Just (Heap -54058189 (Just (Heap 3 (Just (Heap -226326389 Nothing Nothing)) (Just (Heap -91 Nothing Nothing)))) (Just (Heap 10421 (Just (Heap -118 Nothing Nothing)) (Just (Heap 127 Nothing Nothing)))))) (Just (Heap 27256 (Just (Heap 2 (Just (Heap -985367387 Nothing Nothing)) Nothing)) Nothing)))) (Just (Heap 91 Nothing (Just (Heap -716782251 (Just (Heap 0 (Just (Heap -2 Nothing Nothing)) (Just (Heap 7 Nothing Nothing)))) (Just (Heap 69 Nothing Nothing))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 109,
+    "seed": 1415975953,
+    "original": "Heap 0 (Just (Heap 98 (Just (Heap 13 (Just (Heap 10 (Just (Heap 95 Nothing Nothing)) (Just (Heap -11 Nothing Nothing)))) (Just (Heap -40 (Just (Heap 84 Nothing Nothing)) (Just (Heap -3 Nothing Nothing)))))) (Just (Heap 6 (Just (Heap -103 (Just (Heap 105 Nothing Nothing)) (Just (Heap -6 Nothing Nothing)))) Nothing)))) (Just (Heap -72 (Just (Heap 26582 Nothing (Just (Heap -12 (Just (Heap 22803 Nothing Nothing)) (Just (Heap -608170193 Nothing Nothing)))))) (Just (Heap -70 (Just (Heap -2 (Just (Heap -1 Nothing Nothing)) Nothing)) Nothing))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 261,
+    "seed": -664755679,
+    "original": "Heap -99 (Just (Heap 24 (Just (Heap 25 Nothing (Just (Heap -4 (Just (Heap -19011 Nothing Nothing)) Nothing)))) (Just (Heap 35 (Just (Heap -17776 (Just (Heap 182074172 Nothing Nothing)) (Just (Heap -41 Nothing Nothing)))) Nothing)))) (Just (Heap 792810450 (Just (Heap 90 (Just (Heap 19 Nothing (Just (Heap 101 Nothing Nothing)))) (Just (Heap 73 (Just (Heap 61 Nothing Nothing)) (Just (Heap -57 Nothing Nothing)))))) Nothing))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 360,
+    "seed": -380550235,
+    "original": "Heap -120 (Just (Heap -82 Nothing Nothing)) (Just (Heap 5 (Just (Heap -113 (Just (Heap -67 (Just (Heap -2 Nothing Nothing)) Nothing)) Nothing)) (Just (Heap 35 (Just (Heap -21684 (Just (Heap 41 Nothing Nothing)) (Just (Heap 6 Nothing Nothing)))) (Just (Heap 24 (Just (Heap 70 Nothing Nothing)) (Just (Heap 109 Nothing Nothing))))))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 226,
+    "seed": 337158736,
+    "original": "Heap -96 (Just (Heap 50 (Just (Heap 74 (Just (Heap -4914 (Just (Heap 106 Nothing Nothing)) Nothing)) (Just (Heap 3 (Just (Heap 172422025 Nothing Nothing)) Nothing)))) Nothing)) (Just (Heap 86 (Just (Heap 21795 Nothing (Just (Heap -304772393 (Just (Heap 107 Nothing Nothing)) (Just (Heap -5 Nothing Nothing)))))) (Just (Heap 86 (Just (Heap 64 (Just (Heap -31 Nothing Nothing)) (Just (Heap 10 Nothing Nothing)))) (Just (Heap 73 Nothing (Just (Heap 20996 Nothing Nothing))))))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 1185,
+    "seed": 508655305,
+    "original": "Heap -26197 (Just (Heap -518071068 (Just (Heap 1 Nothing (Just (Heap 755455141 (Just (Heap -82 Nothing Nothing)) (Just (Heap -90 Nothing Nothing)))))) (Just (Heap -1 (Just (Heap -96 Nothing (Just (Heap 4 Nothing Nothing)))) (Just (Heap -102 (Just (Heap -33 Nothing Nothing)) (Just (Heap -665597023 Nothing Nothing)))))))) (Just (Heap -35 (Just (Heap 121 (Just (Heap 73 (Just (Heap 969375528 Nothing Nothing)) (Just (Heap -54 Nothing Nothing)))) (Just (Heap 66 (Just (Heap -20 Nothing Nothing)) (Just (Heap 10 Nothing Nothing)))))) (Just (Heap 101 Nothing Nothing))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 190,
+    "seed": 593312797,
+    "original": "Heap 116 (Just (Heap -7 (Just (Heap 732 Nothing (Just (Heap 3 (Just (Heap -1 Nothing Nothing)) (Just (Heap 0 Nothing Nothing)))))) (Just (Heap 3 (Just (Heap -1 (Just (Heap 124 Nothing Nothing)) (Just (Heap -19 Nothing Nothing)))) (Just (Heap 155999470 (Just (Heap 2 Nothing Nothing)) (Just (Heap 413064995 Nothing Nothing)))))))) (Just (Heap -117 Nothing (Just (Heap -2 (Just (Heap -1 (Just (Heap -1 Nothing Nothing)) (Just (Heap 1 Nothing Nothing)))) (Just (Heap -6 Nothing (Just (Heap 108 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 588,
+    "seed": -902587608,
+    "original": "Heap -27736 (Just (Heap 2 (Just (Heap -2 Nothing (Just (Heap 7 (Just (Heap -87 Nothing Nothing)) (Just (Heap -6 Nothing Nothing)))))) (Just (Heap -4 (Just (Heap -4 (Just (Heap 66 Nothing Nothing)) (Just (Heap -31 Nothing Nothing)))) Nothing)))) Nothing",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 895,
+    "seed": -2064360045,
+    "original": "Heap 32011 Nothing (Just (Heap 8999 Nothing Nothing))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 121,
+    "seed": 1278303216,
+    "original": "Heap 7 (Just (Heap 14 Nothing (Just (Heap -119 Nothing (Just (Heap 58 Nothing (Just (Heap 7 Nothing Nothing)))))))) (Just (Heap 53 Nothing (Just (Heap 20 (Just (Heap -7 Nothing (Just (Heap -4 Nothing Nothing)))) (Just (Heap -64 Nothing Nothing))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 123,
+    "seed": 171067624,
+    "original": "Heap 7 (Just (Heap -6 (Just (Heap -2 (Just (Heap -5 (Just (Heap -26776 Nothing Nothing)) (Just (Heap 27 Nothing Nothing)))) (Just (Heap -99 (Just (Heap 0 Nothing Nothing)) (Just (Heap 97 Nothing Nothing)))))) (Just (Heap 58 (Just (Heap 55 (Just (Heap 3431 Nothing Nothing)) (Just (Heap -104 Nothing Nothing)))) (Just (Heap 5 (Just (Heap 125 Nothing Nothing)) (Just (Heap 38 Nothing Nothing)))))))) (Just (Heap -109 (Just (Heap 0 (Just (Heap 1 (Just (Heap 3 Nothing Nothing)) Nothing)) Nothing)) Nothing))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 256,
+    "seed": 2012954079,
+    "original": "Heap 87 (Just (Heap 697519686 (Just (Heap -107 (Just (Heap -1038289384 (Just (Heap 96 Nothing Nothing)) Nothing)) (Just (Heap -5 (Just (Heap 7 Nothing Nothing)) (Just (Heap 3 Nothing Nothing)))))) Nothing)) Nothing",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 120,
+    "seed": -1237320488,
+    "original": "Heap -3 (Just (Heap -120 (Just (Heap 0 (Just (Heap -10688 (Just (Heap -7 Nothing Nothing)) (Just (Heap 12 Nothing Nothing)))) (Just (Heap -1 (Just (Heap -1 Nothing Nothing)) (Just (Heap -338915024 Nothing Nothing)))))) (Just (Heap -4280 (Just (Heap -81 (Just (Heap 59 Nothing Nothing)) (Just (Heap -30991 Nothing Nothing)))) (Just (Heap -3 Nothing (Just (Heap 12 Nothing Nothing)))))))) (Just (Heap 15 (Just (Heap 17 (Just (Heap 111 Nothing (Just (Heap -32567 Nothing Nothing)))) (Just (Heap 0 (Just (Heap -22 Nothing Nothing)) (Just (Heap -13822 Nothing Nothing)))))) (Just (Heap 5 (Just (Heap -7 Nothing (Just (Heap -2 Nothing Nothing)))) (Just (Heap 6 (Just (Heap 19 Nothing Nothing)) (Just (Heap 6 Nothing Nothing))))))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 470,
+    "seed": 518381787,
+    "original": "Heap -97 (Just (Heap -30819 Nothing (Just (Heap -98 (Just (Heap -31327 (Just (Heap 0 Nothing Nothing)) (Just (Heap -1 Nothing Nothing)))) (Just (Heap -122 Nothing (Just (Heap -76 Nothing Nothing)))))))) (Just (Heap 32 (Just (Heap -19110 (Just (Heap -84 (Just (Heap -61 Nothing Nothing)) (Just (Heap -3 Nothing Nothing)))) Nothing)) (Just (Heap -32635 (Just (Heap 57 Nothing (Just (Heap -1533 Nothing Nothing)))) (Just (Heap -83 (Just (Heap 25871 Nothing Nothing)) (Just (Heap 26955 Nothing Nothing))))))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 219,
+    "seed": -1294733237,
+    "original": "Heap -117 (Just (Heap 125 (Just (Heap -3 Nothing (Just (Heap 2 (Just (Heap -37 Nothing Nothing)) (Just (Heap -22 Nothing Nothing)))))) (Just (Heap 0 (Just (Heap -2 Nothing (Just (Heap -3 Nothing Nothing)))) (Just (Heap 38098537 (Just (Heap -106 Nothing Nothing)) (Just (Heap -351757171 Nothing Nothing)))))))) (Just (Heap -510935954 (Just (Heap -3 (Just (Heap -430327239 (Just (Heap -7 Nothing Nothing)) (Just (Heap 0 Nothing Nothing)))) (Just (Heap 73 (Just (Heap -2 Nothing Nothing)) (Just (Heap 0 Nothing Nothing)))))) Nothing))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 679,
+    "seed": -1609836932,
+    "original": "Heap 20087 (Just (Heap -70 (Just (Heap 1 (Just (Heap 18574 (Just (Heap 47 Nothing Nothing)) (Just (Heap -5 Nothing Nothing)))) (Just (Heap -6 Nothing (Just (Heap 7 Nothing Nothing)))))) (Just (Heap -24 Nothing Nothing)))) Nothing",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 190,
+    "seed": 308579129,
+    "original": "Heap -76 Nothing (Just (Heap 4 (Just (Heap -9347 (Just (Heap 59 Nothing (Just (Heap -1046848846 Nothing Nothing)))) (Just (Heap -56 Nothing (Just (Heap 4 Nothing Nothing)))))) (Just (Heap -101 (Just (Heap 33 (Just (Heap 70 Nothing Nothing)) (Just (Heap 6 Nothing Nothing)))) (Just (Heap -65 (Just (Heap -6468 Nothing Nothing)) (Just (Heap -82 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 124,
+    "seed": 413276130,
+    "original": "Heap 2 (Just (Heap -1 (Just (Heap 101 Nothing (Just (Heap 10391 Nothing (Just (Heap 109 Nothing Nothing)))))) (Just (Heap -121 (Just (Heap -30 (Just (Heap -2 Nothing Nothing)) Nothing)) (Just (Heap 125 Nothing (Just (Heap 3 Nothing Nothing)))))))) (Just (Heap 18889 (Just (Heap 32 (Just (Heap -4 (Just (Heap 0 Nothing Nothing)) Nothing)) Nothing)) (Just (Heap -1 Nothing (Just (Heap -10264 (Just (Heap 7 Nothing Nothing)) (Just (Heap 6 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 169,
+    "seed": 1258123287,
+    "original": "Heap -35 (Just (Heap 62 (Just (Heap 114 (Just (Heap 99 Nothing (Just (Heap 806205833 Nothing Nothing)))) (Just (Heap -6 (Just (Heap -4 Nothing Nothing)) (Just (Heap 93 Nothing Nothing)))))) (Just (Heap -21 (Just (Heap 3 (Just (Heap 78 Nothing Nothing)) (Just (Heap -7 Nothing Nothing)))) (Just (Heap 10 (Just (Heap 126 Nothing Nothing)) (Just (Heap 26357 Nothing Nothing)))))))) (Just (Heap -99 (Just (Heap 19 (Just (Heap 76 Nothing (Just (Heap -7 Nothing Nothing)))) (Just (Heap -5 (Just (Heap -50 Nothing Nothing)) (Just (Heap 74 Nothing Nothing)))))) (Just (Heap -75367490 (Just (Heap 32588 Nothing (Just (Heap -1 Nothing Nothing)))) (Just (Heap 2 (Just (Heap 25403 Nothing Nothing)) Nothing))))))",
+    "shrunk": "Heap 0 Nothing (Just (Heap -1 Nothing Nothing))"
+  },
+  {
+    "evaluations": 124,
+    "seed": -1323962172,
+    "original": "Heap 2 (Just (Heap 1 (Just (Heap 3011 (Just (Heap 11 (Just (Heap 18 Nothing Nothing)) Nothing)) (Just (Heap 0 Nothing (Just (Heap 13187 Nothing Nothing)))))) (Just (Heap 22 (Just (Heap -51 (Just (Heap -10 Nothing Nothing)) Nothing)) (Just (Heap -1 (Just (Heap -981340810 Nothing Nothing)) (Just (Heap 114 Nothing Nothing)))))))) (Just (Heap 4 Nothing Nothing))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 130,
+    "seed": 437144808,
+    "original": "Heap 52 (Just (Heap 90 (Just (Heap 71 (Just (Heap 4 (Just (Heap 54 Nothing Nothing)) (Just (Heap 24515 Nothing Nothing)))) (Just (Heap 28023 Nothing (Just (Heap 1 Nothing Nothing)))))) (Just (Heap 15 (Just (Heap -3631 (Just (Heap -49 Nothing Nothing)) (Just (Heap -18495 Nothing Nothing)))) (Just (Heap 92 (Just (Heap -91 Nothing Nothing)) (Just (Heap -3 Nothing Nothing)))))))) (Just (Heap 68 (Just (Heap -6 Nothing (Just (Heap 3 (Just (Heap 20 Nothing Nothing)) Nothing)))) (Just (Heap 109 (Just (Heap -45 Nothing Nothing)) (Just (Heap 27 (Just (Heap 6 Nothing Nothing)) (Just (Heap 7 Nothing Nothing))))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  },
+  {
+    "evaluations": 135,
+    "seed": 1925517035,
+    "original": "Heap -104 Nothing (Just (Heap 34 Nothing (Just (Heap -74 (Just (Heap 8321 Nothing (Just (Heap -6 Nothing Nothing)))) (Just (Heap 92 (Just (Heap 89 Nothing Nothing)) Nothing))))))",
+    "shrunk": "Heap 1 Nothing (Just (Heap 0 Nothing Nothing))"
+  }
+]
