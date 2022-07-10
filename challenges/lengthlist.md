@@ -16,3 +16,4 @@ In particular the use of the length parameter is critical, and the challenge is 
 | PropEr     | [lengthlist.erl](/pbt-libraries/proper/challenges/lengthlist.erl)                                               | [lengthlist.md](/pbt-libraries/proper/challenges/lengthlist.md)     |
 | fast-check | [lengthlist.js](/pbt-libraries/fast-check/challenges/lengthlist.js)                                             | [lengthlist.md](/pbt-libraries/fast-check/reports/lengthlist.md)    |
 | CsCheck    |[ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L93)|[lengthlist.md](/pbt-libraries/cscheck/reports/lengthlist.md)|
+| elm-test   |[LengthList.elm](/pbt-libraries/elm-test/src/Challenge/LengthList.elm)|[lengthList.md](/pbt-libraries/elm-test/reports/lengthList.md)|

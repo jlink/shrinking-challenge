@@ -1,0 +1,602 @@
+[
+  {
+    "evaluations": 519,
+    "seed": 1946736040,
+    "original": "Div (Div (Int -3) (Div (Int 32) (Div (Div (Int 47) (Int -1025813255)) (Add (Int 11559) (Int -32318))))) (Int 5)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 683,
+    "seed": -1324526716,
+    "original": "Div (Div (Add (Int 21) (Add (Add (Int 0) (Int 266180671)) (Int 96))) (Add (Div (Div (Int -12560) (Int 82)) (Div (Int -69) (Int -5))) (Add (Add (Int 4) (Int -77)) (Div (Int 21) (Int 6))))) (Div (Add (Int -86) (Add (Int -19) (Add (Int 109) (Int 58)))) (Add (Int -107) (Int -1039140983)))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 308,
+    "seed": -136699281,
+    "original": "Div (Add (Add (Int -31311) (Int -22)) (Add (Div (Div (Int 57) (Int -7)) (Int -77)) (Int 25134))) (Div (Div (Div (Add (Int -4) (Int 7)) (Add (Int 104) (Int 20436))) (Div (Add (Int 1049962267) (Int -93)) (Int -105))) (Int -80))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 413,
+    "seed": 502553815,
+    "original": "Add (Div (Div (Add (Add (Int 38) (Int -107)) (Add (Int -3) (Int -6))) (Int 109)) (Add (Int 84) (Int 11))) (Div (Div (Int 6) (Add (Int 23) (Div (Int 31) (Int 4)))) (Div (Div (Div (Int 87) (Int 2014)) (Int -83)) (Int -82)))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 2289,
+    "seed": 1302390134,
+    "original": "Div (Int -7) (Div (Div (Int 5) (Add (Div (Int -10) (Int 44)) (Div (Int -85) (Int 614060307)))) (Div (Div (Div (Int 3143) (Int -80)) (Add (Int -47) (Int -6))) (Add (Int 17) (Add (Int -6) (Int -15)))))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 318,
+    "seed": 16619435,
+    "original": "Add (Div (Add (Int 15104) (Int 115)) (Div (Div (Add (Int 14) (Int 28775)) (Div (Int 0) (Int 126))) (Div (Int -77) (Div (Int 6) (Int 91))))) (Add (Add (Div (Div (Int 118373884) (Int -1)) (Div (Int -98) (Int -312792331))) (Int -126)) (Add (Add (Int 7) (Div (Int 16) (Int -11107))) (Add (Add (Int -120) (Int -2)) (Div (Int 122) (Int -78)))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 338,
+    "seed": 1470978334,
+    "original": "Div (Int -3) (Div (Int 80) (Add (Div (Add (Int -11) (Int 22)) (Int 17457)) (Div (Add (Int 21366) (Int 5)) (Add (Int -113) (Int -116)))))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 428,
+    "seed": 1883606641,
+    "original": "Add (Div (Int -58) (Div (Div (Div (Int 2) (Int 6)) (Add (Int -72) (Int 4))) (Int -5523))) (Int -73)",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 720,
+    "seed": -1069621984,
+    "original": "Div (Add (Add (Div (Int -7) (Int -92)) (Div (Add (Int -110) (Int -67)) (Add (Int 6) (Int -16)))) (Int -3)) (Add (Add (Add (Div (Int -5) (Int -68)) (Div (Int -713016042) (Int 7))) (Div (Div (Int -19730) (Int 27)) (Div (Int 10) (Int 20)))) (Int 42))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 321,
+    "seed": 19923908,
+    "original": "Div (Div (Div (Div (Div (Int -4131) (Int -91)) (Int 11)) (Add (Int 3) (Add (Int 693393413) (Int 5)))) (Add (Div (Add (Int 38) (Int 58)) (Add (Int 2) (Int 51))) (Add (Int -5) (Int -73)))) (Div (Div (Int 104) (Add (Div (Int 2) (Int -49)) (Add (Int -599) (Int 568185944)))) (Add (Div (Add (Int -65) (Int 126)) (Add (Int 13) (Int -6))) (Add (Add (Int 4) (Int -6)) (Div (Int -4) (Int 4)))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 414,
+    "seed": 1840834934,
+    "original": "Add (Div (Div (Add (Add (Int 110) (Int -7442)) (Int 26000)) (Int -5)) (Div (Int 74) (Div (Div (Int 4) (Int -10395)) (Div (Int -122) (Int -57))))) (Int -628648406)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 685,
+    "seed": 1905010014,
+    "original": "Add (Add (Div (Add (Div (Int 23) (Int -9841)) (Int 3)) (Add (Add (Int 13581) (Int 9580)) (Add (Int 16934) (Int -91)))) (Add (Div (Int 4) (Div (Int 0) (Int -27182))) (Add (Int 3) (Div (Int -31443) (Int 2))))) (Int -29685)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 555,
+    "seed": 1655681866,
+    "original": "Div (Add (Add (Int -27) (Div (Int -24) (Add (Int -13999) (Int 7)))) (Div (Add (Add (Int -6) (Int 2)) (Div (Int 45) (Int -117))) (Div (Div (Int -61) (Int -85)) (Add (Int -37) (Int 2442))))) (Int -7)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 289,
+    "seed": -1170548024,
+    "original": "Div (Div (Add (Int 116) (Int 109)) (Div (Int -3) (Int -116))) (Int -50)",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 324,
+    "seed": -1187448220,
+    "original": "Add (Div (Div (Int 827871372) (Add (Int -24927) (Add (Int -5) (Int -4)))) (Int -42)) (Div (Int 49) (Div (Div (Int 124) (Div (Int 0) (Int -81))) (Add (Add (Int -3) (Int 45)) (Add (Int 3) (Int -29)))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 374,
+    "seed": 525567741,
+    "original": "Add (Div (Add (Add (Add (Int -3) (Int -98)) (Int -2)) (Div (Div (Int -99) (Int 5628)) (Int -2))) (Div (Int 51) (Div (Div (Int -23) (Int 6)) (Int -27)))) (Add (Add (Add (Add (Int -24840) (Int -21)) (Add (Int 0) (Int -11915))) (Add (Div (Int -107) (Int 127)) (Int 98))) (Div (Add (Add (Int -1) (Int 106)) (Int -119)) (Div (Int 911004602) (Int 22))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 401,
+    "seed": 1670178958,
+    "original": "Add (Int 0) (Div (Int -6) (Div (Div (Div (Int 168271785) (Int -16)) (Int 4)) (Add (Add (Int -4) (Int -29)) (Add (Int 437026657) (Int -22135)))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 472,
+    "seed": -339656626,
+    "original": "Div (Int -5) (Div (Int 31) (Int -105))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 240,
+    "seed": -469065840,
+    "original": "Div (Div (Div (Div (Int -26) (Div (Int 3) (Int 96))) (Int 427944999)) (Int -46)) (Int 70)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 525,
+    "seed": -685042788,
+    "original": "Div (Add (Int 3) (Div (Div (Div (Int -280442610) (Int 35)) (Div (Int 2) (Int -5))) (Int 4))) (Int -107)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 475,
+    "seed": -1484825187,
+    "original": "Div (Div (Int -2) (Int -3)) (Add (Div (Div (Div (Int -123) (Int -191024270)) (Int -3)) (Div (Div (Int -101) (Int -81)) (Add (Int -21) (Int 50)))) (Add (Int 48) (Int -88)))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 244,
+    "seed": 709454313,
+    "original": "Div (Int -94) (Add (Add (Div (Div (Int 33) (Int 16)) (Int -7758)) (Div (Div (Int -4) (Int 24734)) (Add (Int 111) (Int 89)))) (Div (Int -11) (Div (Int -6) (Div (Int -657393152) (Int -6)))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 729,
+    "seed": -495435703,
+    "original": "Add (Add (Add (Int -22070) (Div (Div (Int 117) (Int -77)) (Div (Int -26307) (Int 11738)))) (Add (Div (Int 1) (Div (Int -5) (Int 74))) (Add (Add (Int 19579) (Int -67)) (Int -725173435)))) (Int 103)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 415,
+    "seed": -683501731,
+    "original": "Div (Div (Div (Div (Add (Int -1) (Int 67)) (Add (Int 5) (Int 6))) (Int 12976)) (Div (Add (Div (Int 1) (Int 80)) (Add (Int -81) (Int 24521))) (Add (Add (Int 4) (Int 60)) (Add (Int 85777108) (Int -7))))) (Int 51)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 480,
+    "seed": -151397477,
+    "original": "Div (Div (Int 114) (Div (Int -2) (Int 41))) (Div (Div (Int 13) (Div (Add (Int -81) (Int 174)) (Int -109))) (Int 7))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 230,
+    "seed": 621566028,
+    "original": "Div (Int 71) (Add (Add (Add (Div (Int -51) (Int -37)) (Int 55)) (Div (Add (Int -34) (Int 91)) (Div (Int -3) (Int 15461)))) (Int -55))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 351,
+    "seed": -20168245,
+    "original": "Div (Add (Div (Div (Div (Int 14419) (Int 48)) (Div (Int 7) (Int -1604))) (Add (Add (Int 3) (Int 53)) (Div (Int 30596) (Int -114)))) (Add (Add (Div (Int -6) (Int 77)) (Int -112)) (Div (Add (Int 93) (Int -3)) (Div (Int 7) (Int -24))))) (Div (Int -38) (Div (Div (Add (Int 23803) (Int 3)) (Int 463363646)) (Add (Div (Int 0) (Int -4)) (Add (Int 121) (Int -53)))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 726,
+    "seed": -2013298369,
+    "original": "Add (Add (Div (Div (Div (Int -29) (Int -7)) (Add (Int -1) (Int 18))) (Int 73)) (Add (Int 28) (Div (Int 2) (Add (Int -70) (Int -61))))) (Div (Add (Add (Add (Int -11441) (Int 10027)) (Add (Int 0) (Int -2))) (Div (Add (Int -37) (Int -7)) (Div (Int -3) (Int -81)))) (Add (Int -58) (Div (Div (Int 0) (Int 4)) (Int -71))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 322,
+    "seed": -824219845,
+    "original": "Add (Add (Add (Int 52) (Div (Int 96) (Int 4))) (Div (Int -51) (Div (Add (Int 7) (Int 55)) (Add (Int 113) (Int 119457557))))) (Int -11802)",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 498,
+    "seed": -157996390,
+    "original": "Add (Div (Div (Int 2) (Add (Div (Int 28) (Int -16898)) (Div (Int -7) (Int 5)))) (Add (Int -12) (Div (Add (Int 4) (Int -121)) (Div (Int -6) (Int -17857))))) (Add (Int 0) (Int -61132702))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 381,
+    "seed": 674578464,
+    "original": "Div (Int 126) (Div (Div (Int 114) (Int -92)) (Div (Int -32) (Add (Add (Int -43) (Int -1)) (Int -84))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 176,
+    "seed": 1917535305,
+    "original": "Div (Div (Div (Div (Add (Int -100) (Int 27145)) (Int 99)) (Div (Int -2) (Int 5014))) (Div (Div (Int -110) (Int -1)) (Add (Div (Int 78) (Int 82)) (Div (Int -55) (Int 124))))) (Int 4)",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 330,
+    "seed": -2097214453,
+    "original": "Add (Div (Add (Int -3) (Add (Add (Int 1) (Int 22149)) (Div (Int 1) (Int 116)))) (Int 1)) (Add (Add (Int 13996) (Div (Add (Int 67) (Int 26)) (Div (Int 74) (Int 7084)))) (Add (Add (Add (Int -339253040) (Int 8)) (Div (Int 4) (Int 19))) (Add (Div (Int 6) (Int 69)) (Div (Int 6) (Int 33)))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 309,
+    "seed": 1900368581,
+    "original": "Div (Div (Int -4) (Div (Add (Int -18652) (Int 387563680)) (Div (Add (Int -1) (Int 87)) (Add (Int 6) (Int 110))))) (Add (Int 7) (Add (Div (Add (Int -1) (Int -34)) (Int 3)) (Div (Add (Int 13869) (Int -8)) (Add (Int 95) (Int -792338460)))))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 295,
+    "seed": 52964996,
+    "original": "Add (Add (Div (Add (Int -62) (Div (Int 111) (Int -27))) (Div (Add (Int 0) (Int 5)) (Int 15))) (Add (Add (Div (Int 81) (Int -97)) (Add (Int 102) (Int -126))) (Add (Div (Int 28) (Int 37)) (Int 769644984)))) (Int 112)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 298,
+    "seed": 1938792142,
+    "original": "Add (Add (Div (Div (Int 26408) (Div (Int -26330) (Int 4))) (Div (Div (Int 55) (Int -2)) (Int 667021631))) (Add (Div (Int -884092730) (Add (Int -117) (Int -65))) (Int -75))) (Add (Div (Add (Add (Int -15) (Int 0)) (Div (Int -89) (Int 1))) (Div (Add (Int 51) (Int -461349102)) (Div (Int -27) (Int 112)))) (Div (Int 9773) (Int -24799)))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 407,
+    "seed": 244506490,
+    "original": "Div (Div (Add (Int 10) (Int -81)) (Div (Div (Int 21764) (Div (Int 102) (Int -42))) (Add (Div (Int -6) (Int 63)) (Div (Int 29149) (Int 29713))))) (Div (Div (Int 23017) (Add (Add (Int 66) (Int 58)) (Add (Int -1) (Int 5)))) (Int -93))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 352,
+    "seed": 1695203412,
+    "original": "Div (Add (Add (Int 117) (Add (Int -88) (Div (Int -85) (Int 56)))) (Add (Div (Div (Int 83) (Int 7731)) (Int -77)) (Div (Add (Int 22618) (Int -19)) (Int -7)))) (Div (Add (Add (Add (Int 24) (Int -25)) (Add (Int 125) (Int -71))) (Int 15)) (Int 17022930))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 355,
+    "seed": -1131771726,
+    "original": "Add (Div (Int 39) (Add (Add (Int -15) (Div (Int 15656) (Int -3))) (Add (Div (Int 80) (Int 124)) (Int 111)))) (Div (Add (Int 3) (Div (Add (Int -29) (Int 3)) (Int -109))) (Add (Div (Int -792189337) (Div (Int -7) (Int 87))) (Int -113)))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 341,
+    "seed": -380395739,
+    "original": "Add (Int -70) (Div (Div (Int 13) (Div (Div (Int -101) (Int 6555)) (Add (Int -34) (Int -707849801)))) (Int 45))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 315,
+    "seed": 511351801,
+    "original": "Div (Int 1) (Div (Div (Add (Add (Int 273655937) (Int -18)) (Div (Int -95872215) (Int 4))) (Div (Div (Int 67) (Int 96)) (Int -29119))) (Add (Int -4) (Int 843809994)))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 321,
+    "seed": 1087025411,
+    "original": "Div (Add (Add (Div (Int 94) (Div (Int 7) (Int -195076758))) (Div (Add (Int 1) (Int 110)) (Add (Int 0) (Int 5387)))) (Int -120)) (Int 126)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 300,
+    "seed": -897661783,
+    "original": "Div (Add (Int 1) (Div (Add (Int -1) (Int -83)) (Div (Int -2) (Int 41)))) (Add (Add (Add (Div (Int -2) (Int 86)) (Int 118)) (Add (Add (Int -8229) (Int -707368376)) (Int -3))) (Add (Int 64) (Int -6)))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 335,
+    "seed": -2002030174,
+    "original": "Add (Add (Div (Div (Div (Int 103) (Int -1)) (Int -51)) (Div (Add (Int -27475) (Int 7)) (Div (Int 22450629) (Int -1)))) (Div (Div (Div (Int -3) (Int 2718)) (Add (Int -85) (Int -99))) (Div (Div (Int 11) (Int -70)) (Int -118)))) (Add (Int 119) (Int -39))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 651,
+    "seed": -2003016542,
+    "original": "Div (Add (Int 16) (Int 101)) (Add (Div (Div (Add (Int 109) (Int 83)) (Div (Int 1) (Int 5233))) (Int -4)) (Int 6))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 318,
+    "seed": -1966525781,
+    "original": "Div (Int -33) (Div (Add (Int 6) (Add (Int -825697060) (Div (Int -20530) (Int -47)))) (Div (Div (Div (Int 55) (Int -31235)) (Int -29)) (Add (Div (Int 0) (Int -126)) (Int -75))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 303,
+    "seed": 334950479,
+    "original": "Div (Div (Div (Int 3) (Add (Div (Int -4) (Int -966934278)) (Add (Int 668408287) (Int -1)))) (Div (Add (Int 13) (Add (Int 90) (Int 6))) (Div (Int -85) (Add (Int 27) (Int 17157))))) (Int 763642583)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 344,
+    "seed": 1276402768,
+    "original": "Div (Div (Add (Add (Int 260663422) (Int -83)) (Int -8832)) (Add (Div (Add (Int -120) (Int 0)) (Div (Int 5) (Int -6))) (Div (Add (Int -5) (Int -69)) (Int 29)))) (Int 87)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 353,
+    "seed": 552175619,
+    "original": "Add (Int 4) (Div (Add (Div (Int -21) (Div (Int -4) (Int -90))) (Div (Int -71) (Add (Int 2625) (Int 21805)))) (Add (Div (Add (Int -27) (Int 7)) (Div (Int -23) (Int -107))) (Int 40)))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 450,
+    "seed": 658421420,
+    "original": "Div (Div (Int 425106261) (Div (Div (Div (Int 103) (Int 7085)) (Add (Int -50) (Int 58))) (Add (Div (Int 2786) (Int -10)) (Div (Int -115) (Int -4))))) (Add (Add (Add (Add (Int 5) (Int 1)) (Int 2446)) (Int -3)) (Div (Div (Add (Int 781311978) (Int 0)) (Div (Int 10) (Int 6))) (Div (Int -3) (Int -68))))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 269,
+    "seed": -1663936909,
+    "original": "Div (Div (Int -126) (Int -12349)) (Div (Int 3) (Add (Int 6) (Add (Int 7) (Div (Int -4648) (Int 1666)))))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 324,
+    "seed": -1678309137,
+    "original": "Add (Int -78) (Div (Int -22) (Div (Div (Add (Int 4317) (Int -106)) (Add (Int 98) (Int -41))) (Int 375025281)))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 332,
+    "seed": -1949225553,
+    "original": "Add (Div (Int 1) (Int 20885)) (Div (Add (Int 119) (Div (Int 56) (Div (Int 68) (Int -122)))) (Add (Div (Int -2) (Div (Int -23594) (Int 71))) (Add (Int 29449) (Div (Int -122) (Int -314102154)))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 360,
+    "seed": -107202842,
+    "original": "Add (Int 29) (Div (Div (Add (Div (Int -10) (Int -106)) (Add (Int -29554) (Int 108))) (Add (Int 78) (Int -14))) (Div (Add (Div (Int -60) (Int 58)) (Int -10)) (Add (Int -15410) (Add (Int -45) (Int -11520)))))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 193,
+    "seed": 1271430511,
+    "original": "Div (Add (Add (Int 58) (Int -28357)) (Div (Add (Div (Int 36) (Int -5)) (Add (Int -82) (Int -81))) (Add (Div (Int -67) (Int -31)) (Div (Int -32227) (Int -80))))) (Div (Div (Int 79) (Add (Add (Int 1) (Int -95)) (Int 1))) (Add (Add (Div (Int -2) (Int 10)) (Div (Int -10095) (Int 4))) (Div (Add (Int -122) (Int 5)) (Int 86))))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 547,
+    "seed": 571441752,
+    "original": "Add (Int -113) (Add (Div (Div (Add (Int 92) (Int 64)) (Div (Int 98) (Int 840679877))) (Div (Int -1) (Div (Int -88) (Int 53)))) (Div (Add (Add (Int -91) (Int -23)) (Div (Int -74) (Int 68))) (Add (Int 6871) (Int 7))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 329,
+    "seed": 836255239,
+    "original": "Div (Div (Div (Add (Div (Int 65) (Int -6)) (Div (Int -15) (Int 29))) (Add (Div (Int -4) (Int -79)) (Int 4))) (Div (Div (Add (Int 122) (Int 2)) (Int 76)) (Add (Int -120) (Div (Int -66) (Int -2))))) (Int -2)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 439,
+    "seed": -1036656568,
+    "original": "Add (Int -40) (Add (Div (Int 15504) (Div (Int -5) (Int -50))) (Add (Div (Div (Int -3) (Int 4)) (Int -99)) (Div (Int 81) (Int 61))))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 347,
+    "seed": 417257635,
+    "original": "Div (Add (Div (Int -5) (Div (Add (Int -3) (Int 36)) (Div (Int 96) (Int -103)))) (Int 97)) (Div (Add (Add (Add (Int 92) (Int 64)) (Div (Int 5) (Int -630719419))) (Div (Add (Int -13891) (Int -31488)) (Add (Int 5) (Int -56)))) (Int -498191222))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 437,
+    "seed": -114143708,
+    "original": "Add (Add (Add (Add (Int -41) (Add (Int -69) (Int -95))) (Div (Int -7) (Div (Int 5) (Int 24)))) (Add (Add (Int 50) (Add (Int 68) (Int 25))) (Int 4))) (Add (Add (Int 101) (Int -2)) (Add (Div (Add (Int 62) (Int -5)) (Add (Int 7) (Int 92))) (Int 48)))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 288,
+    "seed": -1579118521,
+    "original": "Add (Div (Int 87) (Div (Add (Add (Int 85) (Int 6)) (Div (Int 3) (Int -42))) (Int -113))) (Int -2)",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 315,
+    "seed": -1662942557,
+    "original": "Div (Add (Add (Div (Div (Int 67) (Int 39)) (Int 4)) (Int -6)) (Add (Div (Add (Int -1) (Int 58)) (Int -53)) (Add (Add (Int 835528775) (Int 73)) (Int -6)))) (Div (Int -2) (Int -52))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 610,
+    "seed": -2056163307,
+    "original": "Add (Add (Int -10655) (Add (Div (Div (Int 6) (Int 2)) (Int -10431)) (Div (Int -913875962) (Div (Int 4) (Int 6))))) (Div (Int -7) (Div (Add (Div (Int 29442) (Int -13611)) (Div (Int -64) (Int -5))) (Add (Add (Int 34) (Int -83)) (Add (Int 5) (Int 99)))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 2399,
+    "seed": -1368983815,
+    "original": "Div (Add (Add (Div (Add (Int 89) (Int 112)) (Int -18655)) (Add (Div (Int -5) (Int -2)) (Int -66))) (Div (Int -4) (Div (Add (Int 9) (Int -6)) (Div (Int 68) (Int -77))))) (Add (Int 0) (Int -57))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 299,
+    "seed": -1604451583,
+    "original": "Div (Div (Int 442116074) (Div (Int -123) (Add (Add (Int -123) (Int 0)) (Int -72)))) (Add (Add (Div (Int -19) (Add (Int 13867) (Int -7))) (Int -80)) (Add (Int 888) (Add (Add (Int -5) (Int 7)) (Add (Int 4) (Int -85)))))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 345,
+    "seed": -1766065766,
+    "original": "Div (Add (Div (Int -89) (Add (Div (Int 96) (Int 103)) (Add (Int -32) (Int -62)))) (Div (Div (Add (Int 4) (Int -933834686)) (Int -6)) (Add (Div (Int 77) (Int 58)) (Div (Int -3) (Int 91))))) (Div (Int -3) (Int -64))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 375,
+    "seed": 10024578,
+    "original": "Add (Int -3) (Add (Add (Div (Div (Int -699196999) (Int 1)) (Div (Int -13) (Int 15))) (Div (Div (Int -48) (Int -85)) (Add (Int -89) (Int 2)))) (Div (Div (Int -14903) (Add (Int -27375) (Int 55))) (Add (Add (Int -4) (Int 10827)) (Int -7))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 420,
+    "seed": -637634325,
+    "original": "Add (Add (Int 56) (Div (Add (Add (Int 0) (Int 69)) (Int -4)) (Div (Div (Int -80) (Int 102)) (Add (Int -90) (Int 6))))) (Int -33)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 365,
+    "seed": -1078720258,
+    "original": "Div (Add (Int -82) (Add (Div (Div (Int -16436) (Int 1)) (Add (Int -112) (Int 6))) (Add (Div (Int 197562127) (Int 10776)) (Div (Int 15) (Int -25))))) (Div (Div (Int -120) (Div (Div (Int -97) (Int 413)) (Add (Int 76) (Int -2)))) (Div (Int -66) (Int -7)))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 329,
+    "seed": 291271205,
+    "original": "Add (Div (Div (Add (Div (Int 24) (Int -18)) (Int -69754561)) (Div (Int 9) (Int -4))) (Div (Div (Add (Int -126) (Int -6)) (Div (Int 104) (Int -95))) (Int 112))) (Div (Div (Add (Add (Int 10795) (Int 4)) (Add (Int 97) (Int -368007688))) (Int -70)) (Div (Int 7) (Add (Div (Int 83) (Int 6)) (Add (Int 74) (Int -95)))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 179,
+    "seed": -1728035100,
+    "original": "Add (Div (Add (Add (Add (Int 0) (Int 110)) (Div (Int 55) (Int 118))) (Int -75)) (Int 3)) (Div (Add (Int 104) (Add (Add (Int 13987) (Int -4)) (Div (Int -26) (Int -116)))) (Div (Int -50) (Int -52)))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 384,
+    "seed": 1202361374,
+    "original": "Add (Div (Div (Div (Int 118) (Add (Int -38) (Int 37))) (Div (Div (Int 64) (Int 2)) (Add (Int -57) (Int -614540930)))) (Div (Add (Div (Int 26444) (Int -6)) (Int 4)) (Div (Add (Int -1) (Int 11)) (Add (Int -1) (Int 38))))) (Int 56)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 277,
+    "seed": -957367525,
+    "original": "Div (Add (Div (Div (Add (Int 7) (Int -67)) (Add (Int 34) (Int 71))) (Div (Int -7) (Int 35))) (Div (Add (Add (Int 13833) (Int 2)) (Int 110)) (Div (Int -31) (Int 25045)))) (Add (Add (Int 53) (Add (Add (Int -7) (Int 53)) (Int 78))) (Int -18))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 467,
+    "seed": -1812237681,
+    "original": "Add (Div (Int 99) (Div (Div (Add (Int 0) (Int -6)) (Int 689682885)) (Div (Add (Int -1048303609) (Int -13937)) (Div (Int 126) (Int -119))))) (Div (Div (Add (Int -12) (Add (Int 76) (Int 112))) (Int -16355)) (Div (Div (Add (Int -7) (Int 13930)) (Int -5)) (Add (Div (Int -19) (Int 120)) (Div (Int -68) (Int 974173464)))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 453,
+    "seed": 1774911367,
+    "original": "Div (Div (Div (Div (Add (Int 7) (Int 116)) (Add (Int -55) (Int 20256))) (Div (Div (Int 3) (Int 47)) (Int 80))) (Int 50)) (Int 10318)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 545,
+    "seed": 183330987,
+    "original": "Add (Add (Div (Add (Div (Int -98) (Int 18)) (Div (Int 120) (Int -72))) (Int 14485)) (Add (Div (Div (Int 42) (Int 113)) (Int 470024945)) (Add (Div (Int 6) (Int -7)) (Int -3)))) (Div (Div (Add (Int 86) (Int 41)) (Div (Add (Int 17) (Int -116)) (Add (Int 32228) (Int -42)))) (Add (Div (Div (Int -21439) (Int 21)) (Int -29246)) (Div (Div (Int -10) (Int 5)) (Int -48))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 421,
+    "seed": -1640379656,
+    "original": "Add (Div (Add (Div (Div (Int -1) (Int 826404357)) (Div (Int -78) (Int -59))) (Div (Add (Int 757029573) (Int -29)) (Int -116))) (Div (Add (Add (Int -94) (Int 96)) (Add (Int -111) (Int 8866))) (Int -355528004))) (Int 0)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 566,
+    "seed": -582945279,
+    "original": "Div (Div (Add (Div (Int 111062843) (Add (Int 81) (Int 4))) (Div (Add (Int 89) (Int -1063748478)) (Add (Int 65) (Int 31492)))) (Div (Div (Div (Int 1) (Int 19359)) (Add (Int -3) (Int -103))) (Add (Add (Int 5) (Int 47)) (Add (Int 34) (Int -35))))) (Add (Div (Div (Add (Int -22) (Int 21550694)) (Add (Int 50) (Int 2))) (Add (Int 108) (Div (Int 3) (Int -96)))) (Int -122))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 421,
+    "seed": -853071280,
+    "original": "Add (Add (Int -57) (Div (Div (Int 2) (Add (Int -19) (Int -100))) (Int 57))) (Div (Div (Int -2260) (Div (Int 73) (Div (Int 6) (Int -14288)))) (Add (Div (Int -5) (Int -52)) (Int 73)))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 268,
+    "seed": 1415975953,
+    "original": "Div (Add (Int -3) (Add (Div (Int 46) (Int -64)) (Int -6))) (Div (Int 0) (Add (Int 20) (Add (Div (Int 8) (Int 29325)) (Div (Int 28789) (Int -113)))))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 623,
+    "seed": -664755679,
+    "original": "Add (Int -87) (Add (Int -11808) (Div (Add (Add (Int -6) (Int -110)) (Div (Int -8165) (Int 9))) (Div (Div (Int 51) (Int -116)) (Div (Int 87) (Int -17)))))",
+    "shrunk": "Add (Int 0) (Add (Int 0) (Add (Int 0) (Div (Int 0) (Add (Int 0) (Int 0)))))"
+  },
+  {
+    "evaluations": 414,
+    "seed": -380550235,
+    "original": "Add (Add (Int -109) (Div (Int 1) (Add (Div (Int -60) (Int 10)) (Div (Int 75) (Int -77))))) (Div (Add (Int -2) (Div (Add (Int -5) (Int -53)) (Add (Int -126) (Int -70)))) (Div (Div (Div (Int 6) (Int 6)) (Div (Int -46) (Int -2))) (Int 70)))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 440,
+    "seed": 337158736,
+    "original": "Div (Add (Add (Add (Int 31) (Add (Int 6) (Int -117))) (Int -2)) (Add (Int -62) (Div (Int 7671) (Add (Int 24) (Int 98))))) (Div (Int 0) (Add (Add (Div (Int 1) (Int -49)) (Add (Int -125170782) (Int 7))) (Int -6)))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 485,
+    "seed": 508655305,
+    "original": "Div (Div (Add (Div (Add (Int 9423) (Int -8701)) (Add (Int -6043) (Int 5073))) (Add (Int 15664) (Div (Int 36) (Int 51)))) (Div (Div (Add (Int 28195) (Int 36)) (Add (Int 63) (Int 4))) (Add (Add (Int -15) (Int -19634)) (Div (Int -112) (Int 39))))) (Int 21582)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 301,
+    "seed": 593312797,
+    "original": "Add (Add (Add (Int 2) (Add (Add (Int -489768244) (Int -20654)) (Add (Int -28295) (Int -1)))) (Div (Add (Div (Int -64) (Int -15355)) (Add (Int -36) (Int 3))) (Add (Int 5) (Int -34)))) (Div (Add (Add (Div (Int 101) (Int 1)) (Div (Int 109) (Int -717167643))) (Int 19566)) (Div (Add (Div (Int 14) (Int -31)) (Div (Int -2) (Int -3))) (Add (Add (Int -5) (Int -102)) (Int 45))))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 174,
+    "seed": -902587608,
+    "original": "Div (Int -43) (Div (Add (Add (Div (Int 48) (Int 83)) (Add (Int -2) (Int 0))) (Add (Int 0) (Int -2))) (Add (Add (Add (Int 7) (Int 90)) (Add (Int 1) (Int 59))) (Add (Add (Int 5) (Int -25)) (Add (Int -5) (Int -31)))))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 891,
+    "seed": -2064360045,
+    "original": "Div (Div (Div (Div (Div (Int -16231) (Int -103)) (Div (Int -3) (Int -16))) (Div (Add (Int -58) (Int -44)) (Div (Int -13) (Int -9)))) (Int -292569483)) (Int 491665286)",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 394,
+    "seed": 1278303216,
+    "original": "Add (Add (Div (Div (Div (Int -79) (Int 604554672)) (Div (Int -7) (Int 16))) (Div (Add (Int 59) (Int -22)) (Int -7))) (Int -4)) (Div (Add (Int 0) (Div (Add (Int 56) (Int -45)) (Add (Int -4) (Int -103)))) (Add (Int 0) (Add (Div (Int 93) (Int 127)) (Div (Int -84) (Int -65)))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 867,
+    "seed": 171067624,
+    "original": "Add (Div (Add (Int -28) (Add (Div (Int 86) (Int 6)) (Div (Int 17608) (Int -3)))) (Int -58)) (Add (Add (Int 6) (Add (Int -75) (Div (Int -65) (Int -364)))) (Div (Div (Div (Int -9) (Int 243365155)) (Div (Int -110) (Int -4))) (Div (Div (Int -10911) (Int -1)) (Add (Int 475713786) (Int 5)))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 413,
+    "seed": 2012954079,
+    "original": "Div (Div (Div (Add (Div (Int -16) (Int 69)) (Int 7)) (Div (Int 3) (Div (Int 72) (Int 7474)))) (Div (Add (Div (Int 105) (Int 437197033)) (Int -18)) (Div (Div (Int 7) (Int -1)) (Add (Int -19171) (Int 0))))) (Int 1)",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 409,
+    "seed": -1237320488,
+    "original": "Add (Int 73) (Add (Div (Int 25601) (Int 1)) (Div (Div (Div (Int 57) (Int -42)) (Div (Int 12) (Int -88))) (Div (Int 77) (Div (Int 0) (Int -338915024)))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 293,
+    "seed": 518381787,
+    "original": "Div (Add (Div (Add (Div (Int 12235) (Int 20)) (Add (Int 53) (Int -93))) (Add (Div (Int -93) (Int -5)) (Int -2469))) (Add (Div (Int 675689698) (Add (Int 35) (Int 110))) (Add (Int 8) (Int 2617)))) (Div (Add (Int 3) (Int -72)) (Add (Int -58) (Add (Div (Int -393943710) (Int -121)) (Div (Int 5) (Int -6)))))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 375,
+    "seed": -1294733237,
+    "original": "Div (Div (Add (Int -110) (Div (Div (Int 6187) (Int -70)) (Int 31636))) (Div (Int 26) (Div (Int 4) (Int 12363)))) (Add (Int 47) (Div (Div (Int 19) (Int -114)) (Add (Add (Int 22137) (Int -41)) (Int -7))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 359,
+    "seed": -1609836932,
+    "original": "Add (Div (Div (Int -7) (Add (Int -58) (Int -1))) (Int 67)) (Div (Add (Int 2) (Add (Int -6) (Add (Int -4) (Int 111)))) (Div (Add (Div (Int -20) (Int -13)) (Add (Int 111) (Int 831215651))) (Div (Int 5) (Div (Int -91) (Int 2)))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 578,
+    "seed": 308579129,
+    "original": "Add (Add (Add (Add (Add (Int -90) (Int 6530)) (Int -4)) (Add (Div (Int 1) (Int -19)) (Add (Int -2) (Int 16)))) (Add (Add (Div (Int -42) (Int -75)) (Div (Int -3) (Int 1))) (Div (Add (Int 655339581) (Int -3)) (Add (Int 0) (Int 5))))) (Add (Div (Add (Int 29) (Add (Int -518258779) (Int 48))) (Div (Int -9) (Add (Int 108) (Int 3)))) (Add (Int -49) (Div (Add (Int 1) (Int -5)) (Int -8883))))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 358,
+    "seed": 413276130,
+    "original": "Div (Add (Div (Int -3) (Div (Int -49) (Div (Int 4319) (Int 45)))) (Int -47)) (Div (Div (Div (Div (Int 49) (Int -6)) (Add (Int 7) (Int -2))) (Int -1)) (Int -1))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 320,
+    "seed": 1258123287,
+    "original": "Div (Int -67) (Div (Int 45) (Div (Int 81) (Div (Div (Int 88) (Int 9617)) (Int 42))))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 439,
+    "seed": -1323962172,
+    "original": "Div (Div (Int 114) (Div (Div (Div (Int -11653) (Int -29)) (Add (Int 7) (Int -108))) (Add (Add (Int -70) (Int 0)) (Add (Int 5) (Int 13187))))) (Add (Int 22) (Add (Div (Div (Int -23) (Int -31)) (Add (Int -6) (Int -7))) (Add (Div (Int 4) (Int 86)) (Add (Int -62) (Int 62)))))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  },
+  {
+    "evaluations": 246,
+    "seed": 437144808,
+    "original": "Add (Add (Div (Div (Int 6) (Div (Int -7) (Int -124))) (Div (Int 1) (Int 23))) (Int -2)) (Div (Int 14728) (Int 125))",
+    "shrunk": "Div (Int 0) (Add (Int 0) (Int 0))"
+  },
+  {
+    "evaluations": 326,
+    "seed": 1925517035,
+    "original": "Div (Div (Div (Int 110) (Int -757186100)) (Div (Add (Add (Int -13009) (Int 123)) (Add (Int -7) (Int -77))) (Div (Int 10) (Int -51)))) (Add (Int -49) (Div (Div (Int -77) (Add (Int 6) (Int 0))) (Add (Int -124) (Div (Int 123) (Int -1)))))",
+    "shrunk": "Div (Int 0) (Div (Int 0) (Int 1))"
+  }
+]
