@@ -1,0 +1,13 @@
+# Report for {{.LibraryName}} shrinking on "{{.TestName}}"
+
+This report was generated with {{.LibraryName}} {{.LibraryVersion}}.
+
+## Normalization
+
+{{.LibraryName}} produced {{.DistinctCount}} distinct results in {{.TotalCount}} test runs.
+
+The most common were:
+
+{{range .Shrinks -}}
+- ``{{.Shrink}}`` ({{printf "%.2f" .ShrinkPercent}}%)
+{{end}}
