@@ -10,11 +10,12 @@ In particular, a shrinker cannot hope to normalise this unless it is able to eit
 ## Implementors
 
 | Library    | Code                                                                                                                        | Report                                                                          |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+|------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Americium  | [LargeUnionListTest.java](/pbt-libraries/americium/src/test/java/challenges/largeunionlist/LargeUnionListTest.java)         | [largeUnionList.md](/pbt-libraries/americium/reports/largeUnionList.md)         |
 | Hypothesis | [large_union_list.py](/pbt-libraries/hypothesis/challenges/large_union_list.py)                                             | [large_union_list.md](/pbt-libraries/hypothesis/challenges/large_union_list.md) |
 | jqwik      | [LargeUnionListProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/largeunionlist/LargeUnionListProperties.java) | [large_union_list.md](/pbt-libraries/jqwik/reports/large_union_list.md)         |
 | PropEr     | [large_union_list.erl](/pbt-libraries/proper/challenges/large_union_list.erl)                                               | [large_union_list.md](/pbt-libraries/proper/challenges/large_union_list.md)     |
 | FsCheck    | [LargeUnionList.fsx](/pbt-libraries/fscheck/challenges/LargeUnionList.fsx)                                                  | [LargeUnionList.md](/pbt-libraries/fscheck/challenges/LargeUnionList.md)        |
 | fast-check | [large_union_list.js](/pbt-libraries/fast-check/challenges/large_union_list.js)                                             | [large_union_list.md](/pbt-libraries/fast-check/reports/large_union_list.md)    |
-| CsCheck    |[ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L30)|[large_union_list.md](/pbt-libraries/cscheck/reports/large_union_list.md)|
-| elm-test   |[LargeUnionList.elm](/pbt-libraries/elm-test/src/Challenge/LargeUnionList.elm)|[largeUnionList.md](/pbt-libraries/elm-test/reports/largeUnionList.md)|
+| CsCheck    | [ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L30)                                         | [large_union_list.md](/pbt-libraries/cscheck/reports/large_union_list.md)       |
+| elm-test   | [LargeUnionList.elm](/pbt-libraries/elm-test/src/Challenge/LargeUnionList.elm)                                              | [largeUnionList.md](/pbt-libraries/elm-test/reports/largeUnionList.md)          |
