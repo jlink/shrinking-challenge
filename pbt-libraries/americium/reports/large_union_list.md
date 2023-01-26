@@ -1,21 +1,50 @@
-# Report for Americium Shrinking on "nestedlists"
+# Report for Americium Shrinking on "large union list"
 
-This report was generated with Americium 1.5.1
+This report was generated with Americium 1.8.2
 
 ## Normalization
 
 Americium currently uses a fixed internal randomisation seed, so always yields the same shrinkage:
 
-* ``[[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]]`` - casesLimit = 500
+* ``[[-2, 1, -1, 0, -3]]`` - casesLimit = 100
 
 ## Performance
 
-517 cases were run.
+2429 cases were run.
 
-78 successful runs were performed out of a limit of 500 successful cases, prior to the first failing case.
+Failing cases...
 
-1 + 5 = 6 runs then failed out of a subsequent shrinkage sequence of 517 - 78 = 439 runs, including the first failing case.
+[4] [[], [], [], [-1367005977], [], [-963135229, 1503300339, 1265385001, 445778542, 279436637]]
+Shrinking ... [6] [[-1630538966, 1198390371], [499196904, -440688866, -1859034913], []]
+Shrinking ... [26] [[], [1524949808, -1129337318, -1018328450, -522704458, -2101430303]]
+Shrinking ... [29] [[-349411554, -1754219990, -279726790, -809123029, 375587551, 382260506]]
+Shrinking ... [31] [[-531635540, -83450414, -1217431251, 330319298, 854465848, -239000305]]
+Shrinking ... [102] [[], [-409888290, 753191121, 365090825, -866654305, -475708709]]
+Shrinking ... [138] [[97181630, -244843970, -18534768, 338198992, -265919953, 243872435]]
+Shrinking ... [140] [[106836844, 333029072, -49767462, 127214066, -164083827]]
+Shrinking ... [157] [[-88659908, -8559530, -8904036, 27645124, -286390805]]
+Shrinking ... [258] [[-50566694, 142710776, -7403077, 21709302, -123041272]]
+Shrinking ... [359] [[-25809594, 91032979, -6523194, 13312983, -59613831]]
+Shrinking ... [460] [[-1601550, 38589896, -5411899, 12952007, -51552091]]
+Shrinking ... [561] [[-818135, 13130625, -967047, 9621586, -34548041]]
+Shrinking ... [662] [[-130396, 6200188, -107636, 8317786, -4971249]]
+Shrinking ... [762] [[-80229, 4316145, -28192, 7520685, -1346501]]
+Shrinking ... [863] [[-2790, 76787, -9903, 198039, -504611]]
+Shrinking ... [964] [[-630, 70317, -100, 2468, -190563]]
+Shrinking ... [1065] [[-462, 4905, -83, 929, -83058]]
+Shrinking ... [1166] [[-310, 4056, -80, 784, -11856]]
+Shrinking ... [1267] [[-152, 3381, -71, 420, -11796]]
+Shrinking ... [1368] [[-136, 3007, -14, 398, -11533]]
+Shrinking ... [1469] [[-85, 991, -11, 165, -3647]]
+Shrinking ... [1570] [[-75, 622, -7, 80, -266]]
+Shrinking ... [1671] [[-48, 580, -3, 10, -264]]
+Shrinking ... [1772] [[-32, 211, -1, 3, -82]]
+Shrinking ... [1873] [[-20, 79, -1, 0, -13]]
+Shrinking ... [1974] [[-12, 19, -1, 0, -7]]
+Shrinking ... [2075] [[-5, 7, -1, 0, -6]]
+Shrinking ... [2176] [[-2, 2, -1, 0, -3]]
+Shrinking ... [2329] [[-2, 1, -1, 0, -3]]
 
-The best shrunk case was followed by 517 - 515 = 2 successful cases in the shrinkage sequence.
+
 
 
