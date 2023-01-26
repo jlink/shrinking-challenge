@@ -12,7 +12,7 @@ public class CouplingTest {
     private final static TrialsApi api = Trials.api();
 
     private static final TrialsScaffolding.SupplyToSyntax<ImmutableList<Integer>> nonNegativeIntegers =
-            api.integers(0, 10).immutableLists().withStrategy((unused) -> CasesLimitStrategy.timed(Duration.ofSeconds(2)), TrialsScaffolding.OptionalLimits.defaults);
+            api.integers(0, 10).immutableLists().withStrategy(unused -> CasesLimitStrategy.timed(Duration.ofSeconds(2)), TrialsScaffolding.OptionalLimits.defaults);
 
     @ConfiguredTrialsTest("nonNegativeIntegers")
     void testThatAListIsWellFormed(List<Integer> sut) {
