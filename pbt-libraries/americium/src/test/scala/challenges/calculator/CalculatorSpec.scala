@@ -1,6 +1,6 @@
-package calculator
+package challenges.calculator
 
-import calculator.CalculatorSpec.{
+import CalculatorSpec.{
   checkDivisorsAreNonZeroIn,
   expressions,
   integersAreFractionalIfYouAreDesperateEnoughEvidence,
