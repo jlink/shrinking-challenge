@@ -14,7 +14,7 @@ This is essentially because small examples are "too sparse", so it's very hard t
 
 | Library   | Code                                                                                                   | Report                                                    |
 |-----------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| Americium | [HeapTest.java](/pbt-libraries/americium/src/test/java/challenges/binheap/HeapTest.java)               | [binHeap.md](/pbt-libraries/americium/reports/binheap.md) |
+| Americium | [HeapTest.java](/pbt-libraries/americium/src/test/java/challenges/binheap/HeapTest.java)               | [binheap.md](/pbt-libraries/americium/reports/binheap.md) |
 | jqwik     | [BinheapProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/binheap/BinheapProperties.java) | [binheap.md](/pbt-libraries/jqwik/reports/binheap.md)     |
 | CsCheck   | [ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L128)                   | [binheap.md](/pbt-libraries/cscheck/reports/binheap.md)   |
 | elm-test  | [BinHeap.elm](/pbt-libraries/elm-test/src/Challenge/BinHeap.elm)                                       | [binHeap.md](/pbt-libraries/elm-test/reports/binHeap.md)  |
