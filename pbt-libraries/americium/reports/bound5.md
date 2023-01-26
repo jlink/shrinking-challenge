@@ -14,6 +14,7 @@ Americium currently uses a fixed internal randomisation seed, so always yields t
 
 Failing cases...
 
+```
 0 - Shrinkage has found a failing case: (List(),List(),List(-28595),List(-23886, -30303, -22013),List(30386, 18619)) after 4 trials including this one.
 1 - Shrinkage has found a failing case: (List(),List(),List(),List(-23279, -5840),List(-10545, -23779, 17415)) after 5 trials including this one.
 2 - Shrinkage has found a failing case: (List(-26702),List(),List(-26693),List(),List()) after 6 trials including this one.
@@ -30,5 +31,5 @@ Failing cases...
 13 - Shrinkage has found a failing case: (List(),List(-16759),List(),List(-16088),List()) after 77813 trials including this one.
 14 - Shrinkage has found a failing case: (List(),List(-16805),List(),List(-15974),List()) after 181895 trials including this one.
 15 - Shrinkage has found a failing case: (List(),List(-16805),List(),List(-15974),List()) after 198841 trials including this one.
-
+```
 

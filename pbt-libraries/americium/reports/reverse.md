@@ -14,6 +14,7 @@ Americium currently uses a fixed internal randomisation seed, so always yields t
 
 Failing cases...
 
+```
 [1] [-1975667456, -54163312]
 Shrinking ... [12] [499196904, -440688866]
 Shrinking ... [14] [152991583, 420268187]
@@ -51,5 +52,4 @@ Shrinking ... [420] [0, -8]
 Shrinking ... [429] [0, -7]
 Shrinking ... [445] [0, -4]
 Shrinking ... [461] [0, -1]
-
-
+```
