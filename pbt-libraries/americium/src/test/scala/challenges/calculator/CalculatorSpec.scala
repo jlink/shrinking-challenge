@@ -1,13 +1,13 @@
 package challenges.calculator
 
-import CalculatorSpec.{
+import cats.implicits._
+import challenges.calculator.CalculatorSpec.{
   checkDivisorsAreNonZeroIn,
   expressions,
   integersAreFractionalIfYouAreDesperateEnoughEvidence,
   wellManneredExpressions,
   wellManneredExpressionsWithoutZeroConstants
 }
-import cats.implicits._
 import com.sageserpent.americium.java.CasesLimitStrategy
 import com.sageserpent.americium.{Factory, Trials}
 import org.scalatest.BeforeAndAfter
@@ -126,6 +126,8 @@ class CalculatorSpec extends AnyFlatSpec with Matchers with BeforeAndAfter {
   }
 
   before { testCaseCount = 0 }
+
+  after { println(s"Examined $testCaseCount cases in total.") }
 
   "an expression" should "fail only if the right hand operand evaluates to zero" in expressions
     .withStrategy(
