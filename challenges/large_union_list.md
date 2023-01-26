@@ -11,7 +11,7 @@ In particular, a shrinker cannot hope to normalise this unless it is able to eit
 
 | Library    | Code                                                                                                                        | Report                                                                          |
 |------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| Americium  | [LargeUnionListTest.java](/pbt-libraries/americium/src/test/java/challenges/largeunionlist/LargeUnionListTest.java)         | [largeUnionList.md](/pbt-libraries/americium/reports/largeUnionList.md)         |
+| Americium  | [LargeUnionListTest.java](/pbt-libraries/americium/src/test/java/challenges/largeunionlist/LargeUnionListTest.java)         | [largeUnionList.md](/pbt-libraries/americium/reports/large_union_list.md)       |
 | Hypothesis | [large_union_list.py](/pbt-libraries/hypothesis/challenges/large_union_list.py)                                             | [large_union_list.md](/pbt-libraries/hypothesis/challenges/large_union_list.md) |
 | jqwik      | [LargeUnionListProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/largeunionlist/LargeUnionListProperties.java) | [large_union_list.md](/pbt-libraries/jqwik/reports/large_union_list.md)         |
 | PropEr     | [large_union_list.erl](/pbt-libraries/proper/challenges/large_union_list.erl)                                               | [large_union_list.md](/pbt-libraries/proper/challenges/large_union_list.md)     |
