@@ -11,7 +11,7 @@ In particular the use of the length parameter is critical, and the challenge is 
 
 | Library    | Code                                                                                                            | Report                                                              |
 |------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| Americium  | [LengthListTest.java](/pbt-libraries/americium/src/test/java/challenges/lengthlist/LengthListTest.java)         | [lengthList.md](/pbt-libraries/americium/reports/lengthList.md)     |
+| Americium  | [LengthListTest.java](/pbt-libraries/americium/src/test/java/challenges/lengthlist/LengthListTest.java)         | [lengthlist.md](/pbt-libraries/americium/reports/lengthlist.md)     |
 | Hypothesis | [lengthlist.py](/pbt-libraries/hypothesis/challenges/lengthlist.py)                                             | [lengthlist.md](/pbt-libraries/hypothesis/challenges/lengthlist.md) |
 | jqwik      | [LengthListProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/lengthlist/LengthListProperties.java) | [lengthlist.md](/pbt-libraries/jqwik/reports/lengthlist.md)         |
 | PropEr     | [lengthlist.erl](/pbt-libraries/proper/challenges/lengthlist.erl)                                               | [lengthlist.md](/pbt-libraries/proper/challenges/lengthlist.md)     |
