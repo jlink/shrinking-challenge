@@ -16,8 +16,9 @@ a single list of 11 elements: `[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]`.
 ## Implementors
 
 | Library    | Code                                                                                                               | Report                                                             |
-| ---------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+|------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Americium  | [NestedListsTest.java](/pbt-libraries/americium/src/test/java/challenges/nestedlists/NestedListsTest.java)         | [nestedLists.md](/pbt-libraries/americium/reports/nestedLists.md)  |
 | jqwik      | [NestedListsProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/nestedlists/NestedListsProperties.java) | [nestedlists.md](/pbt-libraries/jqwik/reports/nestedlists.md)      |
 | fast-check | [nestedlist.js](/pbt-libraries/fast-check/challenges/nestedlists.js)                                               | [nestedlists.md](/pbt-libraries/fast-check/reports/nestedlists.md) |
-| CsCheck    |[ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L225)|[nestedlists.md](/pbt-libraries/cscheck/reports/nestedlists.md)|
-| elm-test   |[NestedLists.elm](/pbt-libraries/elm-test/src/Challenge/NestedLists.elm)|[nestedLists.md](/pbt-libraries/elm-test/reports/nestedLists.md)|
+| CsCheck    | [ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L225)                               | [nestedlists.md](/pbt-libraries/cscheck/reports/nestedlists.md)    |
+| elm-test   | [NestedLists.elm](/pbt-libraries/elm-test/src/Challenge/NestedLists.elm)                                           | [nestedLists.md](/pbt-libraries/elm-test/reports/nestedLists.md)   |

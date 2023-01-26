@@ -10,10 +10,11 @@ In particular the use of the length parameter is critical, and the challenge is 
 ## Implementors
 
 | Library    | Code                                                                                                            | Report                                                              |
-| ---------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+|------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Americium  | [LengthListTest.java](/pbt-libraries/americium/src/test/java/challenges/lengthlist/LengthListTest.java)         | [lengthList.md](/pbt-libraries/americium/reports/lengthList.md)     |
 | Hypothesis | [lengthlist.py](/pbt-libraries/hypothesis/challenges/lengthlist.py)                                             | [lengthlist.md](/pbt-libraries/hypothesis/challenges/lengthlist.md) |
 | jqwik      | [LengthListProperties.java](/pbt-libraries/jqwik/src/test/java/challenges/lengthlist/LengthListProperties.java) | [lengthlist.md](/pbt-libraries/jqwik/reports/lengthlist.md)         |
 | PropEr     | [lengthlist.erl](/pbt-libraries/proper/challenges/lengthlist.erl)                                               | [lengthlist.md](/pbt-libraries/proper/challenges/lengthlist.md)     |
 | fast-check | [lengthlist.js](/pbt-libraries/fast-check/challenges/lengthlist.js)                                             | [lengthlist.md](/pbt-libraries/fast-check/reports/lengthlist.md)    |
-| CsCheck    |[ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L93)|[lengthlist.md](/pbt-libraries/cscheck/reports/lengthlist.md)|
-| elm-test   |[LengthList.elm](/pbt-libraries/elm-test/src/Challenge/LengthList.elm)|[lengthList.md](/pbt-libraries/elm-test/reports/lengthList.md)|
+| CsCheck    | [ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L93)                             | [lengthlist.md](/pbt-libraries/cscheck/reports/lengthlist.md)       |
+| elm-test   | [LengthList.elm](/pbt-libraries/elm-test/src/Challenge/LengthList.elm)                                          | [lengthList.md](/pbt-libraries/elm-test/reports/lengthList.md)      |

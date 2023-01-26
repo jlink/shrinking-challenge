@@ -15,11 +15,11 @@ which would look somethink like `([-32768], [-1], [], [], [])`.
 
 ## Implementors
 
-| Library    | Code                                                                                                | Report                                                      |
-| ---------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| Hypothesis | [bound5.py](/pbt-libraries/hypothesis/challenges/bound5.py)                                         | [bound5.md](/pbt-libraries/hypothesis/challenges/bound5.md) |
-| jqwik      | [Bound5Properties.java](/pbt-libraries/jqwik/src/test/java/challenges/bound5/Bound5Properties.java) | [bound5.md](/pbt-libraries/jqwik/reports/bound5.md)         |
-| FsCheck    | [Bound5.fsx](/pbt-libraries/fscheck/challenges/Bound5.fsx)                                          | [bound5.md](/pbt-libraries/fscheck/challenges/bound5.md)    |
-| fast-check | [bound5.js](/pbt-libraries/fast-check/challenges/bound5.js)                                         | [bound5.md](/pbt-libraries/fast-check/reports/bound5.md)    |
-| CsCheck    |[ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L12)|[bound5.md](/pbt-libraries/cscheck/reports/bound5.md)|
-| elm-test   |[Bound5.elm](/pbt-libraries/elm-test/src/Challenge/Bound5.elm)|[bound5.md](/pbt-libraries/elm-test/reports/bound5.md)|
+| Library    | Code                                                                                                | Report                                                   |
+|------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| Americium  | [Bound5Spec.scala](/pbt-libraries/americium/src/test/scala/challenges/bound5/Bound5Spec.scala)      | [bound5.md](/pbt-libraries/americium/reports/bound5.md)  || Hypothesis | [bound5.py](/pbt-libraries/hypothesis/challenges/bound5.py)                                         | [bound5.md](/pbt-libraries/hypothesis/challenges/bound5.md) |
+| jqwik      | [Bound5Properties.java](/pbt-libraries/jqwik/src/test/java/challenges/bound5/Bound5Properties.java) | [bound5.md](/pbt-libraries/jqwik/reports/bound5.md)      |
+| FsCheck    | [Bound5.fsx](/pbt-libraries/fscheck/challenges/Bound5.fsx)                                          | [bound5.md](/pbt-libraries/fscheck/challenges/bound5.md) |
+| fast-check | [bound5.js](/pbt-libraries/fast-check/challenges/bound5.js)                                         | [bound5.md](/pbt-libraries/fast-check/reports/bound5.md) |
+| CsCheck    | [ShrinkingChallengeTests.cs](/pbt-libraries/cscheck/ShrinkingChallengeTests.cs#L12)                 | [bound5.md](/pbt-libraries/cscheck/reports/bound5.md)    |
+| elm-test   | [Bound5.elm](/pbt-libraries/elm-test/src/Challenge/Bound5.elm)                                      | [bound5.md](/pbt-libraries/elm-test/reports/bound5.md)   |
