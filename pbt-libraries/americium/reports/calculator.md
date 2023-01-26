@@ -16,6 +16,7 @@ Americium currently uses a fixed internal randomisation seed, so always yields t
 
 Failing cases...
 
+```
 0 - Shrinkage has found a failing case: Division(Constant(-532349377),Division(Constant(-326121969),Constant(1535144871))) after 42 trials including this one.
 1 - Shrinkage has found a failing case: Division(Constant(-1176863010),Division(Constant(518374164),Constant(640720608))) after 1220 trials including this one.
 2 - Shrinkage has found a failing case: Division(Constant(624694709),Division(Constant(-691444503),Constant(-719201348))) after 2205 trials including this one.
@@ -69,6 +70,7 @@ Failing cases...
 50 - Shrinkage has found a failing case: Division(Constant(1),Addition(Constant(0),Constant(0))) after 18410 trials including this one.
 51 - Shrinkage has found a failing case: Division(Constant(0),Addition(Constant(0),Constant(0))) after 18412 trials including this one.
 52 - Shrinkage has found a failing case: Division(Constant(0),Addition(Constant(0),Constant(0))) after 18412 trials including this one.
+```
 
 The second report uses `BigDecimal` to prevent trivial evaluation of zero by truncation, but still allows explicit zero constant terms.
 
@@ -84,6 +86,7 @@ Americium currently uses a fixed internal randomisation seed, so always yields t
 
 Failing cases...
 
+```
 0 - Shrinkage has found a failing case: Addition(Constant(-728),Addition(Addition(Addition(Addition(Division(Constant(707),Addition(Constant(-826),Constant(820))),Division(Constant(-15),Addition(Constant(-295),Constant(295)))),Constant(-657)),Constant(485)),Constant(-959))) after 3825 trials including this one.
 1 - Shrinkage has found a failing case: Division(Division(Constant(-463),Division(Constant(0),Constant(-166))),Constant(-482)) after 10479 trials including this one.
 2 - Shrinkage has found a failing case: Division(Constant(-734),Division(Constant(0),Constant(569))) after 13272 trials including this one.
@@ -100,6 +103,7 @@ Failing cases...
 13 - Shrinkage has found a failing case: Division(Constant(0),Division(Constant(0),Constant(3))) after 92836 trials including this one.
 14 - Shrinkage has found a failing case: Division(Constant(0),Division(Constant(0),Constant(1))) after 92837 trials including this one.
 15 - Shrinkage has found a failing case: Division(Constant(0),Division(Constant(0),Constant(1))) after 106509 trials including this one.
+```
 
 The third report uses `BigDecimal` and forbids the use of explicit zero constant terms.
 
@@ -115,6 +119,7 @@ Americium currently uses a fixed internal randomisation seed, so always yields t
 
 Failing cases...
 
+```
 0 - Shrinkage has found a failing case: Division(Division(Constant(-780),Constant(-46)),Addition(Constant(-231),Constant(231))) after 2278 trials including this one.
 1 - Shrinkage has found a failing case: Division(Constant(885),Addition(Constant(-257),Constant(257))) after 8223 trials including this one.
 2 - Shrinkage has found a failing case: Division(Constant(885),Addition(Constant(-257),Constant(257))) after 22139 trials including this one.
@@ -136,3 +141,4 @@ Failing cases...
 18 - Shrinkage has found a failing case: Division(Constant(1),Addition(Constant(-1),Constant(1))) after 119038 trials including this one.
 19 - Shrinkage has found a failing case: Division(Constant(-1),Addition(Constant(-1),Constant(1))) after 119040 trials including this one.
 20 - Shrinkage has found a failing case: Division(Constant(-1),Addition(Constant(-1),Constant(1))) after 131476 trials including this one.
+```
