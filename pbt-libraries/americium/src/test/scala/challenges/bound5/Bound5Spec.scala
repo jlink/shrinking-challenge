@@ -52,7 +52,7 @@ class Bound5Spec extends AnyFlatSpec with Matchers with BeforeAndAfter {
 
   after { println(s"Examined $testCaseCount cases in total.") }
 
-  "the sum" should "be nor more than five times the limit on the individual sums" in {
+  "the sum" should "be no more than five times the limit on the individual sums" in {
     quintuples
       .withStrategy(
         caseSupplyCycle =>
