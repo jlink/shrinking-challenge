@@ -6,7 +6,7 @@ The first report permits expressions to evaluate to zero by way of integer divis
 
 ## Normalization
 
-Americium currently uses a fixed internal randomisation seed, so always yields the same shrinkage:
+Americium currently uses a fixed internal randomisation seed, but due to timing variation, the shrinkage may vary. Repeated runs always converge on the same shrunk test case:
 
 * ``Division(Constant(0),Addition(Constant(0),Constant(0)))`` - 5 seconds budget, repeated for each successive shrinkage cycle.
 
@@ -76,7 +76,7 @@ The second report uses `BigDecimal` to prevent trivial evaluation of zero by tru
 
 ## Normalization
 
-Americium currently uses a fixed internal randomisation seed, so always yields the same shrinkage:
+Americium currently uses a fixed internal randomisation seed, but due to timing variation, the shrinkage may vary. Repeated runs always converge on the same shrunk test case:
 
 * ``Division(Constant(0),Division(Constant(0),Constant(1)))`` - 5 seconds budget, repeated for each successive shrinkage cycle.
 
@@ -109,7 +109,7 @@ The third report uses `BigDecimal` and forbids the use of explicit zero constant
 
 ## Normalization
 
-Americium currently uses a fixed internal randomisation seed, so always yields the same shrinkage:
+Americium currently uses a fixed internal randomisation seed, but due to timing variation, the shrinkage may vary. Repeated runs always converge on the same shrunk test case:
 
 * ``Division(Constant(-1),Addition(Constant(-1),Constant(1)))`` - 5 seconds budget, repeated for each successive shrinkage cycle.
 

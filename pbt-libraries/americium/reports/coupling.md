@@ -4,7 +4,7 @@ This report was generated with Americium 1.8.2
 
 ## Normalization
 
-Americium currently uses a fixed internal randomisation seed, so always yields the same shrinkage:
+Americium currently uses a fixed internal randomisation seed, and in this case timing variations make no difference, so shrinkage always proceeds the same way to the same result:
 
 * ``[1, 0]`` - 2 seconds budget, repeated for each successive shrinkage cycle.
 
