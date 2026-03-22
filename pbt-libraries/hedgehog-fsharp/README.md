@@ -4,4 +4,5 @@
 
 ## Implemented Challenges
 
+- [reverse](/pbt-libraries/hedgehog-fsharp/challenges/reverse.fsx)
 - [length list](/pbt-libraries/hedgehog-fsharp/challenges/length_list.fsx)
