@@ -45,7 +45,7 @@ PBT libraries usually follow one of two approaches:
 - Shrinking behaviour is automatically derived from a generator's specification.
   This is more convenient for users but may result in worse shrinking results in some cases.
 
-Another characteristic to differentiate between shrinking approaches is  
+Another characteristic to differentiate between shrinking approaches is
 [type-based versus integrated shrinking](https://hypothesis.works/articles/integrated-shrinking/).
 
 ## Challenges
@@ -76,6 +76,7 @@ which contains the code and data relevant to
 - [elm-test](/pbt-libraries/elm-test/README.md)
 - [fast-check](/pbt-libraries/fast-check/README.md)
 - [FsCheck](/pbt-libraries/fscheck/README.md)
+- [Hedgehog F#](/pbt-libraries/hedgehog-fsharp/README.md)
 - [Hypothesis](/pbt-libraries/hypothesis/README.md)
 - [jqwik](/pbt-libraries/jqwik/README.md)
 - [PropEr](/pbt-libraries/proper/README.md)
